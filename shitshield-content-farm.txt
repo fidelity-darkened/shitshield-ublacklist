@@ -1,0 +1,19 @@
+# Title: shitshield-content-farm
+# Last updated: 2024-04-28
+# Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
+
+*://*.1applehealth.com/*
+*://*.6parkbbs.com/*
+*://*.adaymag.com/*
+*://*.daydaynews.cc/*
+*://*.easyatm.com.tw/*
+*://*.mobile01.com/*
+*://*.min.news/*
+*://*.mingyanjiaju.org/*
+*://*.csdn.net/*
+*://*.cwyan.com/*
+*://jendow.com.tw/*
+*://auzhu.com/*
+*://bad.news/*
+*://*.zhizhiguan.com/*
+*://*.factpedia.org/*
