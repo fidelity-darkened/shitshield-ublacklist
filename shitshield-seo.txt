@@ -138,11 +138,13 @@
 *://*.hw712.com/*
 *://*.hzdwad.com/*
 *://*.ichacha.net/*
+*://*.idownloadblog.com/*
 *://*.ifuun.com/*
 *://*.igeeksblog.com/*
 *://*.igotojapan.com/*
 *://*.iitjeepage.buzz/*
 *://*.imobie.com/*
+*://*.imyfone.com/*
 *://*.inewsdb.com/*
 *://*.inf.news/*
 *://*.infoabsolute.com/*
@@ -182,7 +184,7 @@
 *://*.komando.com/*
 *://*.kukicoso.online/*
 *://*.kybourbonbelle.buzz/*
-*://*.lead.gxhuaying.com/*
+*://*.labnol.org/*
 *://*.lettoknow.com/*
 *://*.liangfaner.com/*
 *://*.lifescienceglobal.com/*
@@ -205,6 +207,8 @@
 *://*.lujuba.cc/*
 *://*.macgasm.net/*
 *://*.mackeeper.com/blog/*
+*://*.macpaw.com/blog/*
+*://*.macpaw.com/how-to/*
 *://*.macsonik.com/blog/*
 *://*.macuncle.com/blog/*
 *://*.magustools.com/*
@@ -358,6 +362,9 @@
 *://*.techviral.net/*
 *://*.techwalla.com/*
 *://*.techwiser.com/*
+*://*.techy.how/news/*
+*://*.techy.how/tutorials/*
+*://*.techy.how/templates/*
 *://*.tecmint.com/*
 *://*.tekdeeps.com/*
 *://*.tekkigurus.com/*
@@ -395,6 +402,7 @@
 *://*.ultfone.com/*
 *://*.uniserveit.com/blog/*
 *://*.unixtutorial.org/*
+*://*.unlockboot.com/*
 *://*.uptodown.com/*
 *://*.ustrendpulse.site/*
 *://*.vaasotaa.buzz/*
@@ -408,9 +416,8 @@
 *://*.vidmore.com/*
 *://*.viwizard.com/*
 *://*.w0eqd.cn/*
-*://*.w3schools.com/*
 *://*.wall-designers.buzz/*
-*://*.washingtontimes.com/*
+*://*.wccftech.com/*
 *://*.webnedio.com/*
 *://*.webnots.com/*
 *://*.weeom.com/blog/*
@@ -539,6 +546,5 @@
 *://xtraxtor.com/blog/*
 *://yourmarketingpeople.com/blog/*
 *://zapier.com/blog/*
-/*+\.techy\.how\/(news|tutorials|templates)/
 /avast\.com\/c-/
 /verywell(mind|family|health)\.com/
