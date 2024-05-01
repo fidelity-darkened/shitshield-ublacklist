@@ -411,6 +411,9 @@
 *://*.vdocipher.com/blog/*
 *://*.verenerjiyi.online/*
 *://*.veritone.com/blog/*
+*://*.verywellmind.com/*
+*://*.verywellfamily.com/*
+*://*.verywellhealth.com/*
 *://*.videoconverterfactory.com/tips/*
 *://*.videohunter.net/*
 *://*.vidmore.com/*
@@ -547,4 +550,3 @@
 *://yourmarketingpeople.com/blog/*
 *://zapier.com/blog/*
 /avast\.com\/c-/
-/verywell(mind|family|health)\.com/
