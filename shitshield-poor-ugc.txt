@@ -4,6 +4,7 @@
 
 *://*.163.com/dy/article/*
 *://discussions.apple.com/*
+*://*.brainly.com/question/*
 *://support.google.com/*/thread/*
 *://*.linkedin.com/pulse/*
 *://techcommunity.microsoft.com/*
