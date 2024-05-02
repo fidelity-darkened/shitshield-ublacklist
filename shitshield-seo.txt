@@ -38,17 +38,20 @@
 *://*.blazeo.com/blog/*
 *://*.bloggersideas.com/*
 *://*.bluebillywig.com/knowledge-hub/*
+*://*.bluleadz.com/blog/*
 *://*.brainstorminc.com/blog/*
 *://*.brave.com/learn/*
 *://*.breakinglatest.news/*
 *://*.brighterguide.com/*
 *://*.browserhow.com/*
 *://*.canto.com/blog/*
-*://*.carlcare.com/ke/tips-detail/*
+*://*.carlcare.com/*/tips-detail/*
 *://*.cashify.in/*
 *://*.castr.com/blog/*
 *://*.ccm.net/*
 *://*.cee-trust.org/*
+*://*.cellphonerepair.com/*
+*://*.cheq.ai/blog/*
 *://*.cigatisolutions.com/blog/*
 *://*.cisdem.com/resource/*
 *://*.clario.co/blog/*
@@ -101,6 +104,7 @@
 *://*.eehelp.com/*
 *://*.eeq8.com/*
 *://*.electronicshub.org/*
+*://*.eloking.com/blog/*
 *://*.emaildoctor.org/blog/*
 *://*.enerjibaba.online/*
 *://*.esofttools.com/blog/*
@@ -184,6 +188,7 @@
 *://*.imagekit.io/blog/*
 *://*.imobie.com/*
 *://*.imyfone.com/*
+*://*.indeed.com/career-advice/*
 *://*.infoabsolute.com/*
 *://*.infoinspired.com/*
 *://*.infopackets.com/*
@@ -215,6 +220,7 @@
 *://*.kapook.com/*
 *://*.kikinote.net/*
 *://*.kimbaktiki.online/*
+*://*.kinsta.com/knowledgebase/*
 *://*.kirkville.com/*
 *://*.kkplay3c.net/*
 *://*.knowmore.cc/*
@@ -222,6 +228,7 @@
 *://*.kukicoso.online/*
 *://*.kybourbonbelle.buzz/*
 *://*.labnol.org/*
+*://*.lagofast.com/en/blog/*
 *://*.lettoknow.com/*
 *://*.liangfaner.com/*
 *://*.lifescienceglobal.com/*
@@ -242,6 +249,7 @@
 *://*.logindrive.com/*
 *://*.loginports.com/*
 *://*.loginwiz.com/*
+*://blog.loltheory.gg/*
 *://*.lookeen.com/blog/*
 *://*.ludwig.guru/blog/*
 *://*.lujuba.cc/*
@@ -261,6 +269,7 @@
 *://*.makersaid.com/*
 *://*.maketecheasier.com/*
 *://*.makeuseof.com/*
+*://*.malcare.com/blog/*
 *://*.medicalnewstoday.com/*
 *://*.mefmobile.org/*
 *://*.michaelpage.com/advice/*
@@ -271,6 +280,7 @@
 *://*.mobigyaan.com/*
 *://*.mobileai.net/*
 *://*.modify.in.th/*
+*://*.moesif.com/blog/*
 *://*.moneyinc.com/*
 *://*.monicagranbois.com/blog/*
 *://*.moutaileasing.com/*
@@ -278,6 +288,7 @@
 *://*.mrqdhr.buzz/*
 *://*.mrsharepoint.guru/*
 *://*.msoutlooktools.com/blogs/*
+*://*.mspoweruser.com/*
 *://*.mundomavala.buzz/*
 *://*.mvorganizing.org/*
 *://*.myorlandoac.buzz/*
@@ -298,6 +309,7 @@
 *://*.obsbot.com/blog/*
 *://*.offthemrkt.com/*
 *://*.onetimesoft.com/blog/*
+*://blog.online-convert.com/*
 *://*.online-tech-tips.com/*
 *://*.onlinetauck.buzz/*
 *://*.onmsft.com/*
@@ -363,6 +375,7 @@
 *://*.shoutmetech.com/*
 *://*.si-sv3401.com/*
 *://*.simplehow.tips/*
+*://*.sitelock.com/blog/*
 *://*.slant.co/*
 *://*.slipstick.com/*
 *://*.slothytech.com/*
@@ -391,8 +404,10 @@
 *://*.streamyard.com/blog/*
 *://*.studiobinder.com/blog/*
 *://*.studytonight.com/*
+*://blog.sucuri.net/*
 *://blog.superhuman.com/*
 *://*.supportyourtech.com/*
+*://*.surfshark.com/blog/*
 *://*.sysconverter.com/blog/*
 *://*.syscurve.com/blog/*
 *://*.sysessential.com/blog/*
@@ -450,6 +465,7 @@
 *://*.telegram360.net/*
 *://*.tellerreport.com/*
 *://*.tenorshare.com/*
+*://*.textexpander.com/blog/*
 *://*.theandroidmirror.com/*
 *://*.theandroidportal.com/*
 *://*.thebalancemoney.com/*
@@ -460,9 +476,11 @@
 *://*.thegeekpage.com/*
 *://*.thegoneapp.com/*
 *://*.thelinuxuser.com/*
+*://*.themeisle.com/blog/*
 *://*.themuse.com/advice/*
 *://*.thenina.com/*
 *://*.thesoldiersproject.org/*
+*://*.thespike.gg/*
 *://*.thestartupfounder.com/*
 *://*.thetechedvocate.org/*
 *://*.thetechmirror.com/*
