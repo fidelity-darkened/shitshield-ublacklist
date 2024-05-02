@@ -352,7 +352,6 @@
 *://*.techpowerup.com/*
 *://*.techprevue.com/*
 *://*.techprojournal.com/*
-*://*.techradar.com/*
 *://*.techshasthra.com/*
 *://*.techsupportall.com/*
 *://*.techunwrapped.com/*
