@@ -1,5 +1,5 @@
 # Title: shitshield-content-farm
-# Last updated: 2024-05-01
+# Last updated: 2024-05-02
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.1applehealth.com/*
@@ -44,6 +44,7 @@
 *://*.dianwanjun.com/*
 *://*.djyxw.com/*
 *://*.dongjingyan.com/*
+*://news.duote.com/*
 *://*.easyatm.com.tw/*
 *://*.factpedia.org/*
 *://*.faluji.com/*
@@ -70,6 +71,10 @@
 *://*.guowenzhai.com/*
 *://*.gwjzb.com/*
 *://*.hhbky.com/*
+*://*.hnh.cc/*
+*://*.ifuun.com/*
+*://*.inewsdb.com/*
+*://*.inf.news/*
 *://*.jdyxg.com/*
 *://*.jendow.com.tw/*
 *://*.jianliguan.com/*
@@ -87,6 +92,7 @@
 *://*.kkjlw.com/*
 *://*.kknews.cc/*
 *://*.kkyyg.com/*
+*://*.kolauthor.com/*
 *://*.kpzsz.com/*
 *://*.kuzhiba.com/*
 *://*.kxshz.com/*
@@ -105,6 +111,7 @@
 *://*.mdkpw.com/*
 *://*.mdshb.com/*
 *://*.mdzzw.com/*
+*://*.mediatagtw.com/*
 *://*.meifafan.com/*
 *://*.meiweizhan.com/*
 *://*.mgzwm.com/*
@@ -120,6 +127,9 @@
 *://*.mrxyw.com/*
 *://*.mwjyg.com/*
 *://*.nanjuefeng.com/*
+*://*.newskks.com/*
+*://*.newsnpr.org/*
+*://*.newsrnd.com/*
 *://*.newton.com.tw/*
 *://*.nichengzhan.com/*
 *://*.pinweifeng.com/*
