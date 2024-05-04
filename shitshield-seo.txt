@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2024-05-02
+# Last updated: 2024-05-03
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10scopes.com/*
@@ -10,6 +10,7 @@
 *://*.a3erf.com/*
 *://*.abancommercials.com/*
 *://*.acethinker.com/*
+*://*.acumenitsupport.com/blog/*
 *://*.addictivetips.com/*
 *://*.addresources.org/*
 *://*.adlock.com/blog/*
@@ -60,6 +61,7 @@
 *://*.codecoda.com/en/blog/*
 *://*.codegrepper.com/*
 *://*.comicck.com/*
+*://*.communicationsquare.com/news/*
 *://*.comparitech.com/*
 *://*.compsuccess.com/*
 *://*.computerhope.com/*
@@ -107,7 +109,10 @@
 *://*.eloking.com/blog/*
 *://*.emaildoctor.org/blog/*
 *://*.enerjibaba.online/*
+*://*.endsight.net/blog/*
+*://*.enigmasoftware.com/*
 *://*.esofttools.com/blog/*
+*://*.expediencesoftware.com/blog/*
 *://*.expel.com/blog/*
 *://*.experts-exchange.com/*
 *://*.extendoffice.com/*
@@ -141,9 +146,11 @@
 *://*.geeksadvice.com/*
 *://*.geeksforgeeks.org/*
 *://*.gemoo.com/*
+*://*.genmar.co.uk/blog/*
 *://*.getapp.com/*
 *://*.getapp.ie/*
 *://*.getdroidtips.com/*
+*://*.getmailbird.com/*
 *://*.gooood.cn/*
 *://*.got-it.ai/*
 *://*.gotechug.com/*
@@ -176,12 +183,14 @@
 *://*.howtodoninja.com/*
 *://*.hscrystal.buzz/*
 *://blog.hubspot.com/*
+*://services.hummingbirdnetworks.com/blog/*
 *://*.huratips.com/*
 *://*.hursasxo.online/*
 *://*.hw712.com/*
 *://*.hygraph.com/blog/*
 *://*.hzdwad.com/*
 *://*.idownloadblog.com/*
+*://*.iesgp.com/blog/*
 *://*.igeeksblog.com/*
 *://*.igotojapan.com/*
 *://*.iitjeepage.buzz/*
@@ -270,6 +279,8 @@
 *://*.maketecheasier.com/*
 *://*.makeuseof.com/*
 *://*.malcare.com/blog/*
+*://*.martellotech.com/blog/*
+*://blog.mdaemon.com/*
 *://*.medicalnewstoday.com/*
 *://*.mefmobile.org/*
 *://*.michaelpage.com/advice/*
@@ -297,6 +308,7 @@
 *://*.nairaland.com/*
 *://*.nambanation.com/*
 *://*.napkforpc.com/*
+*://*.nakivo.com/blog/*
 *://*.negeri.live/*
 *://*.nengajou.buzz/*
 *://*.nerdschalk.com/*
@@ -308,6 +320,7 @@
 *://*.nucleustechnologies.com/blog/*
 *://*.obsbot.com/blog/*
 *://*.offthemrkt.com/*
+*://*.oitc.ca/blog/*
 *://*.onetimesoft.com/blog/*
 *://blog.online-convert.com/*
 *://*.online-tech-tips.com/*
@@ -332,6 +345,7 @@
 *://*.poonchunyuen.com/*
 *://*.portal-god.com/*
 *://*.ppfocus.com/*
+*://*.printerlogic.com/blog/*
 *://*.privacysavvy.com/news/*
 *://*.probleme.app/*
 *://*.process.st/how-to/*
@@ -365,6 +379,7 @@
 *://*.sawyerlosangeles.com/*
 *://*.securedyou.com/*
 *://*.sellyourmac.com/mac-blog/*
+*://*.semrush.com/blog/*
 *://*.setapp.com/how-to/*
 *://*.sgss8.net/*
 *://*.shanyouxi.cn/*
@@ -382,8 +397,8 @@
 *://*.softakensoftware.com/blog/*
 *://*.softstribe.com/*
 *://*.softwarebrother.com/*
+*://*.softwareg.com.au/blogs/*
 *://*.softwarehow.com/*
-*://*.softwarekeep.com/*
 *://*.softwarekeep.com/blogs/*
 *://*.softwaretestinghelp.com/*
 *://*.softwaretesttips.com/*
@@ -527,6 +542,7 @@
 *://*.unictool.com/*
 *://*.uniserveit.com/blog/*
 *://*.unixtutorial.org/*
+*://*.unleash.so/a/blog/*
 *://*.unlockboot.com/*
 *://*.ustrendpulse.site/*
 *://*.vaasotaa.buzz/*
@@ -541,6 +557,7 @@
 *://*.videoconverterfactory.com/tips/*
 *://*.videohunter.net/*
 *://*.vidmore.com/*
+*://*.vintageits.com/*
 *://*.viwizard.com/*
 *://*.wall-designers.buzz/*
 *://*.wamsinc.com/*
@@ -571,6 +588,7 @@
 *://*.wondershare.com/*
 *://*.woshub.com/*
 *://*.wowza.com/blog/*
+*://*.wp-rocket.me/blog/*
 *://*.xenconverter.com/blog/*
 *://*.xiaozhishi.net/*
 *://*.xjishu.com/*
