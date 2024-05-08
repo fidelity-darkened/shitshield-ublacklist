@@ -19,6 +19,7 @@
 *://*.aicontentfy.com/en/blog/*
 *://*.airdroid.com/*
 *://*.akhbara24.news/*
+*://*.allthings.how/*
 *://*.alltop9.com/*
 *://*.alphr.com/*
 *://*.alvarotrigo.com/*
@@ -27,6 +28,7 @@
 *://*.anyrecover.com/*
 *://*.api.video/blog/*
 *://*.appgeeker.com/*
+*://*.appletoolbox.com/*
 *://*.appli-huguai-matome.com/*
 *://*.appslova.com/*
 *://*.appuals.com/*
@@ -40,6 +42,7 @@
 *://*.bloggersideas.com/*
 *://*.bluebillywig.com/knowledge-hub/*
 *://*.bluleadz.com/blog/*
+*://*.boostitco.com/blog/*
 *://*.brainstorminc.com/blog/*
 *://*.brave.com/learn/*
 *://*.breakinglatest.news/*
@@ -112,6 +115,7 @@
 *://*.endsight.net/blog/*
 *://*.enigmasoftware.com/*
 *://*.esofttools.com/blog/*
+*://*.esrgear.com/blog/*
 *://*.expediencesoftware.com/blog/*
 *://*.expel.com/blog/*
 *://*.experts-exchange.com/*
@@ -181,6 +185,7 @@
 *://*.hometagtw.com/*
 *://*.how2shout.com/*
 *://*.howtodoninja.com/*
+*://*.howtoisolve.com/*
 *://*.hscrystal.buzz/*
 *://blog.hubspot.com/*
 *://services.hummingbirdnetworks.com/blog/*
@@ -194,6 +199,7 @@
 *://*.igeeksblog.com/*
 *://*.igotojapan.com/*
 *://*.iitjeepage.buzz/*
+*://*.ikream.com/*
 *://*.imagekit.io/blog/*
 *://*.imobie.com/*
 *://*.imyfone.com/*
@@ -210,6 +216,8 @@
 *://*.iphonebackupextractor.com/*
 *://*.iphonelife.com/*
 *://*.isitwp.com/*
+*://*.isumsoft.com/*
+*://*.isunshare.com/*
 *://*.itechbrand.com/*
 *://*.itechguides.com/*
 *://*.itechhacks.com/*
@@ -218,6 +226,7 @@
 *://*.itgeared.com/*
 *://*.itgenius.com/*
 *://*.itigic.com/*
+*://*.itoolab.com/*
 *://*.itprospt.com/*
 *://*.itsfoss.com/*
 *://*.ivankyo.com/*
@@ -332,6 +341,7 @@
 *://*.outlookappins.com/*
 *://*.pagetraffic.com/*
 *://*.partitionwizard.com/*
+*://*.payetteforward.com/*
 *://*.pc123.hao739.com/*
 *://*.pcerror-fix.com/*
 *://blog.pcloud.com/*
@@ -436,6 +446,7 @@
 *://*.tech-faq.com/*
 *://*.techadvisor.com/*
 *://*.techbeezer.com/*
+*://*.techbout.com/*
 *://*.techcult.com/*
 *://*.techdator.net/*
 *://*.techdipper.com/*
@@ -513,6 +524,7 @@
 *://*.trendywebz.com/*
 *://*.trustedreviews.com/*
 *://*.trustsu.com/*
+*://*.tuneskit.com/*
 *://*.turgs.com/blog/*
 *://*.tutorialspoint.com/*
 *://*.tweaklibrary.com/*
@@ -570,6 +582,7 @@
 *://*.wethegeek.com/*
 *://*.whatsabyte.com/*
 *://*.whichvoip.com/articles/*
+*://*.whistleout.com/CellPhones/Guides/*
 *://*.wikidiff.com/*
 *://*.winaero.com/*
 *://*.winbuzzer.com/*
@@ -586,6 +599,7 @@
 *://*.wisestamp.com/blog/*
 *://*.wistia.com/learn/*
 *://*.wondershare.com/*
+*://*.wootechy.com/*
 *://*.woshub.com/*
 *://*.wowza.com/blog/*
 *://*.wp-rocket.me/blog/*
