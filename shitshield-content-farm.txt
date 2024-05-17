@@ -1,5 +1,5 @@
 # Title: shitshield-content-farm
-# Last updated: 2024-05-02
+# Last updated: 2024-05-17
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.1applehealth.com/*
@@ -16,10 +16,12 @@
 *://*.bkdqb.com/*
 *://*.bkqsg.com/*
 *://*.bkzsb.com/*
+*://*.bomb01.com/*
 *://*.bowengu.com/*
 *://*.boxueji.com/*
 *://*.bqfwx.com/*
 *://*.bqwxb.com/*
+*://*.buzzhand.com/*
 *://*.bxshb.com/*
 *://*.caihuadu.com/*
 *://*.caihuazhai.com/*
@@ -31,6 +33,7 @@
 *://*.chaoxiufan.com/*
 *://*.chuangfudu.com/*
 *://*.chuangfuguan.com/*
+*://*.coco01.net/*
 *://*.csbkg.com/*
 *://*.csdn.net/*
 *://*.cwyan.com/*
@@ -46,6 +49,8 @@
 *://*.dongjingyan.com/*
 *://news.duote.com/*
 *://*.easyatm.com.tw/*
+*://*.eazon.com/*
+*://*.ezvivi.com/*
 *://*.factpedia.org/*
 *://*.faluji.com/*
 *://*.falvzhan.com/*
@@ -104,6 +109,7 @@
 *://*.lgxzw.com/*
 *://*.liangliwang.com/*
 *://*.liaoliwu.com/*
+*://*.life.tw/*
 *://*.lingxiufan.com/*
 *://*.llsnw.com/*
 *://*.llssg.com/*
@@ -132,6 +138,7 @@
 *://*.newsrnd.com/*
 *://*.newton.com.tw/*
 *://*.nichengzhan.com/*
+*://*.onefunnyjoke.com/*
 *://*.pinweifeng.com/*
 *://*.pplzw.com/*
 *://*.qianweizui.com/*
@@ -142,13 +149,16 @@
 *://*.read01.com/*
 *://*.rlnxw.com/*
 *://*.ruiliguan.com/*
+*://*.shareba.com/*
 *://*.shimaogu.com/*
 *://*.shimaoguan.com/*
 *://*.shimaozhai.com/*
 *://*.shishangdong.com/*
 *://*.smyyj.com/*
 *://*.ssnxf.com/*
+*://*.teepr.com/*
 *://*.twgreatdaily.com/*
+*://*.viralane.com/*
 *://*.wangminggu.com/*
 *://*.wangmingguan.com/*
 *://*.waxzz.com/*
