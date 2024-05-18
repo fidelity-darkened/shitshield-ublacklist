@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2024-05-17
+# Last updated: 2024-05-18
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.365tips.be/*
@@ -42,6 +42,7 @@
 *://*.beebom.com/*
 *://*.bettersolutions.com/*
 *://*.bitrecover.com/blog/*
+*://*.blackview.hk/blog/*
 *://*.blazeo.com/blog/*
 *://*.bloggersideas.com/*
 *://*.bluebillywig.com/knowledge-hub/*
@@ -140,6 +141,8 @@
 *://*.fluentu.com/*
 *://*.flynav.com/*
 *://*.followchain.org/*
+*://*.fonedog.com/*
+*://*.fonegeek.com/*
 *://*.fonelab.com/*
 *://*.fonetool.com/*
 *://*.foodlife.blog/*
@@ -203,6 +206,7 @@
 *://*.how2shout.com/*
 *://*.howtodoninja.com/*
 *://*.howtoisolve.com/*
+*://*.howly.com/*
 *://*.hscrystal.buzz/*
 *://blog.hubspot.com/*
 *://services.hummingbirdnetworks.com/blog/*
@@ -353,6 +357,7 @@
 *://*.nambanation.com/*
 *://*.napkforpc.com/*
 *://*.nasstar.com/hub/blog/*
+*://*.navthemes.com/*
 *://*.negeri.live/*
 *://*.nengajou.buzz/*
 *://*.nerdschalk.com/*
@@ -413,6 +418,7 @@
 *://*.pureinfotech.com/*
 *://*.purevpn.com/blog/*
 *://*.pythonfixing.com/*
+*://*.qontak.com/*/blog/*
 *://*.quick-adviser.com/*
 *://*.quoramarketing.com/*
 *://*.race.com/blog/*
@@ -432,6 +438,7 @@
 *://*.rowdytech.com/*
 *://*.runoob.com/*
 *://*.saintlad.com/*
+*://*.sarkariexam.com/*
 *://*.sawyerlosangeles.com/*
 *://*.securedyou.com/*
 *://*.sellyourmac.com/mac-blog/*
@@ -474,6 +481,7 @@
 *://*.stellarinfo.com/blog/*
 *://*.stellarinfo.co.in/blog/*
 *://*.stellarinfo.co.in/kb/*
+*://*.storiesdown.com/*
 *://*.streamster.io/blog/*
 *://*.streamyard.com/blog/*
 *://*.studiobinder.com/blog/*
@@ -484,6 +492,7 @@
 *://www.techsolutions.support.com/how-to/*
 *://*.supportyourtech.com/*
 *://*.surfshark.com/blog/*
+*://*.syncios.com/*
 *://*.sysconverter.com/blog/*
 *://*.syscurve.com/blog/*
 *://*.sysessential.com/blog/*
@@ -622,6 +631,7 @@
 *://*.valibyte.com/*
 *://*.vbncfoo.online/*
 *://*.vdocipher.com/blog/*
+*://blog.veefly.com/*
 *://*.verenerjiyi.online/*
 *://*.veritone.com/blog/*
 *://*.verywellfamily.com/*
@@ -639,6 +649,7 @@
 *://*.webnedio.com/*
 *://*.webnots.com/*
 *://*.webstick.blog/*
+*://*.wepc.com/tips/*
 *://*.weeom.com/blog/*
 *://*.wefixtech.co.ke/*
 *://*.wethegeek.com/*
@@ -667,6 +678,7 @@
 *://*.woshub.com/*
 *://*.wowza.com/blog/*
 *://*.wp-rocket.me/blog/*
+*://*.wpauthorbox.com/*
 *://*.xenconverter.com/blog/*
 *://*.xiaozhishi.net/*
 *://*.xjishu.com/*
