@@ -36,6 +36,7 @@
 *://*.appslova.com/*
 *://*.appuals.com/*
 *://*.asurion.com/*
+*://*.avadirect.com/blog/*
 *://*.avaide.com/edit-video/*
 /avast\.com\/c-/
 *://*.becs.co.uk/*
@@ -47,6 +48,7 @@
 *://*.bloggersideas.com/*
 *://*.bluebillywig.com/knowledge-hub/*
 *://*.bluleadz.com/blog/*
+*://*.boomspeaker.com/*
 *://*.boostitco.com/blog/*
 *://*.brainstorminc.com/blog/*
 *://*.brave.com/learn/*
@@ -61,6 +63,7 @@
 *://*.ccm.net/*
 *://*.cee-trust.org/*
 *://*.cellphonerepair.com/*
+*://*.chefaudio.com/*
 *://*.cheq.ai/blog/*
 *://*.cigatisolutions.com/blog/*
 *://*.cisdem.com/resource/*
@@ -89,6 +92,7 @@
 *://*.datarepairtools.com/blog/*
 *://*.deletingsolutions.com/*
 *://*.devconnected.com/*
+*://*.devicemag.com/*
 *://*.devicesfaq.com/*
 *://*.devicetests.com/*
 *://*.dialpad.com/blog/*
@@ -149,6 +153,7 @@
 *://*.fossbytes.com/*
 *://*.free-videoconverter.net/video-editing/*
 *://*.freecodecamp.org/*
+*://*.freevideoworkshop.com/*
 *://*.freeviewer.org/blog/*
 *://*.g2.com/*
 *://*.gadgethacks.com/*
@@ -193,6 +198,7 @@
 *://*.helpdeskgeekal.pages.dev/posts/*
 *://*.helpfixthat.com/*
 *://*.helpwire.app/blog/*
+*://*.hetmanrecovery.com/recovery_news/*
 *://*.hevidari.online/*
 *://*.hhswsjdj.com/*
 *://*.highspeedinternet.com/resources/*
@@ -230,6 +236,7 @@
 *://*.ikream.com/*
 *://*.imagekit.io/blog/*
 *://*.imobie.com/*
+*://*.improveworkspace.com/*
 *://*.imyfone.com/*
 *://*.imymac.com/*
 *://*.indeed.com/career-advice/*
@@ -276,11 +283,14 @@
 *://*.kirkville.com/*
 *://*.kkplay3c.net/*
 *://*.knowmore.cc/*
+*://*.knowtechie.com/*
 *://*.komando.com/*
 *://*.kukicoso.online/*
 *://*.kybourbonbelle.buzz/*
 *://*.labnol.org/*
 *://*.lagofast.com/en/blog/*
+*://*.laptopjudge.com/*
+*://*.lenetek.com/blog/*
 *://*.lettoknow.com/*
 *://*.liangfaner.com/*
 *://*.lifescienceglobal.com/*
@@ -390,6 +400,7 @@
 *://*.payetteforward.com/*
 *://*.pc123.hao739.com/*
 *://*.pcerror-fix.com/*
+*://*.pcdelight.com/*
 *://blog.pcloud.com/*
 *://*.personalcomputerfixes.com/*
 *://*.pharmacy.iwiki.tw/*
@@ -409,6 +420,7 @@
 *://*.process.st/how-to/*
 *://*.processchecker.com/*
 *://*.programmathically.com/*
+*://*.projectorsacademy.com/*
 *://*.proprivacy.com/*
 *://*.protonvpn.com/blog/*
 *://*.psychcentral.com/*
@@ -424,17 +436,20 @@
 *://*.race.com/blog/*
 *://*.rankings.io/*
 *://*.rapidseedbox.com/blog/*
+*://*.readytodiy.com/*
 *://*.realitytvrevisited.com/*
 *://*.recoverytools.com/blog/*
 *://*.regainsoftware.com/blog/*
 *://*.remote.tools/*
 *://*.repairwin.com/*
+*://*.resolutionacoustics.com/*
 *://*.restream.io/blog/*
 *://*.reverbtimemag.com/blogs_on/*
 *://*.reviewsfire.com/*
 *://*.revouninstaller.com/blog/*
 *://*.rightinbox.com/blog/*
 *://*.riverside.fm/blog/*
+*://*.robots.net/*
 *://*.rowdytech.com/*
 *://*.runoob.com/*
 *://*.saintlad.com/*
@@ -469,10 +484,12 @@
 *://*.solvedlib.com/*
 *://*.solveyourtech.com/*
 *://*.sothinkmedia.com/*
+*://*.spacehop.com/*
 *://*.speechify.com/blog/*
 *://*.speedify.com/blog/*
 *://*.speedutilities.com/*
 *://*.sperrysoftware.com/Email-Tools/*
+*://*.splaitor.com/*
 *://*.sprache.buzz/*
 *://*.sproutvideo.com/blog/*
 *://*.stackhowto.com/*
@@ -502,6 +519,7 @@
 *://*.syskit.com/blog/*
 *://blog.systoolsgroup.com/*
 *://*.systweak.com/*
+*://*.tab-tv.com/*
 *://*.tabletmonkeys.com/*
 *://*.tastefn.xyz/*
 *://*.teamhood.com/project-management/*
@@ -528,6 +546,7 @@
 *://*.technologysolutions.net/blog/*
 *://*.technorms.com/*
 *://*.techosaurusrex.com/*
+*://*.techpicko.com/*
 *://*.techpilipinas.com/*
 *://*.techpluto.com/*
 *://*.techpout.com/*
@@ -550,12 +569,15 @@
 *://*.techy.how/news/*
 *://*.techy.how/templates/*
 *://*.techy.how/tutorials/*
+*://*.techyhost.com/*
+*://*.techyoulike.com/*
 *://*.tecmint.com/*
 *://*.tekdeeps.com/*
 *://*.tekkigurus.com/*
 *://*.telegguide.com/*
 *://*.telegram360.net/*
 *://*.tellerreport.com/*
+*://*.tencomputer.com/*
 *://*.tenorshare.com/*
 *://*.textexpander.com/blog/*
 *://*.theandroidmirror.com/*
@@ -682,6 +704,7 @@
 *://*.xenconverter.com/blog/*
 *://*.xiaozhishi.net/*
 *://*.xjishu.com/*
+*://*.xoptimum.com/*
 *://*.xtraxtor.com/blog/*
 *://*.yabla.com/yabla-blog/*
 *://*.yamab2b.com/*
