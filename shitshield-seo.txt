@@ -36,9 +36,11 @@
 *://*.appslova.com/*
 *://*.appuals.com/*
 *://*.asurion.com/*
+*://*.aussiemobilephonerepairs.com.au/blog/*
 *://*.avadirect.com/blog/*
 *://*.avaide.com/edit-video/*
 /avast\.com\/c-/
+*://*.avg.com/*/signal/*
 *://*.avira.com/*/blog/*
 *://*.becs.co.uk/*
 *://*.beebom.com/*
@@ -57,6 +59,7 @@
 *://*.brighterguide.com/*
 *://*.brightflow.net/*
 *://*.browserhow.com/*
+*://*.buybackboss.com/*
 *://*.canto.com/blog/*
 *://*.carlcare.com/*/tips-detail/*
 *://*.cashify.in/*
@@ -82,6 +85,8 @@
 *://*.compsuccess.com/*
 *://*.computerhope.com/*
 *://*.convergeddevices.net/*
+*://*.coolblue.nl/*/advice/*
+*://*.coolmuster.com/*
 *://*.corbado.com/blog/*
 *://*.corbettsoftware.com/blog/*
 *://*.crast.net/*
@@ -163,6 +168,7 @@
 *://*.fossbytes.com/*
 *://*.free-videoconverter.net/video-editing/*
 *://*.freecodecamp.org/*
+*://*.freemake.com/blog/*
 *://*.freevideoworkshop.com/*
 *://*.freeviewer.org/blog/*
 *://*.g2.com/*
@@ -244,6 +250,7 @@
 *://*.iboysoft.com/wiki/*
 *://*.idownloadblog.com/*
 *://*.iesgp.com/blog/*
+*://*.ifixscreens.com/*
 *://*.igeeksblog.com/*
 *://*.igotojapan.com/*
 *://*.iitjeepage.buzz/*
@@ -270,6 +277,7 @@
 *://*.iqinit.uk/news/*
 *://*.ir.com/guides/*
 *://*.isitwp.com/*
+*://*.ismash.com/blogs/*
 *://*.isumsoft.com/*
 *://*.isunshare.com/*
 *://*.blog.ite2.com/*
@@ -288,6 +296,7 @@
 *://*.jihosoft.com/android-tips/*
 *://*.jingctech.com/*
 *://*.joyofandroid.com/*
+*://*.joyoshare.com/*
 *://*.justanswer.com/*
 *://*.kapilarya.com/*
 *://*.kapook.com/*
@@ -367,6 +376,7 @@
 *://*.mm-world-of-party.buzz/*
 *://*.mobigyaan.com/*
 *://*.mobileai.net/*
+*://*.mobitrix.com/*
 *://*.modify.in.th/*
 *://*.moesif.com/blog/*
 *://*.moneyinc.com/*
@@ -389,6 +399,7 @@
 *://*.nasstar.com/hub/blog/*
 *://*.navthemes.com/*
 *://*.negeri.live/*
+*://*.nektony.com/blog/*
 *://*.nengajou.buzz/*
 *://*.nerdschalk.com/*
 *://*.newbieadvisor.com/*
@@ -445,6 +456,7 @@
 *://*.proprivacy.com/*
 *://*.protonvpn.com/blog/*
 *://*.psychcentral.com/*
+*://blog.puls.com/*
 *://*.pumamedia.com.au/*
 *://*.pure-ip.com/blog/*
 *://*.puredo.com/*
@@ -456,6 +468,7 @@
 *://*.quoramarketing.com/*
 *://*.race.com/blog/*
 *://*.rankings.io/*
+*://*.rapidrepair.in/blog/*
 *://*.rapidseedbox.com/blog/*
 *://*.readytodiy.com/*
 *://*.realitytvrevisited.com/*
@@ -493,6 +506,7 @@
 *://*.shoutmetech.com/*
 *://*.si-sv3401.com/*
 *://*.simplehow.tips/*
+*://*.simplyfixable.com/blog-detail/*
 *://*.sitelock.com/blog/*
 *://*.slant.co/*
 *://*.slipstick.com/*
@@ -507,6 +521,7 @@
 *://*.softwarekeep.com/blogs/*
 *://*.softwaretestinghelp.com/*
 *://*.softwaretesttips.com/*
+*://*.soldrit.com/blog/*
 *://*.solvedlib.com/*
 *://*.solveyourtech.com/*
 *://*.sorcim.com/blog/*
@@ -533,6 +548,7 @@
 *://*.studiobinder.com/blog/*
 *://*.studytonight.com/*
 *://blog.sucuri.net/*
+*://*.supcase.com/blogs/*
 *://*.supereasy.com/*
 *://blog.superhuman.com/*
 *://www.techsolutions.support.com/how-to/*
