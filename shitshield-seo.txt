@@ -1,10 +1,11 @@
 # Title: shitshield-seo
-# Last updated: 2024-05-27
+# Last updated: 2024-06-08
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
-*://*.365tips.be/*
+*://*.10pcg.com/*
 *://*.10scopes.com/*
 *://*.2-remove-virus.com/*
+*://*.365tips.be/*
 *://*.403tech.com/*
 *://*.4winkey.com/how_it_works/*
 *://*.7datarecovery.com/*
@@ -84,6 +85,7 @@
 *://*.comparitech.com/*
 *://*.compsuccess.com/*
 *://*.computerhope.com/*
+*://*.computertechreviews.com/*
 *://*.convergeddevices.net/*
 *://*.coolblue.nl/*/advice/*
 *://*.coolmuster.com/*
@@ -136,6 +138,7 @@
 *://*.eeq8.com/*
 *://*.electronicshub.org/*
 *://*.eloking.com/blog/*
+*://*.emailanalytics.com/*
 *://*.emaildoctor.org/blog/*
 *://*.enerjibaba.online/*
 *://*.endsight.net/blog/*
@@ -268,6 +271,7 @@
 *://*.inosocial.com/*
 *://*.inpics.net/*
 *://*.insidenetwork.com/*
+*://*.insidetheweb.com/*
 *://blog.inspiresoftware.com/*
 *://*.intowindows.com/*
 *://*.ionos.com/digitalguide/*
@@ -360,6 +364,7 @@
 *://*.mailmeteor.com/blog/*
 *://*.mailsdaddy.com/blogs/*
 *://*.mailsware.com/blog/*
+*://*.mailtrap.io/blog/*
 *://*.makersaid.com/*
 *://*.maketecheasier.com/*
 *://*.makeuseof.com/*
@@ -418,8 +423,11 @@
 *://*.onetimesoft.com/blog/*
 *://blog.online-convert.com/*
 *://*.online-tech-tips.com/*
+*://*.onlinecomputertips.com/*
+*://*.onlinegeeks.net/*
 *://*.onlinetauck.buzz/*
 *://*.onmsft.com/*
+*://*.onsite-training.com/*
 *://*.ontargit.com/en/*
 *://*.oryon.net/knowledge-base/*
 *://*.ostechnix.com/*
@@ -475,6 +483,7 @@
 *://*.recoverytools.com/blog/*
 *://*.regainsoftware.com/blog/*
 *://*.registryrecycler.com/blog/*
+*://*.remosoftware.com/*
 *://*.remote.tools/*
 *://*.repairwin.com/*
 *://*.resolutionacoustics.com/*
@@ -534,6 +543,7 @@
 *://*.spine-health.com/blog/*
 *://*.splaitor.com/*
 *://*.sprache.buzz/*
+*://*.spreadsheetsexpert.com/*
 *://*.sproutvideo.com/blog/*
 *://*.stackhowto.com/*
 *://*.stardewguide.com/*
@@ -542,6 +552,7 @@
 *://*.stellarinfo.com/blog/*
 *://*.stellarinfo.co.in/blog/*
 *://*.stellarinfo.co.in/kb/*
+*://*.sterling-technology.com/blog/*
 *://*.storiesdown.com/*
 *://*.streamster.io/blog/*
 *://*.streamyard.com/blog/*
@@ -587,6 +598,7 @@
 *://*.technerdish.com/*
 *://*.technewstoday.com/*
 *://*.technical-tips.com/blog/*
+*://*.technicalustad.com/*
 *://*.technipages.com/*
 *://*.technobezz.com/*
 *://*.technologycocoa.com/*
@@ -631,6 +643,7 @@
 *://*.theandroidportal.com/*
 *://*.thebalancemoney.com/*
 *://*.thecontentauthority.com/blog/*
+*://*.thecorrectblogger.com/*
 *://*.thecpuguide.com/*
 *://*.thedroidguy.com/*
 *://*.thegamer.com/*
@@ -648,6 +661,7 @@
 *://*.thetechnologypress.com/*
 *://*.thetechylife.com/*
 *://*.thewindowsclub.com/*
+*://*.thewritingparadigm.com/*
 *://*.tiancailv.com/*
 *://*.ticktechtold.com/*
 *://*.timedoctor.com/blog/*
