@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2024-06-08
+# Last updated: 2024-06-12
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
@@ -36,6 +36,7 @@
 *://*.appli-huguai-matome.com/*
 *://*.appslova.com/*
 *://*.appuals.com/*
+*://*.asapguide.com/*
 *://*.asurion.com/*
 *://*.aussiemobilephonerepairs.com.au/blog/*
 *://*.avadirect.com/blog/*
@@ -157,6 +158,7 @@
 *://*.fchanengclass.com/*
 *://*.filechimp.co.uk/*
 *://*.fileinspect.com/blog/*
+*://*.firesticktricks.com/*
 *://*.firmwarespro.com/*
 *://*.fixthephoto.com/*
 *://*.fixyourandroid.com/*
@@ -179,6 +181,7 @@
 *://*.gadgetmouse.com/*
 *://*.gadgets-reviews.com/*
 *://*.gadgetstouse.com/*
+*://*.gamegrinds.com/*
 *://*.gameslikee.com/*
 *://*.gangl.de/blog-reader/*
 *://*.gearrice.com/*
@@ -193,12 +196,14 @@
 *://*.geeksforgeeks.org/*
 *://*.gemoo.com/*
 *://*.genmar.co.uk/blog/*
+*://*.geonode.com/blog/*
 *://*.getapp.com/*
 *://*.getapp.ie/*
 *://*.getdroidtips.com/*
 *://*.getmailbird.com/*
 *://*.getstream.io/blog/*
 *://*.gooood.cn/*
+*://*.goproxy.com/blog/*
 *://*.got-it.ai/*
 *://*.gotechug.com/*
 *://*.gottabemobile.com/*
@@ -224,6 +229,17 @@
 *://*.hetmanrecovery.com/recovery_news/*
 *://*.hevidari.online/*
 *://*.hhswsjdj.com/*
+*://*.hideipvpn.com/censorship/*
+*://*.hideipvpn.com/entertainment/*
+*://*.hideipvpn.com/general/*
+*://*.hideipvpn.com/giveaways/*
+*://*.hideipvpn.com/news/*
+*://*.hideipvpn.com/privacy/*
+*://*.hideipvpn.com/promotions/*
+*://*.hideipvpn.com/proxy/*
+*://*.hideipvpn.com/setup/*
+*://*.hideipvpn.com/smartdns/*
+*://*.hideipvpn.com/vpn/*
 *://*.highspeedinternet.com/resources/*
 *://*.higospot.com/*
 *://*.history-computer.com/*
@@ -276,6 +292,7 @@
 *://*.intowindows.com/*
 *://*.ionos.com/digitalguide/*
 *://*.ioshacker.com/*
+*://*.ip2world.com/blog/*
 *://*.iphonebackupextractor.com/*
 *://*.iphonelife.com/*
 *://*.iqinit.uk/news/*
@@ -445,6 +462,7 @@
 *://*.personalcomputerfixes.com/*
 *://*.pharmacy.iwiki.tw/*
 *://*.phoenixnap.com/kb/*
+*://*.piaproxy.com/*/blog/*
 *://blog.pics.io/*
 *://*.piunikaweb.com/*
 *://*.pjl.buzz/*
@@ -456,6 +474,7 @@
 *://*.practicallynetworked.com/*
 *://*.printerlogic.com/blog/*
 *://*.privacysavvy.com/news/*
+*://*.privateproxy.me/blog/*
 *://*.probleme.app/*
 *://*.process.st/how-to/*
 *://*.processchecker.com/*
@@ -463,6 +482,7 @@
 *://*.projectorsacademy.com/*
 *://*.proprivacy.com/*
 *://*.protonvpn.com/blog/*
+*://*.proxys.io/*/blog/*
 *://*.psychcentral.com/*
 *://blog.puls.com/*
 *://*.pumamedia.com.au/*
@@ -478,6 +498,8 @@
 *://*.rankings.io/*
 *://*.rapidrepair.in/blog/*
 *://*.rapidseedbox.com/blog/*
+*://*.rating-proxy.info/blog/*
+*://*.rayobyte.com/blog/*
 *://*.readytodiy.com/*
 *://*.realitytvrevisited.com/*
 *://*.recoverytools.com/blog/*
@@ -594,6 +616,7 @@
 *://*.techjunkie.com/*
 *://*.techlizar.com/*
 *://*.techloris.com/*
+*://*.technadu.com/*
 *://*.technastic.com/*
 *://*.technerdish.com/*
 *://*.technewstoday.com/*
@@ -623,6 +646,7 @@
 *://*.techunwrapped.com/*
 *://*.techviral.net/*
 *://*.techwalla.com/*
+*://*.techwhoop.com/*
 *://*.techwiser.com/*
 *://*.techwithtech.com/*
 *://*.techy.how/news/*
@@ -671,6 +695,7 @@
 *://*.tips.net/*
 *://*.togetherplatform.com/blog/*
 *://*.top-password.com/*
+*://*.toptvtips.com/*
 *://*.tr-ex.me/*
 *://*.trainchinese.com/*
 *://*.trendytarzan.com/*
