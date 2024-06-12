@@ -1,17 +1,21 @@
 # Title: shitshield-content-farm
-# Last updated: 2024-05-17
+# Last updated: 2024-06-12
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
+*://*.17moveon.com/*
 *://*.1applehealth.com/*
 *://*.6parkbbs.com/*
+*://*.aboutlove.cc/*
 *://*.adaymag.com/*
 *://*.anjiashe.com/*
 *://*.anjushe.com/*
 *://*.anzhaiba.com/*
 *://*.auzhu.com/*
 *://*.ayshz.com/*
+*://*.babypartyy.com/*
 *://*.bad.news/*
 *://*.baobeizhou.com/*
+*://*.beanfun.com/articles/*
 *://*.bimogu.com/*
 *://*.bkdqb.com/*
 *://*.bkqsg.com/*
@@ -37,6 +41,7 @@
 *://*.csbkg.com/*
 *://*.csdn.net/*
 *://*.cwyan.com/*
+*://*.damyup.co/*
 *://*.daohang03.com/xw/*
 *://*.daohang07.com/xw/*
 *://*.daydaynews.cc/*
@@ -50,8 +55,10 @@
 *://news.duote.com/*
 *://*.easyatm.com.tw/*
 *://*.eazon.com/*
+://*.effort-us.com/*
 *://*.ezvivi.com/*
 *://*.factpedia.org/*
+*://*.fafa01.com/*
 *://*.faluji.com/*
 *://*.falvzhan.com/*
 *://*.fanerfan.com/*
@@ -62,7 +69,10 @@
 *://*.faxingguan.com/*
 *://*.fdssw.com/*
 *://*.flbkb.com/*
+*://*.food-ienjoy.com/*
 *://*.fqsjw.com/*
+*://*.fun01.cc/*
+*://*.funtoday.news/*
 *://*.getit01.com/*
 *://*.ggfwb.com/*
 *://*.gglzw.com/*
@@ -75,6 +85,7 @@
 *://*.guowenyun.com/*
 *://*.guowenzhai.com/*
 *://*.gwjzb.com/*
+*://*.happytify.cc/*
 *://*.hhbky.com/*
 *://*.hnh.cc/*
 *://*.ifuun.com/*
@@ -88,6 +99,7 @@
 *://*.jingyanjun.com/*
 *://*.jjbkw.com/*
 *://*.jlmbg.com/*
+*://*.jo106.com/*
 *://*.jrycb.com/*
 *://*.juduo.cc/*
 *://*.jueshifan.com/*
@@ -110,9 +122,13 @@
 *://*.liangliwang.com/*
 *://*.liaoliwu.com/*
 *://*.life.tw/*
+*://*.lifeknowlege.com/*
 *://*.lingxiufan.com/*
 *://*.llsnw.com/*
 *://*.llssg.com/*
+*://*.lookerideas.com/*
+*://*.lookerpets.com/*
+*://*.lookforward.info/*
 *://*.lsbkw.com/*
 *://*.mdkpw.com/*
 *://*.mdshb.com/*
@@ -130,6 +146,7 @@
 *://*.modengzhan.com/*
 *://*.mqcyw.com/*
 *://*.mrhyb.com/*
+*://*.mmuscular.com/*
 *://*.mrxyw.com/*
 *://*.mwjyg.com/*
 *://*.nanjuefeng.com/*
@@ -138,8 +155,12 @@
 *://*.newsrnd.com/*
 *://*.newton.com.tw/*
 *://*.nichengzhan.com/*
+*://*.nowlooker.com/*
 *://*.onefunnyjoke.com/*
+*://*.pass345.com/*
+*://*.peekme.cc/*
 *://*.pinweifeng.com/*
+*://*.polyulaunchpadfund.hk/*
 *://*.pplzw.com/*
 *://*.qianweizui.com/*
 *://*.qingxiuba.com/*
@@ -149,19 +170,28 @@
 *://*.read01.com/*
 *://*.rlnxw.com/*
 *://*.ruiliguan.com/*
+*://*.shafaqna.com/*
 *://*.shareba.com/*
+*://*.shicheng.news/*
 *://*.shimaogu.com/*
 *://*.shimaoguan.com/*
 *://*.shimaozhai.com/*
 *://*.shishangdong.com/*
 *://*.smyyj.com/*
 *://*.ssnxf.com/*
+*://*.story543.com/*
+*://*.tantannews.com/*
 *://*.teepr.com/*
+*://shitpost.travel.blog/*
+*://trytrylove.com/*
 *://*.twgreatdaily.com/*
+*://*.uyuanfen.com/*
 *://*.viralane.com/*
+*://*.voosweet.com/*
 *://*.wangminggu.com/*
 *://*.wangmingguan.com/*
 *://*.waxzz.com/*
+*://*.winrayland.com/*
 *://*.xiumeiguan.com/*
 *://*.xueshidu.com/*
 *://*.xuewenjun.com/*
