@@ -1,5 +1,5 @@
 # Title: shitshield-content-farm
-# Last updated: 2024-06-12
+# Last updated: 2024-06-16
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.17moveon.com/*
@@ -38,6 +38,7 @@
 *://*.chuangfudu.com/*
 *://*.chuangfuguan.com/*
 *://*.coco01.net/*
+*://*.coolhealth.com.tw/*
 *://*.csbkg.com/*
 *://*.csdn.net/*
 *://*.cwyan.com/*
@@ -176,6 +177,7 @@
 *://*.qzbkw.com/*
 *://*.read01.com/*
 *://*.rlnxw.com/*
+*://*.rojaklah.com/*
 *://*.ruiliguan.com/*
 *://*.shafaqna.com/*
 *://*.shareba.com/*
