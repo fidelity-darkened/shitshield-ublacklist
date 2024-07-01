@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2024-06-12
+# Last updated: 2024-07-01
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
@@ -28,6 +28,7 @@
 *://*.alphr.com/*
 *://*.alvarotrigo.com/*
 *://*.androidguias.com/*
+*://*.androidtvnews.com/*
 *://*.animotica.com/blog/*
 *://*.anyrecover.com/*
 *://*.api.video/blog/*
@@ -322,6 +323,7 @@
 *://*.kapilarya.com/*
 *://*.kapook.com/*
 *://*.kaspersky.com/blog/*
+*://*.keengamer.com/articles/guides/*
 *://*.kensington.com/news/security-blog/*
 *://*.keys.direct/blogs/*
 *://*.kikinote.net/*
@@ -459,6 +461,7 @@
 *://*.pcerror-fix.com/*
 *://*.pcdelight.com/*
 *://blog.pcloud.com/*
+*://blog.pcrisk.com/*
 *://*.personalcomputerfixes.com/*
 *://*.pharmacy.iwiki.tw/*
 *://*.phoenixnap.com/kb/*
@@ -472,6 +475,7 @@
 *://*.poynting.tech/articles/*
 *://*.ppfocus.com/*
 *://*.practicallynetworked.com/*
+*://*.prajwaldesai.com/*
 *://*.printerlogic.com/blog/*
 *://*.privacysavvy.com/news/*
 *://*.privateproxy.me/blog/*
@@ -628,6 +632,7 @@
 *://*.technologysolutions.net/blog/*
 *://*.technorms.com/*
 *://*.techosaurusrex.com/*
+*://*.techpenny.com/*
 *://*.techpicko.com/*
 *://*.techpilipinas.com/*
 *://*.techpluto.com/*
@@ -701,6 +706,7 @@
 *://*.trendytarzan.com/*
 *://*.trendywebz.com/*
 *://*.tripsavvy.com/*
+*://*.troypoint.com/*
 *://*.trustedreviews.com/*
 *://*.trustsu.com/*
 *://*.tuneskit.com/*
@@ -766,7 +772,7 @@
 *://*.wethegeek.com/*
 *://*.whatsabyte.com/*
 *://*.whichvoip.com/articles/*
-*://*.whistleout.com/CellPhones/Guides/*
+*://*.whistleout.com/*/Guides/*
 *://*.wikidiff.com/*
 *://*.winaero.com/*
 *://*.winbuzzer.com/*
@@ -790,6 +796,7 @@
 *://*.wowza.com/blog/*
 *://*.wp-rocket.me/blog/*
 *://*.wpauthorbox.com/*
+*://*.wpsauce.com/*
 *://blog.wtfast.com/blog/*
 *://*.xenconverter.com/blog/*
 *://*.xiaozhishi.net/*
@@ -801,4 +808,5 @@
 *://*.yourbusinessnumber.com/blog/*
 *://*.yourmarketingpeople.com/blog/*
 *://*.yourpinterest.com/*
+*://*.ytechb.com/*
 *://*.zapier.com/blog/*
