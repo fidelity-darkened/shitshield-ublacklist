@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2024-07-01
+# Last updated: 2024-08-15
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
@@ -28,6 +28,7 @@
 *://*.alphr.com/*
 *://*.alvarotrigo.com/*
 *://*.androidguias.com/*
+*://*.androidphonesoft.com/blog/*
 *://*.androidtvnews.com/*
 *://*.animotica.com/blog/*
 *://*.anyrecover.com/*
@@ -47,6 +48,7 @@
 *://*.avira.com/*/blog/*
 *://*.becs.co.uk/*
 *://*.beebom.com/*
+*://*.bestforandroid.com/*
 *://*.bettersolutions.com/*
 *://*.bitrecover.com/blog/*
 *://*.blackview.hk/blog/*
@@ -88,6 +90,7 @@
 *://*.compsuccess.com/*
 *://*.computerhope.com/*
 *://*.computertechreviews.com/*
+*://*.connectify.me/blog/*
 *://*.convergeddevices.net/*
 *://*.coolblue.nl/*/advice/*
 *://*.coolmuster.com/*
@@ -99,6 +102,7 @@
 *://*.crisp.co/*
 *://*.crucial.com/blog/*
 *://*.cuterank.net/*
+*://*.cybercrew.uk/*
 *://*.cybernews.com/*
 *://*.daisyuk.tech/resource/*
 *://*.datanumen.com/blogs/*
@@ -153,6 +157,7 @@
 *://*.expel.com/blog/*
 *://*.experts-exchange.com/*
 *://*.extendoffice.com/*
+*://*.factbites.com/*
 *://*.familytagtw.com/*
 *://*.fastsoftwares.com/blog/*
 *://*.faxingsj.com/*
@@ -203,6 +208,7 @@
 *://*.getdroidtips.com/*
 *://*.getmailbird.com/*
 *://*.getstream.io/blog/*
+*://*.giznext.com/news/*
 *://*.gooood.cn/*
 *://*.goproxy.com/blog/*
 *://*.got-it.ai/*
@@ -304,6 +310,7 @@
 *://*.isunshare.com/*
 *://*.blog.ite2.com/*
 *://*.itechbrand.com/*
+*://*.itechfever.com/*
 *://*.itechguides.com/*
 *://*.itechhacks.com/*
 *://*.itechtics.com/*
@@ -488,6 +495,7 @@
 *://*.protonvpn.com/blog/*
 *://*.proxys.io/*/blog/*
 *://*.psychcentral.com/*
+*://*.pttrns.com/*
 *://blog.puls.com/*
 *://*.pumamedia.com.au/*
 *://*.pure-ip.com/blog/*
@@ -521,6 +529,7 @@
 *://*.rightinbox.com/blog/*
 *://*.riverside.fm/blog/*
 *://*.robots.net/*
+*://blog.rottenwifi.com/*
 *://*.rowdytech.com/*
 *://*.runoob.com/*
 *://*.saintlad.com/*
