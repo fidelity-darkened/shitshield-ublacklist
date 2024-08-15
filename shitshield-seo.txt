@@ -41,6 +41,7 @@
 *://*.asapguide.com/*
 *://*.asurion.com/*
 *://*.aussiemobilephonerepairs.com.au/blog/*
+*://*.autobest.co.in/blog-detail/*
 *://*.avadirect.com/blog/*
 *://*.avaide.com/edit-video/*
 /avast\.com\/c-/
@@ -64,6 +65,7 @@
 *://*.brighterguide.com/*
 *://*.brightflow.net/*
 *://*.browserhow.com/*
+*://*.bullvpn.com/*/blog/detail/*
 *://*.buybackboss.com/*
 *://*.canto.com/blog/*
 *://*.carlcare.com/*/tips-detail/*
@@ -149,12 +151,14 @@
 *://*.enerjibaba.online/*
 *://*.endsight.net/blog/*
 *://*.enigmasoftware.com/*
+*://*.ergeon.com/blog/post/*
 *://*.esofttools.com/blog/*
 *://*.esrgear.com/blog/*
 *://*.evercast.us/blog/*
 *://*.exitlag.com/blog/*
 *://*.expediencesoftware.com/blog/*
 *://*.expel.com/blog/*
+*://blog.expertrec.com/*
 *://*.experts-exchange.com/*
 *://*.extendoffice.com/*
 *://*.factbites.com/*
@@ -208,7 +212,9 @@
 *://*.getdroidtips.com/*
 *://*.getmailbird.com/*
 *://*.getstream.io/blog/*
+*://*.gizchina.com/*
 *://*.giznext.com/news/*
+*://*.globalapptesting.com/blog/*
 *://*.gooood.cn/*
 *://*.goproxy.com/blog/*
 *://*.got-it.ai/*
@@ -407,6 +413,7 @@
 *://*.mm-world-of-party.buzz/*
 *://*.mobigyaan.com/*
 *://*.mobileai.net/*
+*://*.mobiletechaddicts.com/*
 *://*.mobitrix.com/*
 *://*.modify.in.th/*
 *://*.moesif.com/blog/*
@@ -532,12 +539,14 @@
 *://blog.rottenwifi.com/*
 *://*.rowdytech.com/*
 *://*.runoob.com/*
+*://*.safetydetectives.com/*
 *://*.saintlad.com/*
 *://*.sarkariexam.com/*
 *://*.sawyerlosangeles.com/*
 *://*.securedyou.com/*
 *://*.sellyourmac.com/mac-blog/*
 *://*.semrush.com/blog/*
+*://*.servicemycar.com/*/blog/*
 *://*.setapp.com/how-to/*
 *://*.sgss8.net/*
 *://shadow.tech/*/blog/*
@@ -691,6 +700,8 @@
 *://*.themeisle.com/blog/*
 *://*.themuse.com/advice/*
 *://*.thenina.com/*
+*://*.thepersonal.com/blog/*
+*://*.theplusaddons.com/blog/*
 *://*.thesoldiersproject.org/*
 *://*.thespike.gg/*
 *://*.thestartupfounder.com/*
@@ -768,6 +779,7 @@
 *://*.vintageits.com/*
 *://*.viwizard.com/*
 *://*.vlchelp.com/*
+*://*.vpnmentor.com/blog/*
 *://*.wall-designers.buzz/*
 *://*.wamsinc.com/*
 *://*.wati.io/blog/*
