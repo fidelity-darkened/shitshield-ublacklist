@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2024-08-15
+# Last updated: 2024-08-28
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
@@ -21,6 +21,8 @@
 *://blog.affinityconsulting.com/*
 *://*.aicontentfy.com/en/blog/*
 *://*.airdroid.com/*
+*://*.airflowacademy.com/*
+*://*.aischedul.com/*
 *://*.aiseesoft.com/*
 *://*.akhbara24.news/*
 *://*.allthings.how/*
@@ -31,12 +33,14 @@
 *://*.androidphonesoft.com/blog/*
 *://*.androidtvnews.com/*
 *://*.animotica.com/blog/*
+*://*.anycontrol.app/blog/post/*
 *://*.anyrecover.com/*
 *://*.api.video/blog/*
 *://*.appgeeker.com/*
 *://*.appletoolbox.com/*
 *://*.appli-huguai-matome.com/*
 *://*.appslova.com/*
+*://*.apptuts.net/*
 *://*.appuals.com/*
 *://*.asapguide.com/*
 *://*.asurion.com/*
@@ -51,10 +55,12 @@
 *://*.beebom.com/*
 *://*.bestforandroid.com/*
 *://*.bettersolutions.com/*
+*://*.bighomechores.com/*
 *://*.bitrecover.com/blog/*
 *://*.blackview.hk/blog/*
 *://*.blazeo.com/blog/*
 *://*.bloggersideas.com/*
+*://*.bloggingtips.com/*
 *://*.bluebillywig.com/knowledge-hub/*
 *://*.bluleadz.com/blog/*
 *://*.boomspeaker.com/*
@@ -65,8 +71,10 @@
 *://*.brighterguide.com/*
 *://*.brightflow.net/*
 *://*.browserhow.com/*
+*://*.buildmyplays.com/*
 *://*.bullvpn.com/*/blog/detail/*
 *://*.buybackboss.com/*
+*://*.buzzvoice.com/blog/*
 *://*.canto.com/blog/*
 *://*.carlcare.com/*/tips-detail/*
 *://*.cashify.in/*
@@ -93,6 +101,7 @@
 *://*.computerhope.com/*
 *://*.computertechreviews.com/*
 *://*.connectify.me/blog/*
+*://blog.contentstudio.io/*
 *://*.convergeddevices.net/*
 *://*.coolblue.nl/*/advice/*
 *://*.coolmuster.com/*
@@ -115,6 +124,7 @@
 *://*.devicemag.com/*
 *://*.devicesfaq.com/*
 *://*.devicetests.com/*
+*://*.dexerto.com/*
 *://*.dialpad.com/blog/*
 *://*.dict.cn/*
 *://*.diffen.com/*
@@ -128,7 +138,9 @@
 *://*.digitbin.com/*
 *://*.discoverhowtodoit.com/*
 *://*.diskpart.com/*
+*://*.disruptiveadvertising.com/blog/*
 *://*.diyarkim.online/*
+*://*.dmpro.app/*
 *://*.dotstella.com/blog/*
 *://*.downloadsource.net/*
 *://*.drivereasy.com/*
@@ -137,6 +149,7 @@
 *://*.duhoctrungquoc.vn/*
 *://*.dzone.com/*
 *://*.e-methodstechnologies.com/*
+*://*.earthweb.com/blog/*
 *://*.easeus.com/*
 *://*.easyfilerenamer.com/blog/*
 *://*.easyfixpro.com/*
@@ -151,6 +164,7 @@
 *://*.enerjibaba.online/*
 *://*.endsight.net/blog/*
 *://*.enigmasoftware.com/*
+*://*.entrepreneurshiplife.com/*
 *://*.ergeon.com/blog/post/*
 *://*.esofttools.com/blog/*
 *://*.esrgear.com/blog/*
@@ -162,7 +176,9 @@
 *://*.experts-exchange.com/*
 *://*.extendoffice.com/*
 *://*.factbites.com/*
+*://*.familyhandyman.com/list/*
 *://*.familytagtw.com/*
+*://*.famoid.com/blog/*
 *://*.fastsoftwares.com/blog/*
 *://*.faxingsj.com/*
 *://*.fchanengclass.com/*
@@ -172,9 +188,11 @@
 *://*.firmwarespro.com/*
 *://*.fixthephoto.com/*
 *://*.fixyourandroid.com/*
+*://*.flexclip.com/learn/*
 *://*.fluentu.com/*
 *://*.flynav.com/*
 *://*.followchain.org/*
+*://*.followeran.com/*/blog/*
 *://*.fonedog.com/*
 *://*.fonegeek.com/*
 *://*.fonelab.com/*
@@ -209,6 +227,7 @@
 *://*.geonode.com/blog/*
 *://*.getapp.com/*
 *://*.getapp.ie/*
+*://*.getassist.net/*
 *://*.getdroidtips.com/*
 *://*.getmailbird.com/*
 *://*.getstream.io/blog/*
@@ -261,6 +280,7 @@
 *://*.hollyland.com/blog/*
 *://*.hometagtw.com/*
 *://*.host4geeks.com/blog/*
+*://*.housedigest.com/*
 *://*.how2shout.com/*
 *://*.howtodoninja.com/*
 *://*.howtoisolve.com/*
@@ -302,6 +322,8 @@
 *://*.insidenetwork.com/*
 *://*.insidetheweb.com/*
 *://blog.inspiresoftware.com/*
+*://*.instafollowers.co/blog/*
+*://*.instapage.com/blog/*
 *://*.intowindows.com/*
 *://*.ionos.com/digitalguide/*
 *://*.ioshacker.com/*
@@ -360,6 +382,7 @@
 *://*.liangfaner.com/*
 *://*.lifescienceglobal.com/*
 *://*.lifewire.com/*
+*://blog.lift.bio/*
 *://*.linuxadictos.com/*
 *://*.linuxandubuntu.com/*
 *://*.linuxconfig.org/*
@@ -466,10 +489,12 @@
 *://*.ostechnix.com/*
 *://*.oubafeng.com/*
 *://*.outbyte.com/*
+*://*.owskimedia.co.uk/content-hub/*
 *://*.outlookappins.com/*
 *://*.pagetraffic.com/*
 *://*.panagenda.com/blog/*
 *://*.partitionwizard.com/*
+*://*.pathsocial.com/resources/*
 *://*.payetteforward.com/*
 *://*.pc123.hao739.com/*
 *://*.pcerror-fix.com/*
@@ -511,6 +536,7 @@
 *://*.purevpn.com/blog/*
 *://*.pythonfixing.com/*
 *://*.qontak.com/*/blog/*
+*://*.qqtube.com/blog/*
 *://*.quick-adviser.com/*
 *://*.quoramarketing.com/*
 *://*.race.com/blog/*
@@ -546,6 +572,7 @@
 *://*.securedyou.com/*
 *://*.sellyourmac.com/mac-blog/*
 *://*.semrush.com/blog/*
+*://*.servicebell.com/post/*
 *://*.servicemycar.com/*/blog/*
 *://*.setapp.com/how-to/*
 *://*.sgss8.net/*
@@ -564,6 +591,8 @@
 *://*.slant.co/*
 *://*.slipstick.com/*
 *://*.slothytech.com/*
+*://support.smartdnsproxy.com/*
+*://*.smartwellness.com.au/blog/*
 *://*.smartwindows.app/blog/*
 *://*.softakensoftware.com/blog/*
 *://*.softkeys.uk/blogs/*
@@ -600,6 +629,7 @@
 *://*.storiesdown.com/*
 *://*.streamster.io/blog/*
 *://*.streamyard.com/blog/*
+*://*.strikesocial.com/blog/*
 *://*.studiobinder.com/blog/*
 *://*.studytonight.com/*
 *://blog.sucuri.net/*
@@ -622,6 +652,8 @@
 *://*.systweak.com/*
 *://*.tab-tv.com/*
 *://*.tabletmonkeys.com/*
+*://*.taplink.at/*/blog/*
+*://*.taskade.com/blog/*
 *://*.tastefn.xyz/*
 *://*.teamhood.com/project-management/*
 *://*.tech-faq.com/*
@@ -635,6 +667,7 @@
 *://*.techguided.com/*
 *://*.techhubnews2.com/*
 *://*.techilife.com/*
+*://*.techinsightzone.com/*
 *://*.techjunkie.com/*
 *://*.techlizar.com/*
 *://*.techloris.com/*
@@ -670,6 +703,7 @@
 *://*.techviral.net/*
 *://*.techwalla.com/*
 *://*.techwhoop.com/*
+*://*.techwiseinsider.com/*
 *://*.techwiser.com/*
 *://*.techwithtech.com/*
 *://*.techy.how/news/*
@@ -711,6 +745,7 @@
 *://*.thetechylife.com/*
 *://*.thewindowsclub.com/*
 *://*.thewritingparadigm.com/*
+*://*.thrivemyway.com/*
 *://*.tiancailv.com/*
 *://*.ticktechtold.com/*
 *://*.timedoctor.com/blog/*
@@ -729,6 +764,7 @@
 *://*.troypoint.com/*
 *://*.trustedreviews.com/*
 *://*.trustsu.com/*
+*://*.tuko.co.ke/facts-lifehacks/guides/*
 *://*.tuneskit.com/*
 *://*.turgs.com/blog/*
 *://*.tutorialspoint.com/*
@@ -775,8 +811,11 @@
 *://*.verywellmind.com/*
 *://*.videoconverterfactory.com/tips/*
 *://*.videohunter.net/*
+*://*.videoproc.com/*
 *://*.vidmore.com/*
+*://*.views4you.com/blog/*
 *://*.vintageits.com/*
+*://*.viralyft.com/blog/*
 *://*.viwizard.com/*
 *://*.vlchelp.com/*
 *://*.vpnmentor.com/blog/*
@@ -807,6 +846,7 @@
 *://*.winhelponline.com/*
 *://*.wintechlab.com/*
 *://*.wintips.org/*
+*://*.winxdvd.com/*
 *://*.wisestamp.com/blog/*
 *://*.wistia.com/learn/*
 *://*.wondershare.com/*
@@ -818,6 +858,7 @@
 *://*.wp-rocket.me/blog/*
 *://*.wpauthorbox.com/*
 *://*.wpsauce.com/*
+*://*.wpsocialninja.com/*
 *://blog.wtfast.com/blog/*
 *://*.xenconverter.com/blog/*
 *://*.xiaozhishi.net/*
@@ -830,4 +871,5 @@
 *://*.yourmarketingpeople.com/blog/*
 *://*.yourpinterest.com/*
 *://*.ytechb.com/*
+*://*.yugatech.com/*
 *://*.zapier.com/blog/*
