@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2024-08-28
+# Last updated: 2024-10-01
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
@@ -75,6 +75,7 @@
 *://*.bullvpn.com/*/blog/detail/*
 *://*.buybackboss.com/*
 *://*.buzzvoice.com/blog/*
+*://*.bytescare.com/blog/*
 *://*.canto.com/blog/*
 *://*.carlcare.com/*/tips-detail/*
 *://*.cashify.in/*
@@ -89,6 +90,7 @@
 *://*.clario.co/blog/*
 *://*.clean.email/*
 *://*.cleverfiles.com/*
+*://*.clipchamp.com/*/blog/*
 *://*.clonefileschecker.com/blog/*
 *://*.cloudzy.com/blog/*
 *://*.cmitsolutions.com/blog/*
@@ -320,6 +322,7 @@
 *://*.inosocial.com/*
 *://*.inpics.net/*
 *://*.insidenetwork.com/*
+*://*.insidermonkey.com/blog/*
 *://*.insidetheweb.com/*
 *://blog.inspiresoftware.com/*
 *://*.instafollowers.co/blog/*
@@ -355,6 +358,7 @@
 *://*.joyofandroid.com/*
 *://*.joyoshare.com/*
 *://*.justanswer.com/*
+*://*.kagels-trading.com/*
 *://*.kapilarya.com/*
 *://*.kapook.com/*
 *://*.kaspersky.com/blog/*
@@ -380,6 +384,7 @@
 *://*.lenetek.com/blog/*
 *://*.lettoknow.com/*
 *://*.liangfaner.com/*
+*://*.lickd.co/blog/*
 *://*.lifescienceglobal.com/*
 *://*.lifewire.com/*
 *://blog.lift.bio/*
@@ -429,8 +434,10 @@
 *://blog.mdaemon.com/*
 *://*.medicalnewstoday.com/*
 *://*.mefmobile.org/*
+*://*.mercury.co.nz/about-us/blog/*
 *://*.michaelpage.com/advice/*
 *://*.migrateclouddata.com/blog/*
+*://*.mindbodygreen.com/articles/*
 *://*.miniso.hk/*
 *://*.minitool.com/*
 *://*.mm-world-of-party.buzz/*
@@ -440,6 +447,7 @@
 *://*.mobitrix.com/*
 *://*.modify.in.th/*
 *://*.moesif.com/blog/*
+*://*.mominformed.com/*
 *://*.moneyinc.com/*
 *://*.monicagranbois.com/blog/*
 *://*.moutaileasing.com/*
@@ -485,6 +493,7 @@
 *://*.onmsft.com/*
 *://*.onsite-training.com/*
 *://*.ontargit.com/en/*
+*://*.originenergy.com.au/blog/*
 *://*.oryon.net/knowledge-base/*
 *://*.ostechnix.com/*
 *://*.oubafeng.com/*
@@ -521,6 +530,7 @@
 *://*.probleme.app/*
 *://*.process.st/how-to/*
 *://*.processchecker.com/*
+*://*.prodvigate.com/blog/*
 *://*.programmathically.com/*
 *://*.projectorsacademy.com/*
 *://*.proprivacy.com/*
@@ -564,6 +574,7 @@
 *://*.robots.net/*
 *://blog.rottenwifi.com/*
 *://*.rowdytech.com/*
+*://*.runcloud.io/blog/*
 *://*.runoob.com/*
 *://*.safetydetectives.com/*
 *://*.saintlad.com/*
@@ -618,6 +629,7 @@
 *://*.sprache.buzz/*
 *://*.spreadsheetsexpert.com/*
 *://*.sproutvideo.com/blog/*
+*://*.spyforkids.com/*
 *://*.stackhowto.com/*
 *://*.stardewguide.com/*
 *://*.steelseries.com/blog/*
@@ -724,6 +736,7 @@
 *://*.theandroidportal.com/*
 *://*.thebalancemoney.com/*
 *://*.thecontentauthority.com/blog/*
+*://*.thecoolist.com/*
 *://*.thecorrectblogger.com/*
 *://*.thecpuguide.com/*
 *://*.thedroidguy.com/*
@@ -797,6 +810,7 @@
 *://*.unixtutorial.org/*
 *://*.unleash.so/a/blog/*
 *://*.unlockboot.com/*
+*://*.uppbeat.io/blog/*
 *://*.ustrendpulse.site/*
 *://*.vaasotaa.buzz/*
 *://*.valibyte.com/*
