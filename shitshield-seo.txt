@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2024-10-01
+# Last updated: 2024-10-02
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
@@ -53,6 +53,7 @@
 *://*.avira.com/*/blog/*
 *://*.becs.co.uk/*
 *://*.beebom.com/*
+*://*.beincrypto.com/learn/*
 *://*.bestforandroid.com/*
 *://*.bettersolutions.com/*
 *://*.bighomechores.com/*
@@ -143,6 +144,7 @@
 *://*.disruptiveadvertising.com/blog/*
 *://*.diyarkim.online/*
 *://*.dmpro.app/*
+*://*.dollarsprout.com/*
 *://*.dotstella.com/blog/*
 *://*.downloadsource.net/*
 *://*.drivereasy.com/*
@@ -160,6 +162,13 @@
 *://*.eehelp.com/*
 *://*.eeq8.com/*
 *://*.electronicshub.org/*
+*://*.elegantthemes.com/blog/business/*
+*://*.elegantthemes.com/blog/design/*
+*://*.elegantthemes.com/blog/guides/*
+*://*.elegantthemes.com/blog/marketing/*
+*://*.elegantthemes.com/blog/resources/*
+*://*.elegantthemes.com/blog/tips-tricks/*
+*://*.elegantthemes.com/blog/wordpress/*
 *://*.eloking.com/blog/*
 *://*.emailanalytics.com/*
 *://*.emaildoctor.org/blog/*
@@ -200,6 +209,8 @@
 *://*.fonelab.com/*
 *://*.fonetool.com/*
 *://*.foodlife.blog/*
+*://*.forbes.com/advisor/*
+*://*.forbes.com/sites/rachelwells/*
 *://*.fossbytes.com/*
 *://*.free-videoconverter.net/video-editing/*
 *://*.freecodecamp.org/*
@@ -212,10 +223,13 @@
 *://*.gadgets-reviews.com/*
 *://*.gadgetstouse.com/*
 *://*.gamegrinds.com/*
+*://*.gamepressure.com/*
+*://*.gamescopes.com/*
 *://*.gameslikee.com/*
 *://*.gangl.de/blog-reader/*
 *://*.gearrice.com/*
 *://*.gearupbooster.com/blog/*
+*://*.geekschalk.com/*
 *://*.geekchamp.com/*
 *://*.geekdroids.com/*
 *://*.geekermag.com/*
@@ -281,6 +295,7 @@
 *://*.hndqxh.com/*
 *://*.hollyland.com/blog/*
 *://*.hometagtw.com/*
+*://blog.hootsuite.com/*
 *://*.host4geeks.com/blog/*
 *://*.housedigest.com/*
 *://*.how2shout.com/*
@@ -344,6 +359,7 @@
 *://*.itechfever.com/*
 *://*.itechguides.com/*
 *://*.itechhacks.com/*
+*://*.itechify.com/*
 *://*.itechtics.com/*
 *://*.itecnote.com/*
 *://*.itgeared.com/*
@@ -437,6 +453,7 @@
 *://*.mercury.co.nz/about-us/blog/*
 *://*.michaelpage.com/advice/*
 *://*.migrateclouddata.com/blog/*
+*://*.millennialmoneyman.com/*
 *://*.mindbodygreen.com/articles/*
 *://*.miniso.hk/*
 *://*.minitool.com/*
@@ -480,10 +497,12 @@
 *://*.nokiapoweruser.com/*
 *://*.nordvpn.com/blog/*
 *://*.nucleustechnologies.com/blog/*
+*://*.oberlo.com/blog/*
 *://*.obkio.com/blog/*
 *://*.obsbot.com/blog/*
 *://*.offthemrkt.com/*
 *://*.oitc.ca/blog/*
+*://*.onefinewallet.com/*
 *://*.onetimesoft.com/blog/*
 *://blog.online-convert.com/*
 *://*.online-tech-tips.com/*
@@ -508,6 +527,7 @@
 *://*.pc123.hao739.com/*
 *://*.pcerror-fix.com/*
 *://*.pcdelight.com/*
+*://*.pcglance.com/*
 *://blog.pcloud.com/*
 *://blog.pcrisk.com/*
 *://*.personalcomputerfixes.com/*
@@ -560,6 +580,7 @@
 *://*.recoverytools.com/blog/*
 *://*.regainsoftware.com/blog/*
 *://*.registryrecycler.com/blog/*
+*://*.reiboot.com/*
 *://*.remosoftware.com/*
 *://*.remote.tools/*
 *://*.repairwin.com/*
@@ -580,6 +601,7 @@
 *://*.saintlad.com/*
 *://*.sarkariexam.com/*
 *://*.sawyerlosangeles.com/*
+*://*.sebertech.com/*
 *://*.securedyou.com/*
 *://*.sellyourmac.com/mac-blog/*
 *://*.semrush.com/blog/*
@@ -593,11 +615,13 @@
 *://*.sharynmunro.com.au/blog/*
 *://*.shemalepo.co/*
 *://*.shimaogu.com/*
+*://*.shopify.com/blog/*
 *://*.shouchaobaoquan.com/*
 *://*.shoutmetech.com/*
 *://*.si-sv3401.com/*
 *://*.simplehow.tips/*
 *://*.simplyfixable.com/blog-detail/*
+*://*.simplymac.com/*
 *://*.sitelock.com/blog/*
 *://*.slant.co/*
 *://*.slipstick.com/*
@@ -678,6 +702,7 @@
 *://*.techdows.com/*
 *://*.techguided.com/*
 *://*.techhubnews2.com/*
+*://*.techietechie.com/*
 *://*.techilife.com/*
 *://*.techinsightzone.com/*
 *://*.techjunkie.com/*
@@ -726,6 +751,7 @@
 *://*.tecmint.com/*
 *://*.tekdeeps.com/*
 *://*.tekkigurus.com/*
+*://*.teknofixitsolutions.com/*
 *://*.telegguide.com/*
 *://*.telegram360.net/*
 *://*.tellerreport.com/*
@@ -735,6 +761,7 @@
 *://*.theandroidmirror.com/*
 *://*.theandroidportal.com/*
 *://*.thebalancemoney.com/*
+*://*.thecomputernoob.com/*
 *://*.thecontentauthority.com/blog/*
 *://*.thecoolist.com/*
 *://*.thecorrectblogger.com/*
@@ -756,8 +783,10 @@
 *://*.thetechmirror.com/*
 *://*.thetechnologypress.com/*
 *://*.thetechylife.com/*
+*://*.thewaystowealth.com/make-money/*
 *://*.thewindowsclub.com/*
 *://*.thewritingparadigm.com/*
+*://*.thinkific.com/blog/*
 *://*.thrivemyway.com/*
 *://*.tiancailv.com/*
 *://*.ticktechtold.com/*
@@ -811,6 +840,7 @@
 *://*.unleash.so/a/blog/*
 *://*.unlockboot.com/*
 *://*.uppbeat.io/blog/*
+*://*.upphone.com/fix/*
 *://*.ustrendpulse.site/*
 *://*.vaasotaa.buzz/*
 *://*.valibyte.com/*
