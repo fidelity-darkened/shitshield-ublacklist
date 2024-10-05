@@ -1,9 +1,10 @@
 # Title: shitshield-seo
-# Last updated: 2024-10-02
+# Last updated: 2024-10-05
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
 *://*.10scopes.com/*
+*://*.10web.io/blog/*
 *://*.2-remove-virus.com/*
 *://*.365tips.be/*
 *://*.403tech.com/*
@@ -93,6 +94,8 @@
 *://*.cleverfiles.com/*
 *://*.clipchamp.com/*/blog/*
 *://*.clonefileschecker.com/blog/*
+*://*.cloudwards.net/*
+*://*.cloudways.com/blog/*
 *://*.cloudzy.com/blog/*
 *://*.cmitsolutions.com/blog/*
 *://*.codecoda.com/en/blog/*
@@ -200,6 +203,7 @@
 *://*.fixthephoto.com/*
 *://*.fixyourandroid.com/*
 *://*.flexclip.com/learn/*
+*://*.float.com/resources/*
 *://*.fluentu.com/*
 *://*.flynav.com/*
 *://*.followchain.org/*
@@ -297,6 +301,7 @@
 *://*.hometagtw.com/*
 *://blog.hootsuite.com/*
 *://*.host4geeks.com/blog/*
+*://*.hostinger.com/tutorials/*
 *://*.housedigest.com/*
 *://*.how2shout.com/*
 *://*.howtodoninja.com/*
@@ -447,6 +452,7 @@
 *://*.malcare.com/blog/*
 *://*.martellotech.com/blog/*
 *://*.mashtips.com/*
+*://*.mayple.com/blog/*
 *://blog.mdaemon.com/*
 *://*.medicalnewstoday.com/*
 *://*.mefmobile.org/*
@@ -496,6 +502,7 @@
 *://*.nogomi.ru/*
 *://*.nokiapoweruser.com/*
 *://*.nordvpn.com/blog/*
+*://*.nostra.ai/blogs-collection/*
 *://*.nucleustechnologies.com/blog/*
 *://*.oberlo.com/blog/*
 *://*.obkio.com/blog/*
@@ -622,6 +629,7 @@
 *://*.simplehow.tips/*
 *://*.simplyfixable.com/blog-detail/*
 *://*.simplymac.com/*
+*://*.sitechecker.pro/site-audit-issues/*
 *://*.sitelock.com/blog/*
 *://*.slant.co/*
 *://*.slipstick.com/*
@@ -901,6 +909,7 @@
 *://*.wowza.com/blog/*
 *://*.wp-rocket.me/blog/*
 *://*.wpauthorbox.com/*
+*://*.wpexperts.io/blog/*
 *://*.wpsauce.com/*
 *://*.wpsocialninja.com/*
 *://blog.wtfast.com/blog/*
