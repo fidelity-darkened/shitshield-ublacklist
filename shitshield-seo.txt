@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2024-10-05
+# Last updated: 2024-10-17
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
@@ -43,6 +43,7 @@
 *://*.appslova.com/*
 *://*.apptuts.net/*
 *://*.appuals.com/*
+*://*.aprenderlinux.org/*
 *://*.asapguide.com/*
 *://*.asurion.com/*
 *://*.aussiemobilephonerepairs.com.au/blog/*
@@ -125,6 +126,7 @@
 *://*.datanumen.com/blogs/*
 *://*.datarecoveryadviser.com/*
 *://*.datarepairtools.com/blog/*
+*://*.debugpoint.com/*
 *://*.deletingsolutions.com/*
 *://*.devconnected.com/*
 *://*.devicemag.com/*
@@ -216,6 +218,7 @@
 *://*.forbes.com/advisor/*
 *://*.forbes.com/sites/rachelwells/*
 *://*.fossbytes.com/*
+*://*.fosslinux.com/*
 *://*.free-videoconverter.net/video-editing/*
 *://*.freecodecamp.org/*
 *://*.freemake.com/blog/*
@@ -411,10 +414,15 @@
 *://blog.lift.bio/*
 *://*.linuxadictos.com/*
 *://*.linuxandubuntu.com/*
+*://*.linuxbuzz.com/*
+*://*.linuxcapable.com/*
 *://*.linuxconfig.org/*
+*://*.linuxgui.com/*
 *://*.linuxhint.com/*
 *://*.linuxize.com/post/*
+*://*.linuxpunx.com.au/*
 *://*.linuxsimply.com/*
+*://*.linuxtoday.com/blog/*
 *://*.linuxways.net/*
 *://*.liveinhomecare.com/*
 *://*.livelingua.com/*
@@ -444,6 +452,7 @@
 *://*.mailconvertertools.com/blog/*
 *://*.mailmeteor.com/blog/*
 *://*.mailsdaddy.com/blogs/*
+*://*.mailsuite.com/blog/*
 *://*.mailsware.com/blog/*
 *://*.mailtrap.io/blog/*
 *://*.makersaid.com/*
@@ -612,6 +621,7 @@
 *://*.securedyou.com/*
 *://*.sellyourmac.com/mac-blog/*
 *://*.semrush.com/blog/*
+*://*.serverwatch.com/*
 *://*.servicebell.com/post/*
 *://*.servicemycar.com/*/blog/*
 *://*.setapp.com/how-to/*
@@ -651,6 +661,7 @@
 *://*.solveyourtech.com/*
 *://*.sorcim.com/blog/*
 *://*.sothinkmedia.com/*
+*://*.sourcedigit.com/*
 *://*.spacehop.com/*
 *://*.speechify.com/blog/*
 *://*.speedify.com/blog/*
@@ -684,7 +695,9 @@
 *://*.supportyourtech.com/*
 *://*.surferseo.com/blog/*
 *://*.surfshark.com/blog/*
+*://*.swifdoo.com/blog/*
 *://*.syncios.com/*
+*://*.sysadminsage.com/*
 *://*.sysconverter.com/blog/*
 *://*.syscurve.com/blog/*
 *://*.sysessential.com/blog/*
@@ -778,6 +791,7 @@
 *://*.thegamer.com/*
 *://*.thegeekpage.com/*
 *://*.thegoneapp.com/*
+*://*.thelinuxcode.com/*
 *://*.thelinuxuser.com/*
 *://*.themeisle.com/blog/*
 *://*.themuse.com/advice/*
@@ -838,6 +852,8 @@
 *://*.ubackup.com/windows-7/*
 *://*.ubackup.com/windows-8/*
 *://*.ubackup.com/windows-server/*
+*://*.ubunlog.com/*
+*://*.ubuntumint.com/*
 *://*.uctoday.com/*
 *://*.ugetfix.com/*
 *://*.ulkecesek.online/*
