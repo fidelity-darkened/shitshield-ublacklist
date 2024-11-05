@@ -1,10 +1,16 @@
 # Title: shitshield-content-farm
-# Last updated: 2024-06-16
+# Last updated: 2024-11-05
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
+*://*.021diao.com/*
 *://*.17moveon.com/*
 *://*.1applehealth.com/*
+*://*.360changshi.com/*
+*://*.413yy.cn/*
+*://*.51dongshi.com/*
+*://*.61k.com/*
 *://*.6parkbbs.com/*
+*://*.99.com.cn/*
 *://*.aboutlove.cc/*
 *://*.adaymag.com/*
 *://*.anjiashe.com/*
@@ -12,6 +18,7 @@
 *://*.anzhaiba.com/*
 *://*.auzhu.com/*
 *://*.ayshz.com/*
+*://*.azg168.cn/*
 *://*.babypartyy.com/*
 *://*.bad.news/*
 *://*.baobeizhou.com/*
@@ -25,6 +32,7 @@
 *://*.boxueji.com/*
 *://*.bqfwx.com/*
 *://*.bqwxb.com/*
+*://*.buyiju.com/*
 *://*.buzzhand.com/*
 *://*.bxshb.com/*
 *://*.caihuadu.com/*
@@ -42,6 +50,7 @@
 *://*.csbkg.com/*
 *://*.csdn.net/*
 *://*.cwyan.com/*
+*://*.d1xz.net/*
 *://*.damyup.co/*
 *://*.daohang03.com/xw/*
 *://*.daohang07.com/xw/*
@@ -98,6 +107,7 @@
 *://*.jdyxg.com/*
 *://*.jendow.com.tw/*
 *://*.jianliguan.com/*
+*://*.jiaochengzhijia.com/*
 *://*.jiayaowu.com/*
 *://*.jingyanguan.com/*
 *://*.jingyanjun.com/*
@@ -108,11 +118,14 @@
 *://*.juduo.cc/*
 *://*.jueshifan.com/*
 *://*.jumeiguan.com/*
+*://*.k366.com/*
 *://*.kdxzw.com/*
+*://*.kejidaka.cn/*
 *://*.kepugu.com/*
 *://*.kitgortalk.com/*
 *://*.kkjlw.com/*
 *://*.kknews.cc/*
+*://*.kktian.com/*
 *://*.kkyyg.com/*
 *://*.kolauthor.com/*
 *://*.kpzsz.com/*
@@ -121,6 +134,7 @@
 *://*.kxysf.com/*
 *://*.kxyxg.com/*
 *://*.kzbkw.com/*
+*://*.leirenbang.com/*
 *://*.lejuka.com/*
 *://*.lgfwz.com/*
 *://*.lgxzw.com/*
@@ -164,6 +178,7 @@
 *://*.newton.com.tw/*
 *://*.nichengzhan.com/*
 *://*.nowlooker.com/*
+*://*.oicq88.com/*
 *://*.onefunnyjoke.com/*
 *://*.pass345.com/*
 *://*.peekme.cc/*
@@ -187,10 +202,13 @@
 *://*.shimaozhai.com/*
 *://*.shishangdong.com/*
 *://*.smyyj.com/*
+*://*.soubct.com/*
 *://*.ssnxf.com/*
 *://*.story543.com/*
+*://*.suanming.com/*
 *://*.tantannews.com/*
 *://*.teepr.com/*
+*://*.tianqi.com/*
 *://shitpost.travel.blog/*
 *://trytrylove.com/*
 *://tw100s.com/*
@@ -202,6 +220,7 @@
 *://*.wangmingguan.com/*
 *://*.waxzz.com/*
 *://*.winrayland.com/*
+*://*.xingyunba.com/*
 *://*.xingzuobibi.net/*
 *://*.xiumeiguan.com/*
 *://*.xueshidu.com/*
