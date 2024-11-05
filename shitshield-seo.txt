@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2024-10-17
+# Last updated: 2024-11-05
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
@@ -33,6 +33,7 @@
 *://*.androidguias.com/*
 *://*.androidphonesoft.com/blog/*
 *://*.androidtvnews.com/*
+*://*.anhui.cc/*
 *://*.animotica.com/blog/*
 *://*.anycontrol.app/blog/post/*
 *://*.anyrecover.com/*
