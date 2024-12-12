@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2024-11-24
+# Last updated: 2024-12-12
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
@@ -18,6 +18,7 @@
 *://*.addictivetips.com/*
 *://*.addresources.org/*
 *://*.adlock.com/blog/*
+*://*.adspower.com/blog/*
 *://*.adviksoft.com/blog/*
 *://blog.affinityconsulting.com/*
 *://*.aicontentfy.com/en/blog/*
@@ -49,6 +50,7 @@
 *://*.asurion.com/*
 *://*.aussiemobilephonerepairs.com.au/blog/*
 *://*.autobest.co.in/blog-detail/*
+*://*.automator.us/*
 *://*.avadirect.com/blog/*
 *://*.avaide.com/edit-video/*
 /avast\.com\/c-/
@@ -151,6 +153,7 @@
 *://*.diskgenius.com/resource/*
 *://*.diskpart.com/*
 *://*.disruptiveadvertising.com/blog/*
+*://*.distantjob.com/blog/*
 *://*.diyarkim.online/*
 *://*.dmpro.app/*
 *://*.dollarsprout.com/*
@@ -240,6 +243,7 @@
 *://*.gamescopes.com/*
 *://*.gameslikee.com/*
 *://*.gangl.de/blog-reader/*
+*://*.gbtimes.com/*
 *://*.gearrice.com/*
 *://*.gearupbooster.com/blog/*
 *://*.geekschalk.com/*
@@ -333,6 +337,7 @@
 *://*.iboysoft.com/tips/*
 *://*.iboysoft.com/wiki/*
 *://*.ibuypower.com/blog/*
+*://*.idigic.net/blog/*
 *://*.idiskhome.com/resource/*
 *://*.idownloadblog.com/*
 *://*.iesgp.com/blog/*
@@ -445,6 +450,7 @@
 *://*.loginwiz.com/*
 *://blog.loltheory.gg/*
 *://*.lookeen.com/blog/*
+*://*.louisem.com/*
 *://*.ludwig.guru/blog/*
 *://*.lujuba.cc/*
 *://*.m.io/blog/*
@@ -471,6 +477,7 @@
 *://*.martellotech.com/blog/*
 *://*.mashtips.com/*
 *://*.mayple.com/blog/*
+*://*.mayple.com/resources/*
 *://blog.mdaemon.com/*
 *://*.medicalnewstoday.com/*
 *://*.mefmobile.org/*
@@ -661,6 +668,7 @@
 *://support.smartdnsproxy.com/*
 *://*.smartwellness.com.au/blog/*
 *://*.smartwindows.app/blog/*
+*://*.socialappshq.com/*
 *://*.softakensoftware.com/blog/*
 *://*.softkeys.uk/blogs/*
 *://*.softstribe.com/*
@@ -675,6 +683,7 @@
 *://*.solveyourtech.com/*
 *://*.sorcim.com/blog/*
 *://*.sothinkmedia.com/*
+*://*.sotrender.com/blog/*
 *://*.sourcedigit.com/*
 *://*.spacehop.com/*
 *://*.speechify.com/blog/*
@@ -689,6 +698,7 @@
 *://*.spyforkids.com/*
 *://*.stackhowto.com/*
 *://*.stardewguide.com/*
+*://*.statuslist.app/*
 *://*.steelseries.com/blog/*
 *://*.stellarinfo.com/article/*
 *://*.stellarinfo.com/blog/*
@@ -901,12 +911,14 @@
 *://*.videohunter.net/*
 *://*.videoproc.com/*
 *://*.vidmore.com/*
+*://*.vietbay.com.vn/en/*
 *://*.views4you.com/blog/*
 *://*.vintageits.com/*
 *://*.viralyft.com/blog/*
 *://*.viwizard.com/*
 *://*.vlchelp.com/*
 *://*.vpnmentor.com/blog/*
+*://*.vulcan.io/blog/*
 *://*.wall-designers.buzz/*
 *://*.wamsinc.com/*
 *://*.wati.io/blog/*
@@ -926,6 +938,7 @@
 *://*.winbuzzer.com/*
 *://*.windows101tricks.com/*
 *://*.windowsbulletin.com/*
+*://*.windowsdigitals.com/*
 *://*.windowslatest.com/*
 *://*.windowsloop.com/*
 *://*.windowspixel.com/*
@@ -962,3 +975,4 @@
 *://*.ytechb.com/*
 *://*.yugatech.com/*
 *://*.zapier.com/blog/*
+*://*.zillow.com/learn/*
