@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2024-12-12
+# Last updated: 2025-02-03
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
@@ -282,6 +282,7 @@
 *://*.guzelgunlere.online/*
 *://*.gzchaxun.com/*
 *://*.hardreset.info/*
+*://*.hardware-corner.net/*
 *://*.hddfaqs.com/*
 *://*.health.com/*
 *://*.healthfully.com/*
@@ -584,6 +585,7 @@
 *://*.probleme.app/*
 *://*.process.st/how-to/*
 *://*.processchecker.com/*
+*://*.prodiadigital.com/id/*
 *://*.prodvigate.com/blog/*
 *://*.programmathically.com/*
 *://*.projectorsacademy.com/*
