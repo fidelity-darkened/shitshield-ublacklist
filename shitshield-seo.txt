@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2025-02-03
+# Last updated: 2025-02-18
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
@@ -47,6 +47,7 @@
 *://*.appuals.com/*
 *://*.aprenderlinux.org/*
 *://*.asapguide.com/*
+*://*.astrill.com/blog/*
 *://*.asurion.com/*
 *://*.aussiemobilephonerepairs.com.au/blog/*
 *://*.autobest.co.in/blog-detail/*
@@ -125,6 +126,7 @@
 *://*.crucial.com/blog/*
 *://*.cuterank.net/*
 *://*.cybercrew.uk/*
+*://*.cyberguy.com/*
 *://*.cybernews.com/*
 *://*.daisyuk.tech/resource/*
 *://*.darwinsdata.com/*
@@ -160,6 +162,7 @@
 *://*.dotstella.com/blog/*
 *://*.downloadsource.net/*
 *://*.drivereasy.com/*
+*://*.driversupport.com/knowledge-article/*
 *://*.droidwin.com/*
 *://*.dsolutionsgroup.com/*
 *://*.duhoctrungquoc.vn/*
@@ -198,6 +201,7 @@
 *://*.expel.com/blog/*
 *://blog.expertrec.com/*
 *://*.experts-exchange.com/*
+*://*.expressvpn.com/blog/*
 *://*.extendoffice.com/*
 *://*.factbites.com/*
 *://*.familyhandyman.com/list/*
@@ -267,6 +271,7 @@
 *://*.gizchina.com/*
 *://*.giznext.com/news/*
 *://*.globalapptesting.com/blog/*
+*://*.gmass.co/blog/*
 *://*.gooood.cn/*
 *://*.goproxy.com/blog/*
 *://*.got-it.ai/*
@@ -352,6 +357,8 @@
 *://*.improveworkspace.com/*
 *://*.imyfone.com/*
 *://*.imymac.com/*
+*://*.incogniton.com/blog/*
+*://*.incogniton.com/knowledge center/*
 *://*.indeed.com/career-advice/*
 *://*.infoabsolute.com/*
 *://*.infoinspired.com/*
@@ -362,6 +369,7 @@
 *://*.insidenetwork.com/*
 *://*.insidermonkey.com/blog/*
 *://*.insidetheweb.com/*
+*://*.insightit.com.au/*
 *://blog.inspiresoftware.com/*
 *://*.instafollowers.co/blog/*
 *://*.instapage.com/blog/*
@@ -481,6 +489,7 @@
 *://*.mayple.com/resources/*
 *://blog.mdaemon.com/*
 *://*.medicalnewstoday.com/*
+*://*.medicinenet.com/*
 *://*.mefmobile.org/*
 *://*.mercury.co.nz/about-us/blog/*
 *://*.michaelpage.com/advice/*
@@ -519,6 +528,7 @@
 *://*.negeri.live/*
 *://*.nektony.com/blog/*
 *://*.nengajou.buzz/*
+*://*.neo.space/blog/*
 *://*.nerdschalk.com/*
 *://*.newbieadvisor.com/*
 *://*.newscitech.com/*
@@ -535,6 +545,7 @@
 *://*.obsbot.com/blog/*
 *://*.offthemrkt.com/*
 *://*.oitc.ca/blog/*
+*://*.onecal.io/blog/*
 *://*.onecomputerguy.com/*
 *://*.onefinewallet.com/*
 *://*.onetimesoft.com/blog/*
@@ -637,6 +648,7 @@
 *://*.runoob.com/*
 *://*.safetydetectives.com/*
 *://*.saintlad.com/*
+*://*.saleshandy.com/blog/*
 *://*.sarkariexam.com/*
 *://*.sawyerlosangeles.com/*
 *://*.sebertech.com/*
@@ -654,6 +666,7 @@
 *://*.sharegate.com/blog/*
 *://*.sharynmunro.com.au/blog/*
 *://*.shemalepo.co/*
+*://*.shift.com/blog/*
 *://*.shimaogu.com/*
 *://*.shopify.com/blog/*
 *://*.shouchaobaoquan.com/*
@@ -699,6 +712,7 @@
 *://*.sproutvideo.com/blog/*
 *://*.spyforkids.com/*
 *://*.stackhowto.com/*
+*://*.standsapp.org/blog/*
 *://*.stardewguide.com/*
 *://*.statuslist.app/*
 *://*.steelseries.com/blog/*
@@ -717,7 +731,6 @@
 *://*.supcase.com/blogs/*
 *://*.supereasy.com/*
 *://blog.superhuman.com/*
-*://www.techsolutions.support.com/how-to/*
 *://*.supportyourtech.com/*
 *://*.surferseo.com/blog/*
 *://*.surfshark.com/blog/*
@@ -779,6 +792,7 @@
 *://*.techprojournal.com/*
 *://*.techreviewadvisor.com/*
 *://*.techshasthra.com/*
+*://www.techsolutions.support.com/how-to/*
 *://*.techsupportall.com/*
 *://*.techsynchron.com/*
 *://*.techtarget.com/*/tip/*
@@ -805,6 +819,7 @@
 *://*.tellerreport.com/*
 *://*.tencomputer.com/*
 *://*.tenorshare.com/*
+*://*.teqiq.com/*
 *://*.textexpander.com/blog/*
 *://*.theandroidmirror.com/*
 *://*.theandroidportal.com/*
@@ -917,6 +932,7 @@
 *://*.views4you.com/blog/*
 *://*.vintageits.com/*
 *://*.viralyft.com/blog/*
+*://blog.virtosoftware.com/*
 *://*.viwizard.com/*
 *://*.vlchelp.com/*
 *://*.vpnmentor.com/blog/*
