@@ -2,7 +2,7 @@ Shitshield is a series of [uBlacklist](https://github.com/iorate/ublacklist) blo
 
 # Lists
 Lists are mutually exclusive. If a website is on one list, it will not be on another, unless a subdomain is drastically different to the rest of the site and warrants to be included in another list.
-* shitshield-seo: Blocks unuseful, SEO-crafted content
+* shitshield-seo: Blocks unuseful, SEO-crafted content designed to be hidden advertising or to profit from affiliate links
 * shitshield-poor-ugc: Blocks unhelpful user-generated content like poorly moderated Q&A sites that reward users for contributing content no matter how useless it is
 * shitshield-content-farm: Blocks websites filled with low-quality content lifted from another source often without permission
 
