@@ -1,5 +1,5 @@
 # Title: shitshield-content-farm
-# Last updated: 2024-11-05
+# Last updated: 2025-03-08
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.021diao.com/*
@@ -10,6 +10,8 @@
 *://*.51dongshi.com/*
 *://*.61k.com/*
 *://*.6parkbbs.com/*
+*://*.7476.com/*
+*://*.88tph.com/*
 *://*.99.com.cn/*
 *://*.aboutlove.cc/*
 *://*.adaymag.com/*
@@ -120,6 +122,7 @@
 *://*.jumeiguan.com/*
 *://*.k366.com/*
 *://*.kdxzw.com/*
+*://*.keaitupian.com/*
 *://*.kejidaka.cn/*
 *://*.kepugu.com/*
 *://*.kitgortalk.com/*
@@ -128,6 +131,7 @@
 *://*.kktian.com/*
 *://*.kkyyg.com/*
 *://*.kolauthor.com/*
+*://*.kole8.com/*
 *://*.kpzsz.com/*
 *://*.kuzhiba.com/*
 *://*.kxshz.com/*
@@ -211,6 +215,7 @@
 *://*.tianqi.com/*
 *://shitpost.travel.blog/*
 *://trytrylove.com/*
+*://*.tt98.com/*
 *://tw100s.com/*
 *://*.twgreatdaily.com/*
 *://*.uyuanfen.com/*
