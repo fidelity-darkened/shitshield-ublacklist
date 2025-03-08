@@ -1,11 +1,12 @@
 # Title: shitshield-seo
-# Last updated: 2025-02-18
+# Last updated: 2025-03-08
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
 *://*.10scopes.com/*
 *://*.10web.io/blog/*
 *://*.2-remove-virus.com/*
+*://*.2qqtouxiang.com/*
 *://*.365tips.be/*
 *://*.403tech.com/*
 *://*.4winkey.com/how_it_works/*
@@ -49,6 +50,8 @@
 *://*.asapguide.com/*
 *://*.astrill.com/blog/*
 *://*.asurion.com/*
+*://*.audiophiles.co/*
+*://*.audiochamps.com/*
 *://*.aussiemobilephonerepairs.com.au/blog/*
 *://*.autobest.co.in/blog-detail/*
 *://*.automator.us/*
@@ -127,6 +130,7 @@
 *://*.cuterank.net/*
 *://*.cybercrew.uk/*
 *://*.cyberguy.com/*
+*://*.cyberinsider.com/*
 *://*.cybernews.com/*
 *://*.daisyuk.tech/resource/*
 *://*.darwinsdata.com/*
@@ -209,6 +213,7 @@
 *://*.famoid.com/blog/*
 *://*.fastsoftwares.com/blog/*
 *://*.faxingsj.com/*
+*://*.www.fcas.hk/*
 *://*.fchanengclass.com/*
 *://*.filechimp.co.uk/*
 *://*.fileinspect.com/blog/*
@@ -865,6 +870,7 @@
 *://*.tips.net/*
 *://*.togetherplatform.com/blog/*
 *://*.top-password.com/*
+*://*.top10vpn.com/*
 *://*.toptvtips.com/*
 *://*.tr-ex.me/*
 *://*.trainchinese.com/*
