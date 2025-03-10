@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2025-03-08
+# Last updated: 2025-03-09
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
@@ -14,6 +14,7 @@
 *://*.a3erf.com/*
 *://*.abancommercials.com/*
 *://*.acefone.com/blog/*
+*://blog.acer.com/*
 *://*.acethinker.com/*
 *://*.acumenitsupport.com/blog/*
 *://*.addictivetips.com/*
@@ -67,6 +68,7 @@
 *://*.bettersolutions.com/*
 *://*.bighomechores.com/*
 *://*.bitrecover.com/blog/*
+*://bittitaivas.fi/*
 *://*.blackview.hk/blog/*
 *://*.blazeo.com/blog/*
 *://*.bloggersideas.com/*
@@ -126,7 +128,26 @@
 *://*.createregisteraccount.com/*
 *://*.creativeforce.io/blog/*
 *://*.crisp.co/*
+*://*.crucial.cn/articles/*
+*://*.crucial.cn/blog/*
+*://*.crucial.com/articles/*
 *://*.crucial.com/blog/*
+*://*.crucial.de/articles/*
+*://*.crucial.de/blog/*
+*://*.crucial.es/articles/*
+*://*.crucial.es/blog/*
+*://*.crucial.fr/articles/*
+*://*.crucial.fr/blog/*
+*://*.crucial.in/articles/*
+*://*.crucial.in/blog/*
+*://*.crucial.jp/articles/*
+*://*.crucial.jp/blog/*
+*://*.crucial.kr/articles/*
+*://*.crucial.kr/blog/*
+*://*.crucial.mx/articles/*
+*://*.crucial.mx/blog/*
+*://*.crucial.tw/articles/*
+*://*.crucial.tw/blog/*
 *://*.cuterank.net/*
 *://*.cybercrew.uk/*
 *://*.cyberguy.com/*
@@ -332,6 +353,7 @@
 *://*.howto-do.it/*
 *://*.howtodoninja.com/*
 *://*.howtoisolve.com/*
+*://*.hp.com/*/shop/tech-takes/*
 *://*.hscrystal.buzz/*
 *://blog.hubspot.com/*
 *://services.hummingbirdnetworks.com/blog/*
@@ -477,6 +499,7 @@
 *://*.macsonik.com/blog/*
 *://*.macuncle.com/blog/*
 *://*.macxtra.com/blog/*
+*://*.madpenguin.org/*
 *://*.magustools.com/*
 *://*.mailconvertertools.com/blog/*
 *://*.mailmeteor.com/blog/*
@@ -758,6 +781,7 @@
 *://*.tastefn.xyz/*
 *://*.teamhood.com/project-management/*
 *://*.tech-faq.com/*
+*://*.tech2geek.net/*
 *://*.tech4gamers.com/*
 *://*.techadvisor.com/*
 *://*.techbeezer.com/*
@@ -802,6 +826,7 @@
 *://*.techsynchron.com/*
 *://*.techtarget.com/*/tip/*
 *://*.techtippr.com/*
+*://techtipvault.com/*
 *://*.techtolead.com/*
 *://*.techunwrapped.com/*
 *://*.techviral.net/*
@@ -825,6 +850,7 @@
 *://*.tencomputer.com/*
 *://*.tenorshare.com/*
 *://*.teqiq.com/*
+*://blog.textedly.com/*
 *://*.textexpander.com/blog/*
 *://*.theandroidmirror.com/*
 *://*.theandroidportal.com/*
@@ -869,6 +895,7 @@
 *://*.tipbulletin.com/*
 *://*.tips.net/*
 *://*.togetherplatform.com/blog/*
+*://*.toolify.ai/*
 *://*.top-password.com/*
 *://*.top10vpn.com/*
 *://*.toptvtips.com/*
@@ -923,6 +950,7 @@
 *://*.valibyte.com/*
 *://*.vbncfoo.online/*
 *://*.vdocipher.com/blog/*
+*://*.vedantsri.net/*
 *://blog.veefly.com/*
 *://*.verenerjiyi.online/*
 *://*.veritone.com/blog/*
@@ -955,6 +983,7 @@
 *://*.wefixtech.co.ke/*
 *://*.wethegeek.com/*
 *://*.whatsabyte.com/*
+*://*.which.co.uk/*
 *://*.whichvoip.com/articles/*
 *://*.whistleout.com/*/Guides/*
 *://*.wikidiff.com/*
