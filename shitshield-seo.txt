@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2025-03-09
+# Last updated: 2025-03-10
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
@@ -174,6 +174,7 @@
 *://*.digitalinformationworld.com/*
 *://*.digitalocean.com/community/tutorials/*
 *://*.digitalsolute.com/*
+*://*.digitalsynopsis.com/*
 *://*.digitalthinkerhelp.com/*
 *://*.digitbin.com/*
 *://*.discoverhowtodoit.com/*
@@ -282,6 +283,7 @@
 *://*.geekermag.com/*
 *://*.geekflare.com/*
 *://*.geekinsider.com/*
+*://*.geeks2u.com.au/geekspeak/*
 *://*.geeksadvice.com/*
 *://*.geekschalk.com/*
 *://*.geeksforgeeks.org/*
@@ -865,6 +867,7 @@
 *://*.thegamer.com/*
 *://*.thegeekpage.com/*
 *://*.thegoneapp.com/*
+*://*.theinsaneapp.com/*
 *://*.thelinuxcode.com/*
 *://*.thelinuxuser.com/*
 *://*.themeisle.com/blog/*
