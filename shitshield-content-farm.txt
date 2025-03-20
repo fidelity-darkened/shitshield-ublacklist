@@ -1,5 +1,5 @@
 # Title: shitshield-content-farm
-# Last updated: 2025-03-08
+# Last updated: 2025-03-19
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.021diao.com/*
@@ -225,6 +225,7 @@
 *://*.wangmingguan.com/*
 *://*.waxzz.com/*
 *://*.winrayland.com/*
+*://*.woshipm.com/*
 *://*.xingyunba.com/*
 *://*.xingzuobibi.net/*
 *://*.xiumeiguan.com/*
