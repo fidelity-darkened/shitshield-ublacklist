@@ -1,14 +1,16 @@
 # Title: shitshield-seo
-# Last updated: 2025-03-10
+# Last updated: 2025-03-19
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
 *://*.10scopes.com/*
 *://*.10web.io/blog/*
 *://*.2-remove-virus.com/*
+*://*.21cloudbox.com/*
 *://*.2qqtouxiang.com/*
 *://*.365tips.be/*
 *://*.403tech.com/*
+*://www.4easysoft.com/*
 *://*.4winkey.com/how_it_works/*
 *://*.7datarecovery.com/*
 *://*.a3erf.com/*
@@ -101,6 +103,7 @@
 *://*.cisdem.com/resource/*
 *://*.clario.co/blog/*
 *://*.clean.email/*
+*://cleanmymac.com/blog/*
 *://*.cleverfiles.com/*
 *://*.clipchamp.com/*/blog/*
 *://*.clonefileschecker.com/blog/*
@@ -166,6 +169,7 @@
 *://*.devicetests.com/*
 *://*.dexerto.com/*
 *://*.dialpad.com/blog/*
+*://dicloak.com/blog-detail/*
 *://*.dict.cn/*
 *://*.diffen.com/*
 *://*.difference.wiki/*
@@ -221,6 +225,7 @@
 *://*.ergeon.com/blog/post/*
 *://*.esofttools.com/blog/*
 *://*.esrgear.com/blog/*
+*://*.evaboot.com/blog/*
 *://*.evercast.us/blog/*
 *://*.exitlag.com/blog/*
 *://*.expediencesoftware.com/blog/*
@@ -486,6 +491,7 @@
 *://*.loginports.com/*
 *://*.loginvsi.com/resources/blog/*
 *://*.loginwiz.com/*
+*://logo.com/blog/*
 *://blog.loltheory.gg/*
 *://*.lookeen.com/blog/*
 *://*.louisem.com/*
@@ -518,6 +524,7 @@
 *://*.mayple.com/blog/*
 *://*.mayple.com/resources/*
 *://blog.mdaemon.com/*
+*://knowledge.mdaemon.com/*
 *://*.medicalnewstoday.com/*
 *://*.medicinenet.com/*
 *://*.mefmobile.org/*
@@ -592,6 +599,7 @@
 *://*.ostechnix.com/*
 *://*.oubafeng.com/*
 *://*.outbyte.com/*
+*://resources.owllabs.com/blog/*
 *://*.owskimedia.co.uk/content-hub/*
 *://*.outlookappins.com/*
 *://*.pagetraffic.com/*
@@ -655,6 +663,7 @@
 *://*.readytodiy.com/*
 *://*.realitytvrevisited.com/*
 *://*.realsimple.com/*
+*://*.recoveryfix.com/blog/*
 *://*.recoverytools.com/blog/*
 *://*.regainsoftware.com/blog/*
 *://*.registryrecycler.com/blog/*
@@ -666,6 +675,7 @@
 *://*.resolutionacoustics.com/*
 *://*.restream.io/blog/*
 *://*.reverbtimemag.com/blogs_on/*
+*://*.reversecontact.com/blog/*
 *://*.reviewsfire.com/*
 *://*.reviversoft.com/blog/*
 *://*.revouninstaller.com/blog/*
@@ -710,6 +720,7 @@
 *://*.slant.co/*
 *://*.slipstick.com/*
 *://*.slothytech.com/*
+*://smartasset.com/retirement/*
 *://support.smartdnsproxy.com/*
 *://*.smartwellness.com.au/blog/*
 *://*.smartwindows.app/blog/*
@@ -973,6 +984,7 @@
 *://*.viwizard.com/*
 *://*.vlchelp.com/*
 *://*.vpnmentor.com/blog/*
+*://*.vpncentral.com/*
 *://*.vulcan.io/blog/*
 *://*.wall-designers.buzz/*
 *://*.wamsinc.com/*
@@ -980,7 +992,9 @@
 *://*.wccftech.com/*
 *://*.webnedio.com/*
 *://*.webnots.com/*
+*://*.webshare.io/blog/*
 *://*.webstick.blog/*
+*://webtrickz.com/*
 *://*.wepc.com/tips/*
 *://*.weeom.com/blog/*
 *://*.wefixtech.co.ke/*
