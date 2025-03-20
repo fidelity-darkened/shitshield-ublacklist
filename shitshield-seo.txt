@@ -525,6 +525,7 @@
 *://*.mayple.com/resources/*
 *://blog.mdaemon.com/*
 *://knowledge.mdaemon.com/*
+*://medevel.com/*
 *://*.medicalnewstoday.com/*
 *://*.medicinenet.com/*
 *://*.mefmobile.org/*
