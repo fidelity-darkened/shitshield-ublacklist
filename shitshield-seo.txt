@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2025-03-19
+# Last updated: 2025-03-29
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
@@ -13,6 +13,7 @@
 *://www.4easysoft.com/*
 *://*.4winkey.com/how_it_works/*
 *://*.7datarecovery.com/*
+*://*.90seconds.com/*/what-is/*
 *://*.a3erf.com/*
 *://*.abancommercials.com/*
 *://*.acefone.com/blog/*
@@ -348,6 +349,7 @@
 *://*.higospot.com/*
 *://*.history-computer.com/*
 *://*.historyslice.com/*
+*://*.hitpaw.com/*
 *://*.hndqxh.com/*
 *://*.hollyland.com/blog/*
 *://*.hometagtw.com/*
@@ -407,6 +409,7 @@
 *://blog.inspiresoftware.com/*
 *://*.instafollowers.co/blog/*
 *://*.instapage.com/blog/*
+*://*.intercoolstudio.com/*
 *://*.intowindows.com/*
 *://*.ionos.com/digitalguide/*
 *://*.ioshacker.com/*
@@ -445,6 +448,7 @@
 *://*.kaspersky.com/blog/*
 *://*.keengamer.com/articles/guides/*
 *://*.kensington.com/news/security-blog/*
+*://*.keycdn.com/blog/*
 *://*.keys.direct/blogs/*
 *://*.kikinote.net/*
 *://*.kimbaktiki.online/*
@@ -836,6 +840,7 @@
 *://*.techreviewadvisor.com/*
 *://*.techshasthra.com/*
 *://www.techsolutions.support.com/how-to/*
+*://*.techstorytime.com/*
 *://*.techsupportall.com/*
 *://*.techsynchron.com/*
 *://*.techtarget.com/*/tip/*
@@ -1046,4 +1051,5 @@
 *://*.ytechb.com/*
 *://*.yugatech.com/*
 *://*.zapier.com/blog/*
+*://*.zego.im/blog/*
 *://*.zillow.com/learn/*
