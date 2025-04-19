@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2025-03-29
+# Last updated: 2025-04-19
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
