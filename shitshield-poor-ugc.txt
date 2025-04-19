@@ -13,6 +13,7 @@
 *://learn.microsoft.com/*/answers/questions/*
 *://*.answers.microsoft.com/*
 *://*.numerade.com/ask/question/*
+*://pdfcoffee.com/*
 *://*.pinterest.com/*
 *://*.quora.com/*
 *://eu.community.samsung.com/*
