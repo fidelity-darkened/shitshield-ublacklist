@@ -1,5 +1,5 @@
 # Title: shitshield-content-farm
-# Last updated: 2025-03-19
+# Last updated: 2025-04-19
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.021diao.com/*
@@ -15,14 +15,17 @@
 *://*.99.com.cn/*
 *://*.aboutlove.cc/*
 *://*.adaymag.com/*
+*://*.animalia-life.club/*
 *://*.anjiashe.com/*
 *://*.anjushe.com/*
 *://*.anzhaiba.com/*
+*://*.apowersoft.com/*
 *://*.auzhu.com/*
 *://*.ayshz.com/*
 *://*.azg168.cn/*
 *://*.babypartyy.com/*
 *://*.bad.news/*
+*://*.bangkaow.com/*
 *://*.baobeizhou.com/*
 *://*.beanfun.com/articles/*
 *://*.bimogu.com/*
@@ -56,6 +59,7 @@
 *://*.damyup.co/*
 *://*.daohang03.com/xw/*
 *://*.daohang07.com/xw/*
+*://*.dashangu.com/*
 *://*.daydaynews.cc/*
 *://*.ddhhw.com/*
 *://*.design-touching.com/*
@@ -211,6 +215,7 @@
 *://*.story543.com/*
 *://*.suanming.com/*
 *://*.tantannews.com/*
+*://*.tech-recipes.com/*
 *://*.teepr.com/*
 *://*.tianqi.com/*
 *://shitpost.travel.blog/*
@@ -219,6 +224,7 @@
 *://tw100s.com/*
 *://*.twgreatdaily.com/*
 *://*.uyuanfen.com/*
+*://*.vamosarema.com/*
 *://*.viralane.com/*
 *://*.voosweet.com/*
 *://*.wangminggu.com/*
