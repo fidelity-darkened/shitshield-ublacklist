@@ -1,0 +1,11 @@
+# Title: shitshield-comparison
+# Last updated: 2025-04-19
+# Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
+
+*://alternativeto.net/*
+*://differencebetween.net/*
+*://www.saashub.com/*
+*://stackreaction.com/*
+*://*.techjockey.com/compare/*
+*://thisvsthat.io/*
+*://*.topbestalternatives.com/*
