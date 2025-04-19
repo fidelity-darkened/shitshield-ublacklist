@@ -5,6 +5,7 @@ Lists are mutually exclusive. If a website is on one list, it will not be on ano
 * shitshield-seo: Blocks unuseful, SEO-crafted content designed to be hidden advertising or to profit from affiliate links
 * shitshield-poor-ugc: Blocks unhelpful user-generated content like poorly moderated Q&A sites that reward users for contributing content no matter how useless it is
 * shitshield-content-farm: Blocks websites filled with low-quality content lifted from another source often without permission
+* shitshield-comparison: Blocks websites mass-create comparisons coupled with low-quality analysis
 
 # Why is my website included?
 If your website is on a list, it most likely has at least one of these issues:
