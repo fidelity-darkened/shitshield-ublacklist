@@ -371,6 +371,7 @@
 *://*.hp.com/*/shop/tech-takes/*
 *://*.hscrystal.buzz/*
 *://http.dev/*
+*://*.huatu.com/*
 *://blog.hubspot.com/*
 *://services.hummingbirdnetworks.com/blog/*
 *://*.huratips.com/*
