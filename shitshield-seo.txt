@@ -231,6 +231,7 @@
 *://*.esrgear.com/blog/*
 *://*.evaboot.com/blog/*
 *://*.evercast.us/blog/*
+*://*.everhour.com/blog/*
 *://*.exitlag.com/blog/*
 *://*.expediencesoftware.com/blog/*
 *://*.expel.com/blog/*
@@ -359,6 +360,7 @@
 *://*.hndqxh.com/*
 *://*.hollyland.com/blog/*
 *://*.hometagtw.com/*
+*://*.hoopsaddict.com/*
 *://blog.hootsuite.com/*
 *://*.host4geeks.com/blog/*
 *://*.hostinger.com/tutorials/*
@@ -620,6 +622,7 @@
 *://*.outlookappins.com/*
 *://*.pagetraffic.com/*
 *://*.panagenda.com/blog/*
+*://paperpal.com/blog/*
 *://*.partitionwizard.com/*
 *://*.pathsocial.com/resources/*
 *://*.payetteforward.com/*
