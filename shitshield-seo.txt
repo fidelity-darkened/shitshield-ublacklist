@@ -54,6 +54,7 @@
 *://*.asapguide.com/*
 *://*.astrill.com/blog/*
 *://*.asurion.com/*
+*://error404.atomseo.com/*
 *://*.audiophiles.co/*
 *://*.audiochamps.com/*
 *://*.aussiemobilephonerepairs.com.au/blog/*
@@ -102,6 +103,7 @@
 *://*.cheq.ai/blog/*
 *://*.cigatisolutions.com/blog/*
 *://*.cisdem.com/resource/*
+*://*.cjco.com.au/article/*
 *://*.clario.co/blog/*
 *://*.clean.email/*
 *://cleanmymac.com/blog/*
@@ -191,6 +193,7 @@
 *://*.dmpro.app/*
 *://*.dollarsprout.com/*
 *://*.dotstella.com/blog/*
+*://*.downelink.com/*
 *://*.downloadsource.net/*
 *://*.drivereasy.com/*
 *://*.driversupport.com/knowledge-article/*
@@ -231,6 +234,7 @@
 *://*.exitlag.com/blog/*
 *://*.expediencesoftware.com/blog/*
 *://*.expel.com/blog/*
+*://expertbeacon.com/*
 *://blog.expertrec.com/*
 *://*.experts-exchange.com/*
 *://*.expressvpn.com/blog/*
@@ -345,10 +349,12 @@
 *://*.hideipvpn.com/setup/*
 *://*.hideipvpn.com/smartdns/*
 *://*.hideipvpn.com/vpn/*
+*://*.hidemyacc.com/*
 *://*.highspeedinternet.com/resources/*
 *://*.higospot.com/*
 *://*.history-computer.com/*
 *://*.historyslice.com/*
+*://*.historytools.org/*
 *://*.hitpaw.com/*
 *://*.hndqxh.com/*
 *://*.hollyland.com/blog/*
@@ -364,6 +370,7 @@
 *://*.howtoisolve.com/*
 *://*.hp.com/*/shop/tech-takes/*
 *://*.hscrystal.buzz/*
+*://http.dev/*
 *://blog.hubspot.com/*
 *://services.hummingbirdnetworks.com/blog/*
 *://*.huratips.com/*
@@ -468,6 +475,7 @@
 *://*.laptopjudge.com/*
 *://*.lenetek.com/blog/*
 *://*.lettoknow.com/*
+*://*.levellr.com/*
 *://*.liangfaner.com/*
 *://*.lickd.co/blog/*
 *://*.lifescienceglobal.com/*
@@ -523,6 +531,7 @@
 *://*.maketecheasier.com/*
 *://*.makeuseof.com/*
 *://*.malcare.com/blog/*
+*://*.marketingscoop.com/blog/*
 *://*.martellotech.com/blog/*
 *://*.mashtips.com/*
 *://*.mayple.com/blog/*
@@ -564,6 +573,7 @@
 *://*.nairaland.com/*
 *://*.nakivo.com/blog/*
 *://*.nambanation.com/*
+*://namso-gen.co/blog/*
 *://*.napkforpc.com/*
 *://*.nasstar.com/hub/blog/*
 *://*.navthemes.com/*
@@ -625,6 +635,7 @@
 *://blog.pics.io/*
 *://*.pitsdatarecovery.com/blog/*
 *://*.piunikaweb.com/*
+*://pixelprivacy.com/*
 *://*.pjl.buzz/*
 *://*.pointerclicker.com/*
 *://*.poonchunyuen.com/*
@@ -686,6 +697,7 @@
 *://*.revouninstaller.com/blog/*
 *://*.rightinbox.com/blog/*
 *://*.riverside.fm/blog/*
+*://robotecture.com/*
 *://*.robots.net/*
 *://blog.rottenwifi.com/*
 *://*.rowdytech.com/*
@@ -720,7 +732,7 @@
 *://*.simplehow.tips/*
 *://*.simplyfixable.com/blog-detail/*
 *://*.simplymac.com/*
-*://*.sitechecker.pro/site-audit-issues/*
+*://*.sitechecker.pro/*
 *://*.sitelock.com/blog/*
 *://*.slant.co/*
 *://*.slipstick.com/*
@@ -838,6 +850,7 @@
 *://*.techprevue.com/*
 *://*.techprojournal.com/*
 *://*.techreviewadvisor.com/*
+*://*.techseohub.com/blog/*
 *://*.techshasthra.com/*
 *://www.techsolutions.support.com/how-to/*
 *://*.techstorytime.com/*
@@ -860,6 +873,7 @@
 *://*.techyhost.com/*
 *://*.techyoulike.com/*
 *://*.tecmint.com/*
+*://tecnobits.com/*
 *://*.tekdeeps.com/*
 *://*.tekkigurus.com/*
 *://*.teknofixitsolutions.com/*
@@ -887,6 +901,7 @@
 *://*.theinsaneapp.com/*
 *://*.thelinuxcode.com/*
 *://*.thelinuxuser.com/*
+*://thelondonmedia.co.uk/*
 *://*.themeisle.com/blog/*
 *://*.themuse.com/advice/*
 *://*.thenina.com/*
@@ -996,6 +1011,7 @@
 *://*.wamsinc.com/*
 *://*.wati.io/blog/*
 *://*.wccftech.com/*
+*://*.webfx.com/*
 *://*.webnedio.com/*
 *://*.webnots.com/*
 *://*.webshare.io/blog/*
@@ -1038,7 +1054,7 @@
 *://*.wpsauce.com/*
 *://*.wpsocialninja.com/*
 *://blog.wtfast.com/blog/*
-*://*.xenconverter.com/blog/*
+*://*.xenconverter.com/blog/*f
 *://*.xiaozhishi.net/*
 *://*.xjishu.com/*
 *://*.xoptimum.com/*
@@ -1052,4 +1068,5 @@
 *://*.yugatech.com/*
 *://*.zapier.com/blog/*
 *://*.zego.im/blog/*
+*://*.zikanalytics.com/blog/*
 *://*.zillow.com/learn/*
