@@ -31,6 +31,7 @@
 *://*.airflowacademy.com/*
 *://*.aischedul.com/*
 *://*.aiseesoft.com/*
+*://aiswers.com/*
 *://*.akhbara24.news/*
 *://*.allthings.how/*
 *://*.alltop9.com/*
@@ -65,6 +66,7 @@
 /avast\.com\/c-/
 *://*.avg.com/*/signal/*
 *://*.avira.com/*/blog/*
+*://bandzoogle.com/blog/*
 *://*.becs.co.uk/*
 *://*.beebom.com/*
 *://*.beincrypto.com/learn/*
@@ -92,6 +94,7 @@
 *://*.buybackboss.com/*
 *://*.buzzvoice.com/blog/*
 *://*.bytescare.com/blog/*
+*://candid.technology/*
 *://*.canto.com/blog/*
 *://*.carlcare.com/*/tips-detail/*
 *://*.cashify.in/*
@@ -99,6 +102,7 @@
 *://*.ccm.net/*
 *://*.cee-trust.org/*
 *://*.cellphonerepair.com/*
+*://www.cgdirector.com/*
 *://*.chefaudio.com/*
 *://*.cheq.ai/blog/*
 *://*.cigatisolutions.com/blog/*
@@ -133,6 +137,7 @@
 *://*.crast.net/*
 *://*.createregisteraccount.com/*
 *://*.creativeforce.io/blog/*
+*://creativemarket.com/blog/*
 *://*.crisp.co/*
 *://*.crucial.cn/articles/*
 *://*.crucial.cn/blog/*
@@ -159,6 +164,7 @@
 *://*.cyberguy.com/*
 *://*.cyberinsider.com/*
 *://*.cybernews.com/*
+*://cyberpanel.net/blog/*
 *://*.daisyuk.tech/resource/*
 *://*.darwinsdata.com/*
 *://*.datanumen.com/blogs/*
@@ -226,6 +232,7 @@
 *://*.endsight.net/blog/*
 *://*.enigmasoftware.com/*
 *://*.entrepreneurshiplife.com/*
+*://elements.envato.com/learn/*
 *://*.ergeon.com/blog/post/*
 *://*.esofttools.com/blog/*
 *://*.esrgear.com/blog/*
@@ -446,6 +453,7 @@
 *://*.itoolab.com/*
 *://*.itprospt.com/*
 *://*.itsfoss.com/*
+*://www.itsmarttricks.com/*
 *://*.ivankyo.com/*
 *://*.jihosoft.com/android-tips/*
 *://*.jingctech.com/*
@@ -490,8 +498,10 @@
 *://*.linuxcapable.com/*
 *://*.linuxconfig.org/*
 *://*.linuxgui.com/*
+*://linuxhandbook.com/*
 *://*.linuxhint.com/*
 *://*.linuxize.com/post/*
+*://linuxopsys.com/*
 *://*.linuxpunx.com.au/*
 *://*.linuxsimply.com/*
 *://*.linuxtoday.com/blog/*
@@ -806,6 +816,7 @@
 *://*.sysinspire.com/blog/*
 *://*.syskare.com/blog/*
 *://*.syskit.com/blog/*
+*://www.sysprobs.com/*
 *://blog.systoolsgroup.com/*
 *://*.systweak.com/*
 *://*.tab-tv.com/*
@@ -825,6 +836,7 @@
 *://*.techdipper.com/*
 *://*.techdows.com/*
 *://*.techguided.com/*
+*://techharvey.com/*
 *://*.techhubnews2.com/*
 *://*.techietechie.com/*
 *://*.techilife.com/*
@@ -1007,6 +1019,9 @@
 *://*.vintageits.com/*
 *://*.viralyft.com/blog/*
 *://blog.virtosoftware.com/*
+*://*.visme.co/blog/*
+*://blog.visual-paradigm.com/*
+*://online.visual-paradigm.com/*
 *://*.viwizard.com/*
 *://*.vlchelp.com/*
 *://*.vpnmentor.com/blog/*
@@ -1027,6 +1042,7 @@
 *://*.wefixtech.co.ke/*
 *://*.wethegeek.com/*
 *://*.whatsabyte.com/*
+*://whatvwant.com/*
 *://*.which.co.uk/*
 *://*.whichvoip.com/articles/*
 *://*.whistleout.com/*/Guides/*
