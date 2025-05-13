@@ -1,29 +1,40 @@
 # Title: shitshield-stock
-# Last updated: 2025-04-19
+# Last updated: 2025-05-13
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.alamy.com/*
+*://*.animalia-life.club/*
 *://brandpacks.com/templates/*
 *://*.canva.com/templates/*
+*://*.canva.com/posters/templates/*
 *://*.creative-flyers.com/templates/*
 *://*.depositphotos.com/*
 *://*.dreamstime.com/*
+*://dribbble.com/*
 *://edit.org/*
+*://*.examples.com/design/*
 *://ffflyer.com/*
 *://freedesignfile.com/*
+*://*.freepik.es/*
+*://*.freepik.com/*
 *://*.freepik.net/*
+*://freepsdflyer.com/*
 *://*.gettyimages.co.uk/*
 *://*.gettyimages.com/*
+*://graphicriver.net/*
+*://*.inspiredpencil.com/*
 *://*.istockphoto.com/*
 *://*.likegistmk.click/*
+*://*.pikbest.com/templates/*
 *://*.postermywall.com/*
 *://rooftoppost.co.uk/*
 *://*.shutterstock.com/*
 *://stockfresh.com/image/*
-*://www.template.net/*
+*://*.template.net/*
 *://templatelab.com/*
 *://www.ukposters.co.uk/*
 *://*.vecteezy.com/*
 *://*.vectorstock.com/*
+*://*.venngage.com/*
 *://*.vexels.com/*
 *://youexec.com/*
