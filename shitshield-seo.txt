@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2025-04-19
+# Last updated: 2025-05-13
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
@@ -42,6 +42,7 @@
 *://*.androidtvnews.com/*
 *://*.anhui.cc/*
 *://*.animotica.com/blog/*
+*://answertica.com/*
 *://*.anycontrol.app/blog/post/*
 *://*.anyrecover.com/*
 *://*.api.video/blog/*
@@ -201,6 +202,7 @@
 *://*.dotstella.com/blog/*
 *://*.downelink.com/*
 *://*.downloadsource.net/*
+*://*.drbuho.com/how-to/*
 *://*.drivereasy.com/*
 *://*.driversupport.com/knowledge-article/*
 *://*.droidwin.com/*
@@ -305,6 +307,7 @@
 *://*.geeksadvice.com/*
 *://*.geekschalk.com/*
 *://*.geeksforgeeks.org/*
+*://*.geeksmodo.com/*
 *://*.gemoo.com/*
 *://*.genmar.co.uk/blog/*
 *://*.geonode.com/blog/*
@@ -359,6 +362,7 @@
 *://*.hideipvpn.com/vpn/*
 *://*.hidemyacc.com/*
 *://*.highspeedinternet.com/resources/*
+*://www.hightechdad.com/articles/*
 *://*.higospot.com/*
 *://*.history-computer.com/*
 *://*.historyslice.com/*
@@ -755,6 +759,7 @@
 *://support.smartdnsproxy.com/*
 *://*.smartwellness.com.au/blog/*
 *://*.smartwindows.app/blog/*
+*://*.sociablekit.com/*
 *://*.socialappshq.com/*
 *://*.softakensoftware.com/blog/*
 *://*.softkeys.uk/blogs/*
@@ -923,6 +928,7 @@
 *://*.thenina.com/*
 *://*.thepersonal.com/blog/*
 *://*.theplusaddons.com/blog/*
+*://thequickadvisor.com/*
 *://*.thesoldiersproject.org/*
 *://*.thespike.gg/*
 *://*.thespruce.com/*
