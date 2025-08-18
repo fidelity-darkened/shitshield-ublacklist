@@ -18,4 +18,5 @@
 *://*.quora.com/*
 *://eu.community.samsung.com/*
 *://*.sohu.com/a/*
+*://www.techjockey.com/question/*
 *://*.toutiao.com/article/*
