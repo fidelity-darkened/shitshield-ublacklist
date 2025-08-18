@@ -11,7 +11,6 @@
 *://*.canva.com/posters/templates/*
 *://*.canva.com/templates/*
 *://sc.chinaz.com/*
-*://rooftoppost.co.uk/*
 *://coloringfolder.com/*
 *://*.creative-flyers.com/templates/*
 *://*.depositphotos.com/*
@@ -23,7 +22,6 @@
 *://ffflyer.com/*
 *://freedesignfile.com/*
 *://*.freepik.com/*
-*://www.freepik.com/*
 *://*.freepik.es/*
 *://*.freepik.net/*
 *://freepsdflyer.com/*
@@ -38,6 +36,7 @@
 *://so.ooopic.com/*
 *://*.pikbest.com/templates/*
 *://*.postermywall.com/*
+*://rooftoppost.co.uk/*
 *://*.shutterstock.com/*
 *://stockfresh.com/image/*
 *://*.template.net/*
