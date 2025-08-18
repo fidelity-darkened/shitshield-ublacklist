@@ -1,37 +1,48 @@
 # Title: shitshield-stock
-# Last updated: 2025-05-13
+# Last updated: 2025-08-18
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
+*://su.3d66.com/*
+*://*.588ku.com/*
+*://699pic.com/*
 *://*.alamy.com/*
 *://*.animalia-life.club/*
 *://brandpacks.com/templates/*
-*://*.canva.com/templates/*
 *://*.canva.com/posters/templates/*
+*://*.canva.com/templates/*
+*://sc.chinaz.com/*
+*://rooftoppost.co.uk/*
+*://coloringfolder.com/*
 *://*.creative-flyers.com/templates/*
 *://*.depositphotos.com/*
 *://*.dreamstime.com/*
 *://dribbble.com/*
 *://edit.org/*
 *://*.examples.com/design/*
+*://expertslides.com/*
 *://ffflyer.com/*
 *://freedesignfile.com/*
-*://*.freepik.es/*
 *://*.freepik.com/*
+*://www.freepik.com/*
+*://*.freepik.es/*
 *://*.freepik.net/*
 *://freepsdflyer.com/*
 *://*.gettyimages.co.uk/*
 *://*.gettyimages.com/*
 *://graphicriver.net/*
+*://*.ibaotu.com/*
 *://*.inspiredpencil.com/*
 *://*.istockphoto.com/*
 *://*.likegistmk.click/*
+*://soso.nipic.com/*
+*://so.ooopic.com/*
 *://*.pikbest.com/templates/*
 *://*.postermywall.com/*
-*://rooftoppost.co.uk/*
 *://*.shutterstock.com/*
 *://stockfresh.com/image/*
 *://*.template.net/*
 *://templatelab.com/*
+*://*.tusij.com/*
 *://www.ukposters.co.uk/*
 *://*.vecteezy.com/*
 *://*.vectorstock.com/*
