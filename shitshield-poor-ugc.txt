@@ -1,5 +1,5 @@
 # Title: shitshield-poor-ugc
-# Last updated: 2025-04-19
+# Last updated: 2025-08-18
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.163.com/dy/article/*
