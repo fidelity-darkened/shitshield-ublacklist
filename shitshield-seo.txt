@@ -1028,6 +1028,7 @@
 *://*.tuneskit.com/*
 *://*.turgs.com/blog/*
 *://*.tutorialspoint.com/*
+*://www.tweaking.com/*
 *://*.tweaklibrary.com/*
 *://tweetdelete.net/resources/*
 *://www.tweeteraser.com/resources/*
