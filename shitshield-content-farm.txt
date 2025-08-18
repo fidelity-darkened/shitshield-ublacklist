@@ -71,6 +71,7 @@
 *://datarecoverypit.com/*
 *://*.daydaynews.cc/*
 *://*.ddhhw.com/*
+*://dealbreaker.info/*
 *://*.design-touching.com/*
 *://*.dfnxb.com/*
 *://*.dfnxz.com/*
@@ -78,7 +79,9 @@
 *://*.dianwanjun.com/*
 *://*.djyxw.com/*
 *://*.dongjingyan.com/*
+*://dreamlogic.pro/*
 *://www.drugpatentwatch.com/*
+*://dtptips.com/*
 *://news.duote.com/*
 *://*.easyatm.com.tw/*
 *://*.eathealth.net/*
@@ -129,6 +132,7 @@
 *://hobsoft.com/*
 *://hogonext.com/*
 *://homeefficiencyguide.com/*
+*://i5apps.com/*
 *://*.ifuun.com/*
 *://*.inewsdb.com/*
 *://*.inf.news/*
@@ -286,6 +290,7 @@
 *://www.tadke.com/*
 *://*.tantannews.com/*
 *://*.tech-recipes.com/*
+*://www.techcommuters.com/*
 *://techdetective.com/*
 *://techdriz.com/*
 *://techgolly.com/*
@@ -293,6 +298,7 @@
 *://techio.co/*
 *://techquack.com/*
 *://techrechard.com/*
+*://techsanjeetyt.com/*
 *://*.teepr.com/*
 *://theclockend.com/*
 *://thecoderworld.com/*
