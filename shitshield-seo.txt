@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2025-08-18
+# Last updated: 2025-08-19
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
@@ -62,6 +62,7 @@
 *://*.audiochamps.com/*
 *://*.audiophiles.co/*
 *://*.aussiemobilephonerepairs.com.au/blog/*
+*://www.authorityhacker.com/*
 *://*.autobest.co.in/blog-detail/*
 *://*.automator.us/*
 *://*.avadirect.com/blog/*
@@ -96,6 +97,7 @@
 *://*.brighterguide.com/*
 *://*.brightflow.net/*
 *://www.brighthub.com/*
+*://brightlinkav.com/blogs/news/*
 *://*.browserhow.com/*
 *://www.btod.com/blog/*
 *://*.buildmyplays.com/*
@@ -128,6 +130,7 @@
 *://*.clipchamp.com/*/blog/*
 *://*.clonefileschecker.com/blog/*
 *://www.cloudeka.id/news/*
+*://cloudinary.com/guides/*
 *://*.cloudwards.net/*
 *://*.cloudways.com/blog/*
 *://*.cloudzy.com/blog/*
@@ -226,13 +229,18 @@
 *://*.droidwin.com/*
 *://*.dsolutionsgroup.com/*
 *://*.duhoctrungquoc.vn/*
+*://www.dumbofab.com/adobe-help/*
+*://www.dumbofab.com/resource/*
+*://www.dumbofab.com/tutorial/*
 *://*.dzone.com/*
 *://*.e-methodstechnologies.com/*
 *://*.earthweb.com/blog/*
+*://www.easefab.com/*
 *://*.easeus.com/*
 *://*.easyfilerenamer.com/blog/*
 *://*.easyfixpro.com/*
 *://*.easytechguides.com/*
+*://www.edu.com/blog/*
 *://*.educba.com/*
 *://*.eehelp.com/*
 *://*.eeq8.com/*
@@ -335,6 +343,7 @@
 *://*.getapp.ie/*
 *://*.getassist.net/*
 *://*.getdroidtips.com/*
+*://www.getmagical.com/blog/*
 *://*.getmailbird.com/*
 *://*.getstream.io/blog/*
 *://*.gizchina.com/*
@@ -426,6 +435,7 @@
 *://*.idownloadblog.com/*
 *://*.iesgp.com/blog/*
 *://*.ifixscreens.com/*
+*://www.ifunia.com/resource/*
 *://*.igeeksblog.com/*
 *://*.igotojapan.com/*
 *://*.iitjeepage.buzz/*
@@ -487,6 +497,7 @@
 *://*.joyofandroid.com/*
 *://*.joyoshare.com/*
 *://*.justanswer.com/*
+*://justdone.com/blog/*
 *://*.kagels-trading.com/*
 *://*.kapilarya.com/*
 *://*.kapook.com/*
@@ -519,6 +530,7 @@
 *://*.liangfaner.com/*
 *://*.lickd.co/blog/*
 *://*.lifescienceglobal.com/*
+*://lifespharma.com/*
 *://*.lifewire.com/*
 *://blog.lift.bio/*
 *://www.lingceed.com/blog/*
@@ -562,6 +574,10 @@
 *://*.macresearch.org/*
 *://*.macsonik.com/blog/*
 *://*.macuncle.com/blog/*
+*://www.macxdvd.com/itunes/*
+*://www.macxdvd.com/mac-dvd-video-converter-how-to/*
+*://www.macxdvd.com/mac-video-converter-pro/*
+*://www.macxdvd.com/mobile/*
 *://*.macxtra.com/blog/*
 *://*.madpenguin.org/*
 *://*.magustools.com/*
@@ -643,6 +659,7 @@
 *://nobsimreviews.com/*
 *://*.nogomi.ru/*
 *://*.nokiapoweruser.com/*
+*://noomistockholm.com/blogs/noomistockholmblog/*
 *://*.nordvpn.com/blog/*
 *://*.nostra.ai/blogs-collection/*
 *://*.nucleustechnologies.com/blog/*
@@ -714,6 +731,7 @@
 *://*.prodvigate.com/blog/*
 *://*.programmathically.com/*
 *://*.projectorsacademy.com/*
+*://www.promax.com/blog/*
 *://*.proprivacy.com/*
 *://*.protonvpn.com/blog/*
 *://*.proxys.io/*/blog/*
@@ -747,6 +765,7 @@
 *://*.remosoftware.com/*
 *://*.remote.tools/*
 *://*.repairwin.com/*
+*://replenessentials.com/blogs/*
 *://*.rescuedigitalmedia.com/*
 *://*.resolutionacoustics.com/*
 *://*.restream.io/blog/*
@@ -794,6 +813,8 @@
 *://*.simplehow.tips/*
 *://*.simplyfixable.com/blog-detail/*
 *://*.simplymac.com/*
+*://simplynoted.com/blogs/news/*
+*://www.siobeauty.com/blogs/resource-center/*
 *://*.sitechecker.pro/*
 *://*.sitelock.com/blog/*
 *://*.slant.co/*
@@ -864,6 +885,7 @@
 *://*.supportyourtech.com/*
 *://*.surferseo.com/blog/*
 *://*.surfshark.com/blog/*
+*://surveysparrow.com/blog/*
 *://*.swifdoo.com/blog/*
 *://*.syncios.com/*
 *://*.sysadminsage.com/*
@@ -879,6 +901,7 @@
 *://*.systweak.com/*
 *://*.tab-tv.com/*
 *://*.tabletmonkeys.com/*
+*://www.talkhelper.com/*
 *://bk.taobao.com/*
 *://*.taplink.at/*/blog/*
 *://*.taskade.com/blog/*
@@ -998,6 +1021,7 @@
 *://*.thetechylife.com/*
 *://*.thewaystowealth.com/make-money/*
 *://*.thewindowsclub.com/*
+*://thewordyboy.com/*
 *://*.thewritingparadigm.com/*
 *://*.thinkific.com/blog/*
 *://*.thrivemyway.com/*
@@ -1012,6 +1036,7 @@
 *://*.tips.net/*
 *://*.togetherplatform.com/blog/*
 *://toiletsadviser.com/*
+*://tonsofthanks.com/*
 *://*.toolify.ai/*
 *://*.top-password.com/*
 *://*.top10vpn.com/*
@@ -1055,6 +1080,7 @@
 *://*.ubuntumint.com/*
 *://*.uctoday.com/*
 *://*.ugetfix.com/*
+*://www.ukeysoft.com/video/*
 *://*.ulkecesek.online/*
 *://*.ultfone.com/*
 *://www.ultralytics.com/*/blog/*
@@ -1136,6 +1162,7 @@
 *://*.winxdvd.com/*
 *://*.wisestamp.com/blog/*
 *://*.wistia.com/learn/*
+*://woculus.com/*
 *://*.wondershare.com/*
 *://woodworkhaven.com/*
 *://*.wootechy.com/*
