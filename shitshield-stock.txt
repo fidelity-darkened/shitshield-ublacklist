@@ -1,10 +1,11 @@
 # Title: shitshield-stock
-# Last updated: 2025-08-18
+# Last updated: 2025-08-26
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://su.3d66.com/*
 *://*.588ku.com/*
 *://699pic.com/*
+*://stock.adobe.com/*
 *://*.alamy.com/*
 *://*.animalia-life.club/*
 *://brandpacks.com/templates/*
@@ -16,6 +17,7 @@
 *://*.depositphotos.com/*
 *://*.dreamstime.com/*
 *://dribbble.com/*
+*://*.duitang.com/*
 *://edit.org/*
 *://*.examples.com/design/*
 *://expertslides.com/*
@@ -35,6 +37,7 @@
 *://soso.nipic.com/*
 *://so.ooopic.com/*
 *://*.pikbest.com/templates/*
+*://pngtree.com/*
 *://*.postermywall.com/*
 *://rooftoppost.co.uk/*
 *://*.shutterstock.com/*
@@ -47,4 +50,5 @@
 *://*.vectorstock.com/*
 *://*.venngage.com/*
 *://*.vexels.com/*
+*://*.wepik.com/*
 *://youexec.com/*
