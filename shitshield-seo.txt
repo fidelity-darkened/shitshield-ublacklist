@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2025-08-19
+# Last updated: 2025-08-26
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
@@ -61,6 +61,7 @@
 *://error404.atomseo.com/*
 *://*.audiochamps.com/*
 *://*.audiophiles.co/*
+*://www.auslogics.com/en/articles/*
 *://*.aussiemobilephonerepairs.com.au/blog/*
 *://www.authorityhacker.com/*
 *://*.autobest.co.in/blog-detail/*
@@ -70,6 +71,7 @@
 *://*.avg.com/*/signal/*
 *://*.avira.com/*/blog/*
 *://bandzoogle.com/blog/*
+*://bearvpn.com/blog/*
 *://*.becs.co.uk/*
 *://*.beebom.com/*
 *://*.beincrypto.com/learn/*
@@ -94,6 +96,7 @@
 *://*.brainstorminc.com/blog/*
 *://*.brave.com/learn/*
 *://*.breakinglatest.news/*
+*://breet.io/blog/*
 *://*.brighterguide.com/*
 *://*.brightflow.net/*
 *://www.brighthub.com/*
@@ -551,6 +554,7 @@
 *://*.liveinhomecare.com/*
 *://*.livelingua.com/*
 *://*.livestrong.com/*
+*://logicaldollar.com/*
 *://*.login-spy.com/*
 *://*.loginask.com/*
 *://*.logindetail.com/*
@@ -649,6 +653,7 @@
 *://*.nengajou.buzz/*
 *://*.neo.space/blog/*
 *://*.nerdschalk.com/*
+*://www.netspotapp.com/blog/*
 *://neurolaunch.com/*
 *://*.newbieadvisor.com/*
 *://*.newscitech.com/*
@@ -892,6 +897,7 @@
 *://*.sysconverter.com/blog/*
 *://*.syscurve.com/blog/*
 *://*.sysessential.com/blog/*
+*://www.sysgeeker.com/*
 *://*.sysinfotools.com/blog/*
 *://*.sysinspire.com/blog/*
 *://*.syskare.com/blog/*
@@ -901,6 +907,7 @@
 *://*.systweak.com/*
 *://*.tab-tv.com/*
 *://*.tabletmonkeys.com/*
+*://blog.talk-home.com/*
 *://www.talkhelper.com/*
 *://bk.taobao.com/*
 *://*.taplink.at/*/blog/*
@@ -911,6 +918,7 @@
 *://*.tech2geek.net/*
 *://*.tech4gamers.com/*
 *://*.techadvisor.com/*
+*://techbackend.com/*
 *://*.techbeezer.com/*
 *://*.techbout.com/*
 *://*.techcult.com/*
@@ -1094,6 +1102,7 @@
 *://*.uppbeat.io/blog/*
 *://*.upphone.com/fix/*
 *://*.ustrendpulse.site/*
+*://www.uubyte.com/blog/*
 *://*.vaasotaa.buzz/*
 *://*.valibyte.com/*
 *://*.vbncfoo.online/*
@@ -1123,6 +1132,7 @@
 *://*.vlchelp.com/*
 *://*.vpncentral.com/*
 *://*.vpnmentor.com/blog/*
+*://www.vpnuniversity.com/*
 *://*.vulcan.io/blog/*
 *://*.wall-designers.buzz/*
 *://*.wamsinc.com/*
@@ -1195,5 +1205,6 @@
 *://*.zapier.com/blog/*
 *://zefoy.me/*
 *://*.zego.im/blog/*
+*://blog.zendwallet.com/*
 *://*.zikanalytics.com/blog/*
 *://*.zillow.com/learn/*
