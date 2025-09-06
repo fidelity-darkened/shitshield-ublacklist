@@ -1,5 +1,5 @@
 # Title: shitshield-content-farm
-# Last updated: 2025-08-26
+# Last updated: 2025-09-06
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.021diao.com/*
@@ -37,16 +37,20 @@
 *://*.bad.news/*
 *://*.bangkaow.com/*
 *://*.baobeizhou.com/*
+*://bathroomnerd.com/*
+*://bathroomscape.com/*
 *://*.beanfun.com/articles/*
 *://www.beautyepic.com/*
 *://bestdailyreviews.com/*
 *://bestlovetextmessages.com/*
+*://betterhomepursuits.com/*
 *://*.bimogu.com/*
 *://*.bkdqb.com/*
 *://*.bkqsg.com/*
 *://*.bkzsb.com/*
 *://blinklink.pics/*
 *://blinksandbuttons.net/*
+*://bloomandbrick.com/*
 *://*.bomb01.com/*
 *://www.boredpanda.com/*
 *://*.bowengu.com/*
@@ -76,6 +80,7 @@
 *://www.codemzy.com/*
 *://*.coolhealth.com.tw/*
 *://copy-paste-emails.com/*
+*://creativebooster.net/*
 *://*.csbkg.com/*
 *://*.csdn.net/*
 *://*.cwyan.com/*
@@ -85,8 +90,10 @@
 *://*.daohang03.com/xw/*
 *://*.daohang07.com/xw/*
 *://*.dashangu.com/*
+*://dashofhomemade.com/*
 *://datarecoverypit.com/*
 *://*.daydaynews.cc/*
+*://daysinspired.com/*
 *://*.ddhhw.com/*
 *://dealbreaker.info/*
 *://*.design-touching.com/*
@@ -130,6 +137,7 @@
 *://www.firstforwomen.com/*
 *://fitnessdy.com/*
 *://*.fity.club/*
+*://flawlesshair.com/*
 *://*.flbkb.com/*
 *://*.food-ienjoy.com/*
 *://*.fqsjw.com/*
@@ -141,10 +149,13 @@
 *://*.ggfwb.com/*
 *://*.gglzw.com/*
 *://www.gkzyb.com/*
+*://glamourcorner.net/*
+*://glossandhair.com/*
 *://*.gnfww.com/*
 *://*.gohaveababy.com/*
 *://www.golinuxcloud.com/*
 *://*.gongluegu.com/*
+*://gracefulvows.com/*
 *://grammarcove.com/*
 *://grammargem.com/*
 *://grammarmax.com/*
@@ -160,7 +171,12 @@
 *://*.guowenzhai.com/*
 *://*.gwjzb.com/*
 *://hackerella.com/*
+*://www.hadviser.com/*
+*://hairaide.com/*
+*://hairstylecamp.com/*
+*://hairstylehub.com/*
 *://*.happytify.cc/*
+*://headcurve.com/*
 *://healtheh.com/*
 *://*.hhbky.com/*
 *://*.hnh.cc/*
@@ -210,6 +226,7 @@
 *://*.kknews.cc/*
 *://*.kktian.com/*
 *://*.kkyyg.com/*
+*://knowyourbest.com/*
 *://*.kolauthor.com/*
 *://*.kole8.com/*
 *://*.kpzsz.com/*
@@ -219,6 +236,7 @@
 *://*.kxysf.com/*
 *://*.kxyxg.com/*
 *://*.kzbkw.com/*
+*://www.latest-hairstyles.com/*
 *://*.leirenbang.com/*
 *://*.lejuka.com/*
 *://lensviewing.com/*
@@ -229,6 +247,8 @@
 *://*.life.tw/*
 *://*.lifeknowlege.com/*
 *://*.lingxiufan.com/*
+*://liquidimageco.com/*
+*://livingtickled.com/*
 *://*.llsnw.com/*
 *://*.llssg.com/*
 *://*.lo4d.com/*
@@ -259,6 +279,7 @@
 *://mobilityarena.com/*
 *://*.modengguan.com/*
 *://*.modengzhan.com/*
+*://momsmakecents.com/*
 *://motorcyclehabit.com/*
 *://*.mqcyw.com/*
 *://*.mrhyb.com/*
@@ -281,13 +302,18 @@
 *://*.oicq88.com/*
 *://*.onefunnyjoke.com/*
 *://other-ways-to-say.com/*
+*://albertocjohnston.pages.dev/*
+*://conblorita.pages.dev/*
+*://cristahjkherminia.pages.dev/*
 *://fulkwest.pages.dev/*
+*://stellazoya.pages.dev/*
 *://*.pass345.com/*
 *://*.peekme.cc/*
 *://penfolio.quest/*
 *://phrasemesh.com/*
 *://*.pinweifeng.com/*
 *://pixelpens.art/*
+*://polishandpatterns.com/*
 *://polkathreads.com/*
 *://*.polyulaunchpadfund.hk/*
 *://powersportsguide.com/*
@@ -320,6 +346,7 @@
 *://rubblemagazine.com/*
 *://*.ruiliguan.com/*
 *://www.safehealthlinks.com/blog/*
+*://savorandsprinkle.com/*
 *://*.shafaqna.com/*
 *://*.shareba.com/*
 *://*.shicheng.news/*
@@ -341,6 +368,8 @@
 *://*.story543.com/*
 *://strategiesforinfluence.com/*
 *://www.studycountry.com/*
+*://stylemytrim.com/*
+*://www.styleoholic.com/*
 *://stylespark.art/*
 *://*.suanming.com/*
 *://synonympro.com/*
@@ -364,9 +393,11 @@
 *://theclockend.com/*
 *://thecoderworld.com/*
 *://thehomexprt.com/*
+*://themakeupmood.com/*
 *://thenextgalaxy.com/*
 *://theproperkitchen.com/*
 *://therapidresponse.com/*
+*://thesourdoughsisters.com/*
 *://thesynonymseeker.com/*
 *://thetechgorilla.com/*
 *://theturtlehub.com/*
@@ -378,11 +409,15 @@
 *://www.timesmojo.com/*
 *://www.tips-for-everyday.com/*
 *://tipsmake.com/*
+*://todaymommy.com/*
+*://toiletseek.com/*
 *://toolingideas.com/*
+*://topchooser.com/*
 *://tovisorga.com/*
 *://shitpost.travel.blog/*
 *://www.travelizta.com/*
 *://trendtide.homes/*
+*://trendyuniverse.com/*
 *://troypoint.com/*
 *://trytrylove.com/*
 *://*.tt98.com/*
@@ -401,6 +436,12 @@
 *://*.wangminggu.com/*
 *://*.wangmingguan.com/*
 *://*.waxzz.com/*
+*://weheartcozy.com/*
+*://weheartdecorating.com/*
+*://wehearthairstyles.com/*
+*://weheartmakeup.com/*
+*://weheartnaildesigns.com/*
+*://weheartthis.com/*
 *://wigglingpen.com/*
 *://windowbrain.com/*
 *://www.windowschimp.com/*
@@ -424,6 +465,7 @@
 *://*.yfcdw.com/*
 *://yitake.in/*
 *://yourbestselves.com/*
+*://yourwifeknows.com/*
 *://*.yskpw.com/*
 *://*.yudiaozhe.com/*
 *://*.yufuzhe.com/*
