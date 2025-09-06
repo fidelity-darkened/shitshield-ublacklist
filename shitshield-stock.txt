@@ -29,6 +29,7 @@
 *://freepsdflyer.com/*
 *://*.gettyimages.co.uk/*
 *://*.gettyimages.com/*
+*://*.gettyimages.dk/*
 *://graphicriver.net/*
 *://*.ibaotu.com/*
 *://*.inspiredpencil.com/*
