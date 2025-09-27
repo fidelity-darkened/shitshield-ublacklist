@@ -1,11 +1,12 @@
 # Title: shitshield-content-farm
-# Last updated: 2025-09-06
+# Last updated: 2025-09-27
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.021diao.com/*
 *://www.027art.com/*
 *://*.17moveon.com/*
 *://*.1applehealth.com/*
+*://360-reader.com/*
 *://*.360changshi.com/*
 *://*.413yy.cn/*
 *://www.5156edu.com/*
@@ -19,6 +20,7 @@
 *://*.99.com.cn/*
 *://*.aboutlove.cc/*
 *://*.adaymag.com/*
+*://alltech.how/*
 *://altinify.com/*
 *://androidcure.com/*
 *://*.animalia-life.club/*
@@ -30,6 +32,10 @@
 *://*.apowersoft.com/*
 *://appadvice.com/*
 *://www.archyworldys.com/*
+*://askanydifference.com/*
+*://www.asmarterchoice.org/*
+*://audiocruiser.com/*
+*://audiosolace.com/*
 *://*.auzhu.com/*
 *://*.ayshz.com/*
 *://*.azg168.cn/*
@@ -73,19 +79,26 @@
 *://*.changshizhan.com/*
 *://*.chaoshangfan.com/*
 *://*.chaoxiufan.com/*
+*://www.chinasspp.com/*
 *://*.chuangfudu.com/*
 *://*.chuangfuguan.com/*
+*://clickthis.blog/*
 *://www.clrn.org/*
+*://www.cnkang.com/*
 *://*.coco01.net/*
 *://www.codemzy.com/*
 *://*.coolhealth.com.tw/*
 *://copy-paste-emails.com/*
+*://corg.cc/*
 *://creativebooster.net/*
+*://cryptowealthnet.com/*
+*://www.csai.cn/*
 *://*.csbkg.com/*
 *://*.csdn.net/*
 *://*.cwyan.com/*
 *://www.cyberciti.biz/*
 *://*.d1xz.net/*
+*://dailynewsfeeding.com/*
 *://*.damyup.co/*
 *://*.daohang03.com/xw/*
 *://*.daohang07.com/xw/*
@@ -98,6 +111,8 @@
 *://dealbreaker.info/*
 *://*.design-touching.com/*
 *://*.designyourway.net/*
+*://www.detrester.com/*
+*://devsjournal.com/*
 *://*.dfnxb.com/*
 *://*.dfnxz.com/*
 *://*.dianjingdu.com/*
@@ -114,6 +129,7 @@
 *://*.eathealth.net/*
 *://eatingdisorderresources.com/*
 *://*.eazon.com/*
+*://www.ecloudbuzz.com/*
 *://www.einsstark.tech/*
 *://englishblush.com/*
 *://englishoverview.com/*
@@ -141,6 +157,7 @@
 *://*.flbkb.com/*
 *://*.food-ienjoy.com/*
 *://*.fqsjw.com/*
+*://fullspecs.net/blog/*
 *://*.fun01.cc/*
 *://*.funtoday.news/*
 *://www.fx7777.com/*
@@ -155,6 +172,7 @@
 *://*.gohaveababy.com/*
 *://www.golinuxcloud.com/*
 *://*.gongluegu.com/*
+*://goprocamerasreview.com/*
 *://gracefulvows.com/*
 *://grammarcove.com/*
 *://grammargem.com/*
@@ -163,6 +181,7 @@
 *://grammarprotips.com/*
 *://grammarroot.com/*
 *://grammarsir.com/*
+*://*.gucheng.com/*
 *://*.guowenba.com/*
 *://*.guowenban.com/*
 *://*.guowenbang.com/*
@@ -179,6 +198,7 @@
 *://headcurve.com/*
 *://healtheh.com/*
 *://*.hhbky.com/*
+*://www.hmz.com/*
 *://*.hnh.cc/*
 *://hobsoft.com/*
 *://hogonext.com/*
@@ -193,8 +213,11 @@
 *://www.infoai.com.tw/*
 *://insightwire.art/*
 *://*.inspiredpencil.com/*
+*://www.inthow.com/*
 *://io-editor.com/blog/articles/*
 *://iphone-tricks.com/*
+*://www.iphonetricks.org/*
+*://iphonewired.com/*
 *://itprosec.com/*
 *://itsourcecode.com/*
 *://itstillworks.com/*
@@ -245,12 +268,15 @@
 *://*.liangliwang.com/*
 *://*.liaoliwu.com/*
 *://*.life.tw/*
+*://lifebox.blog/*
 *://*.lifeknowlege.com/*
 *://*.lingxiufan.com/*
 *://liquidimageco.com/*
+*://w.liulianga.com/article/*
 *://livingtickled.com/*
 *://*.llsnw.com/*
 *://*.llssg.com/*
+*://www.lnka.tw/*
 *://*.lo4d.com/*
 *://*.lookerideas.com/*
 *://*.lookerpets.com/*
@@ -260,6 +286,7 @@
 *://*.lsbkw.com/*
 *://luxurytraveldiva.com/*
 *://mailtoself.com/*
+*://www.marginbull.com/news/*
 *://*.mdkpw.com/*
 *://*.mdshb.com/*
 *://*.mdzzw.com/*
@@ -303,10 +330,25 @@
 *://*.onefunnyjoke.com/*
 *://other-ways-to-say.com/*
 *://albertocjohnston.pages.dev/*
+*://amberrholmquist.pages.dev/*
+*://andreaqcolette.pages.dev/*
+*://chesliewgiulia.pages.dev/*
 *://conblorita.pages.dev/*
 *://cristahjkherminia.pages.dev/*
+*://darceystafani.pages.dev/*
+*://doloritawardisj.pages.dev/*
 *://fulkwest.pages.dev/*
+*://heddaqmarketa.pages.dev/*
+*://ileanaasedesirae.pages.dev/*
+*://imogenlaserona.pages.dev/*
+*://joeliewnaoma.pages.dev/*
+*://leontanner.pages.dev/*
+*://nathaliawtiffi.pages.dev/*
+*://opheliaharper-1h4.pages.dev/*
+*://perlylavina.pages.dev/*
+*://rannaqlinnea.pages.dev/*
 *://stellazoya.pages.dev/*
+*://zahranaomi.pages.dev/*
 *://*.pass345.com/*
 *://*.peekme.cc/*
 *://penfolio.quest/*
@@ -319,10 +361,12 @@
 *://powersportsguide.com/*
 *://*.pplzw.com/*
 *://www.predictiveanalyticstoday.com/*
+*://prepmycareer.com/*
 *://www.puxue.com/*
 *://www.qbaobei.com/*
 *://*.qianweizui.com/*
 *://*.qingxiuba.com/*
+*://www.qiqueqiao.com/*
 *://*.qumeiwei.com/*
 *://quotesanity.com/*
 *://www.qupuxz.com/*
@@ -330,6 +374,7 @@
 *://*.qzbkw.com/*
 *://raspberrytips.com/*
 *://*.read01.com/*
+*://reolink.com/*
 *://reptilehere.com/*
 *://www.reptileknowledge.com/*
 *://reptilestime.com/*
@@ -347,24 +392,31 @@
 *://*.ruiliguan.com/*
 *://www.safehealthlinks.com/blog/*
 *://savorandsprinkle.com/*
+*://www.sciencenewstoday.org/*
 *://*.shafaqna.com/*
 *://*.shareba.com/*
+*://shareus.com/*
 *://*.shicheng.news/*
 *://*.shimaogu.com/*
 *://*.shimaoguan.com/*
 *://*.shimaozhai.com/*
 *://*.shishangdong.com/*
+*://www.shuomingshu.cn/*
 *://silicophilic.com/*
 *://www.simplymotorcycle.com/*
 *://skincareessencial.com/*
+*://slashage.com/*
 *://smallusefultips.com/*
 *://*.smyyj.com/*
 *://socialtalky.com/*
 *://softhandtech.com/*
+*://sortatechy.com/*
 *://*.soubct.com/*
+*://www.soundswow.com/*
 *://soundunify.com/*
 *://*.ssnxf.com/*
 *://status.net/articles/*
+*://stereoupgrade.com/*
 *://*.story543.com/*
 *://strategiesforinfluence.com/*
 *://www.studycountry.com/*
@@ -379,12 +431,15 @@
 *://*.tantannews.com/*
 *://tech-latest.com/*
 *://*.tech-recipes.com/*
+*://www.techbloat.com/*
 *://www.techcommuters.com/*
 *://techdetective.com/*
+*://techdirectarchive.com/*
 *://techdriz.com/*
 *://techgolly.com/*
 *://www.techietech.tech/*
 *://techio.co/*
+*://technadvice.com/*
 *://techquack.com/*
 *://techrechard.com/*
 *://techsanjeetyt.com/*
@@ -398,6 +453,7 @@
 *://theproperkitchen.com/*
 *://therapidresponse.com/*
 *://thesourdoughsisters.com/*
+*://thespaceknowledge.com/*
 *://thesynonymseeker.com/*
 *://thetechgorilla.com/*
 *://theturtlehub.com/*
@@ -413,6 +469,7 @@
 *://toiletseek.com/*
 *://toolingideas.com/*
 *://topchooser.com/*
+*://www.touchtapplay.com/*
 *://tovisorga.com/*
 *://shitpost.travel.blog/*
 *://www.travelizta.com/*
@@ -425,7 +482,9 @@
 *://tw100s.com/*
 *://*.twgreatdaily.com/*
 *://www.ubuntubuzz.com/*
+*://www.ukezhitan.com/*
 *://utterexpression.com/*
+*://www.uvip.cc/*
 *://*.uyuanfen.com/*
 *://*.vamosarema.com/*
 *://varpguide.com/*
@@ -454,6 +513,7 @@
 *://workwizardry.com/*
 *://*.woshipm.com/*
 *://*.xingyunba.com/*
+*://xingzuo.life/*
 *://*.xingzuobibi.net/*
 *://*.xiumeiguan.com/*
 *://*.xueshidu.com/*
@@ -476,4 +536,5 @@
 *://www.zhongkao.com/*
 *://*.zhujiawu.com/*
 *://*.zhujuwang.com/*
+*://zontsound.com/*
 *://*.zuowenjin.com/*
