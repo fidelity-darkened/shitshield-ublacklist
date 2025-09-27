@@ -1,9 +1,12 @@
 # Title: shitshield-stock
-# Last updated: 2025-08-26
+# Last updated: 2025-09-27
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://su.3d66.com/*
+*://www.51miz.com/*
 *://*.588ku.com/*
+*://*.58pic.com/*
+*://616pic.com/*
 *://699pic.com/*
 *://stock.adobe.com/*
 *://*.alamy.com/*
@@ -12,6 +15,8 @@
 *://*.canva.com/posters/templates/*
 *://*.canva.com/templates/*
 *://sc.chinaz.com/*
+*://*.clipart-library.com/*
+*://rooftoppost.co.uk/*
 *://coloringfolder.com/*
 *://*.creative-flyers.com/templates/*
 *://*.depositphotos.com/*
@@ -22,6 +27,7 @@
 *://*.examples.com/design/*
 *://expertslides.com/*
 *://ffflyer.com/*
+*://www.fotor.com/*/templates/*
 *://freedesignfile.com/*
 *://*.freepik.com/*
 *://*.freepik.es/*
@@ -31,16 +37,23 @@
 *://*.gettyimages.com/*
 *://*.gettyimages.dk/*
 *://graphicriver.net/*
+*://huaban.com/pins/*
 *://*.ibaotu.com/*
+*://www.iituku.com/detail/*
 *://*.inspiredpencil.com/*
 *://*.istockphoto.com/*
 *://*.likegistmk.click/*
+*://*.lovepik.com/*
+*://www.mksucai.com/*
 *://soso.nipic.com/*
 *://so.ooopic.com/*
 *://*.pikbest.com/templates/*
+*://www.pngsucai.com/*
 *://pngtree.com/*
 *://*.postermywall.com/*
+*://resourceboy.com/*
 *://rooftoppost.co.uk/*
+*://shipin520.com/*
 *://*.shutterstock.com/*
 *://stockfresh.com/image/*
 *://*.template.net/*
@@ -51,5 +64,8 @@
 *://*.vectorstock.com/*
 *://*.venngage.com/*
 *://*.vexels.com/*
+*://*.vista.com/*
+*://www.vjshi.com/*
 *://*.wepik.com/*
 *://youexec.com/*
+*://www.zcool.com.cn/work/*
