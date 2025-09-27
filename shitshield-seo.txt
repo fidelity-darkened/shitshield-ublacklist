@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2025-08-26
+# Last updated: 2025-09-27
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
@@ -20,6 +20,7 @@
 *://blog.acer.com/*
 *://*.acethinker.com/*
 *://www.acibademhealthpoint.com/*
+*://www.acrylicwifi.com/en/blog/*
 *://*.acumenitsupport.com/blog/*
 *://*.addictivetips.com/*
 *://*.addresources.org/*
@@ -31,6 +32,7 @@
 *://*.airdroid.com/*
 *://*.airflowacademy.com/*
 *://airsculpt.com/airsculpt-daily/*
+*://www.airtel.in/blog/*
 *://*.aischedul.com/*
 *://*.aiseesoft.com/*
 *://aiswers.com/*
@@ -47,6 +49,7 @@
 *://answertica.com/*
 *://*.anycontrol.app/blog/post/*
 *://*.anyrecover.com/*
+*://www.apeaksoft.com/*
 *://*.api.video/blog/*
 *://*.appgeeker.com/*
 *://*.appletoolbox.com/*
@@ -79,6 +82,7 @@
 *://*.bettersolutions.com/*
 *://betterthathome.com/*
 *://*.bighomechores.com/*
+*://blog.bit-guardian.com/*
 *://*.bitrecover.com/blog/*
 *://bittitaivas.fi/*
 *://*.blackview.hk/blog/*
@@ -101,7 +105,9 @@
 *://*.brightflow.net/*
 *://www.brighthub.com/*
 *://brightlinkav.com/blogs/news/*
+*://broadbandnow.com/guides/*
 *://*.browserhow.com/*
+*://www.btcc.com/en-US/academy/*
 *://www.btod.com/blog/*
 *://*.buildmyplays.com/*
 *://builtbythefoot.com/*
@@ -119,6 +125,7 @@
 *://*.cee-trust.org/*
 *://*.cellphonerepair.com/*
 *://www.cgdirector.com/*
+*://cheapandbesthosting.com/*
 *://*.chefaudio.com/*
 *://*.cheq.ai/blog/*
 *://*.cigatisolutions.com/blog/*
@@ -141,6 +148,7 @@
 *://thelondonmedia.co.uk/*
 *://*.codecoda.com/en/blog/*
 *://*.codegrepper.com/*
+*://cointelegraph.com/learn/articles/*
 *://invest101.com.hk/*
 *://combatcreatine.com/*
 *://*.comicck.com/*
@@ -235,11 +243,13 @@
 *://www.dumbofab.com/adobe-help/*
 *://www.dumbofab.com/resource/*
 *://www.dumbofab.com/tutorial/*
+*://www.dvdfab.cn/*
 *://*.dzone.com/*
 *://*.e-methodstechnologies.com/*
 *://*.earthweb.com/blog/*
 *://www.easefab.com/*
 *://*.easeus.com/*
+*://easycloudsolutions.com/*
 *://*.easyfilerenamer.com/blog/*
 *://*.easyfixpro.com/*
 *://*.easytechguides.com/*
@@ -334,6 +344,7 @@
 *://*.geekermag.com/*
 *://*.geekflare.com/*
 *://*.geekinsider.com/*
+*://www.geekompc.com/*
 *://*.geeks2u.com.au/geekspeak/*
 *://*.geeksadvice.com/*
 *://*.geekschalk.com/*
@@ -459,6 +470,7 @@
 *://www.ingstart.com/blog/*
 *://*.inosocial.com/*
 *://*.inpics.net/*
+*://www.insanelymac.com/blog/*
 *://*.insidenetwork.com/*
 *://*.insidermonkey.com/blog/*
 *://*.insidetheweb.com/*
@@ -477,6 +489,7 @@
 *://*.ir.com/guides/*
 *://*.isitwp.com/*
 *://*.ismash.com/blogs/*
+*://isp.net/blog/post/*
 *://*.isumsoft.com/*
 *://*.isunshare.com/*
 *://*.itechbrand.com/*
@@ -527,6 +540,7 @@
 *://*.lagofast.com/*/blog/*
 *://*.laptopjudge.com/*
 *://www.launchpass.com/blog/*
+*://www.lb-link.com/*
 *://*.lenetek.com/blog/*
 *://*.lettoknow.com/*
 *://*.levellr.com/*
@@ -584,6 +598,7 @@
 *://www.macxdvd.com/mobile/*
 *://*.macxtra.com/blog/*
 *://*.madpenguin.org/*
+*://www.magfone.com/*
 *://*.magustools.com/*
 *://*.mailconvertertools.com/blog/*
 *://*.mailmeteor.com/blog/*
@@ -654,6 +669,8 @@
 *://*.neo.space/blog/*
 *://*.nerdschalk.com/*
 *://www.netspotapp.com/blog/*
+*://www.netspotapp.com/wifi-scanner/*
+*://www.netspotapp.com/wifi-troubleshooting/*
 *://neurolaunch.com/*
 *://*.newbieadvisor.com/*
 *://*.newscitech.com/*
@@ -790,6 +807,7 @@
 *://*.safetydetectives.com/*
 *://www.safewiper.com/tutorials/*
 *://*.saintlad.com/*
+*://www.salamexperts.com/blog/*
 *://*.saleshandy.com/blog/*
 *://*.sarkariexam.com/*
 *://*.sawyerlosangeles.com/*
@@ -816,6 +834,7 @@
 *://*.si-sv3401.com/*
 *://www.signalhire.com/blog/*
 *://*.simplehow.tips/*
+*://simplewifi.com/blogs/news/*
 *://*.simplyfixable.com/blog-detail/*
 *://*.simplymac.com/*
 *://simplynoted.com/blogs/news/*
@@ -869,6 +888,7 @@
 *://*.stackhowto.com/*
 *://*.standsapp.org/blog/*
 *://*.stardewguide.com/*
+*://www.starhub.com/personal/how-to/*
 *://*.statuslist.app/*
 *://stealthoptional.com/article/*
 *://*.steelseries.com/blog/*
@@ -886,6 +906,7 @@
 *://blog.sucuri.net/*
 *://*.supcase.com/blogs/*
 *://*.supereasy.com/*
+*://www.superfast-it.com/articles/*
 *://blog.superhuman.com/*
 *://*.supportyourtech.com/*
 *://*.surferseo.com/blog/*
@@ -1051,6 +1072,7 @@
 *://*.toptvtips.com/*
 *://*.tr-ex.me/*
 *://*.trainchinese.com/*
+*://tremhost.com/*
 *://*.trendytarzan.com/*
 *://*.trendywebz.com/*
 *://*.tripsavvy.com/*
@@ -1170,6 +1192,7 @@
 *://*.wintechlab.com/*
 *://*.wintips.org/*
 *://*.winxdvd.com/*
+*://www.wisecleaner.com/*
 *://*.wisestamp.com/blog/*
 *://*.wistia.com/learn/*
 *://woculus.com/*
