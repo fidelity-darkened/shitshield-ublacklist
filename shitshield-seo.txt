@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2025-09-27
+# Last updated: 2025-10-11
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10pcg.com/*
@@ -70,7 +70,18 @@
 *://*.autobest.co.in/blog-detail/*
 *://*.automator.us/*
 *://*.avadirect.com/blog/*
+*://*.avaide.com/audio-recording/*
+*://*.avaide.com/burn-bd-dvd/*
+*://*.avaide.com/convert-audio/*
+*://*.avaide.com/convert-photo/*
+*://*.avaide.com/convert-video/*
+*://*.avaide.com/edit-audio/*
 *://*.avaide.com/edit-video/*
+*://*.avaide.com/photo-editing/*
+*://*.avaide.com/play-bd-dvd/*
+*://*.avaide.com/rip-bd-dvd/*
+*://*.avaide.com/screen-recording/*
+*://*.avaide.com/tips/*
 *://*.avg.com/*/signal/*
 *://*.avira.com/*/blog/*
 *://bandzoogle.com/blog/*
@@ -112,6 +123,7 @@
 *://*.buildmyplays.com/*
 *://builtbythefoot.com/*
 *://*.bullvpn.com/*/blog/detail/*
+*://businessandpower.com/*
 *://businesstechplanet.com/*
 *://*.buybackboss.com/*
 *://*.buzzvoice.com/blog/*
@@ -140,6 +152,7 @@
 *://*.clipchamp.com/*/blog/*
 *://*.clonefileschecker.com/blog/*
 *://www.cloudeka.id/news/*
+*://*.cloudemulator.net/blog/*
 *://cloudinary.com/guides/*
 *://*.cloudwards.net/*
 *://*.cloudways.com/blog/*
@@ -208,6 +221,7 @@
 *://*.devicemag.com/*
 *://*.devicesfaq.com/*
 *://*.devicetests.com/*
+*://*.devzery.com/post/*
 *://*.dexerto.com/*
 *://*.dialpad.com/blog/*
 *://dicloak.com/blog-detail/*
@@ -300,8 +314,10 @@
 *://*.fileinspect.com/blog/*
 *://*.firesticktricks.com/*
 *://*.firmwarespro.com/*
+*://*.fitterfly.com/blog/*
 *://*.fixthephoto.com/*
 *://*.fixyourandroid.com/*
+*://parental-control.flashget.com/*
 *://*.flexclip.com/learn/*
 *://flixpress.com/*
 *://*.float.com/resources/*
@@ -375,6 +391,7 @@
 *://*.groovypost.com/*
 *://*.grouphowto.com/*
 *://*.grownupgeek.com/*
+*://growthscribe.com/*
 *://*.guidingtech.com/*
 *://*.guru99.com/*
 *://*.guzelgunlere.online/*
@@ -385,6 +402,7 @@
 *://*.health.com/*
 *://*.healthfully.com/*
 *://*.healthline.com/*
+*://*.healthshots.com/fitness/*
 *://*.hellotech.com/*
 *://*.helpdeskgeek.com/*
 *://*.helpdeskgeekal.pages.dev/posts/*
@@ -480,6 +498,7 @@
 *://*.instapage.com/blog/*
 *://*.intercoolstudio.com/*
 *://*.intowindows.com/*
+*://blog.invitemember.com/*
 *://*.ionos.com/digitalguide/*
 *://*.ioshacker.com/*
 *://*.ip2world.com/blog/*
@@ -541,6 +560,7 @@
 *://*.laptopjudge.com/*
 *://www.launchpass.com/blog/*
 *://www.lb-link.com/*
+*://*.leawo.org/entips/*
 *://*.lenetek.com/blog/*
 *://*.lettoknow.com/*
 *://*.levellr.com/*
@@ -684,6 +704,7 @@
 *://noomistockholm.com/blogs/noomistockholmblog/*
 *://*.nordvpn.com/blog/*
 *://*.nostra.ai/blogs-collection/*
+*://*.noteburner.com/*
 *://*.nucleustechnologies.com/blog/*
 *://www.numberanalytics.com/blog/*
 *://*.oberlo.com/blog/*
@@ -749,6 +770,7 @@
 *://*.probleme.app/*
 *://*.process.st/how-to/*
 *://*.processchecker.com/*
+*://prodiadigital.com/en/articles/*
 *://*.prodiadigital.com/id/*
 *://*.prodvigate.com/blog/*
 *://*.programmathically.com/*
@@ -811,6 +833,7 @@
 *://*.saleshandy.com/blog/*
 *://*.sarkariexam.com/*
 *://*.sawyerlosangeles.com/*
+*://screenapp.io/blog/*
 *://*.sebertech.com/*
 *://*.securedatarecovery.com/blog/*
 *://*.securedyou.com/*
@@ -1079,6 +1102,7 @@
 *://*.troypoint.com/*
 *://*.trustedreviews.com/*
 *://*.trustsu.com/*
+*://*.tuasaude.com/en/*
 *://*.tuko.co.ke/facts-lifehacks/guides/*
 *://*.tuneskit.com/*
 *://*.turgs.com/blog/*
@@ -1195,6 +1219,11 @@
 *://www.wisecleaner.com/*
 *://*.wisestamp.com/blog/*
 *://*.wistia.com/learn/*
+*://*.wittytool.com/articles/how-to/*
+*://*.wittytool.com/data-backup-tips/*
+*://*.wittytool.com/data-recovery-tips/*
+*://*.wittytool.com/disk-clone-tips/*
+*://*.wittytool.com/video-download-tips/*
 *://woculus.com/*
 *://*.wondershare.com/*
 *://woodworkhaven.com/*
