@@ -1,5 +1,5 @@
 # Title: shitshield-content-farm
-# Last updated: 2025-09-27
+# Last updated: 2025-10-11
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.021diao.com/*
@@ -23,6 +23,7 @@
 *://alltech.how/*
 *://altinify.com/*
 *://androidcure.com/*
+*://androidnature.com/*
 *://*.animalia-life.club/*
 *://*.anjiashe.com/*
 *://*.anjushe.com/*
@@ -87,6 +88,8 @@
 *://www.cnkang.com/*
 *://*.coco01.net/*
 *://www.codemzy.com/*
+*://*.codewithrandom.com/*
+*://makingschoolseasy.com.ng/*
 *://*.coolhealth.com.tw/*
 *://copy-paste-emails.com/*
 *://corg.cc/*
@@ -136,8 +139,10 @@
 *://englishrecap.com/*
 *://englishsumma.com/*
 *://www.epainassist.com/*
+*://etechshout.com/*
 *://expressionist.pro/*
 *://*.ezvivi.com/*
+*://factfile.org/*
 *://*.factpedia.org/*
 *://*.fafa01.com/*
 *://*.faluji.com/*
@@ -162,6 +167,7 @@
 *://*.funtoday.news/*
 *://www.fx7777.com/*
 *://gadgetsranked.com/*
+*://geekrewind.com/*
 *://*.getit01.com/*
 *://*.ggfwb.com/*
 *://*.gglzw.com/*
@@ -307,6 +313,7 @@
 *://*.modengguan.com/*
 *://*.modengzhan.com/*
 *://momsmakecents.com/*
+*://mostamazingwonders.com/*
 *://motorcyclehabit.com/*
 *://*.mqcyw.com/*
 *://*.mrhyb.com/*
@@ -353,6 +360,7 @@
 *://*.peekme.cc/*
 *://penfolio.quest/*
 *://phrasemesh.com/*
+*://pickytop.com/*
 *://*.pinweifeng.com/*
 *://pixelpens.art/*
 *://polishandpatterns.com/*
@@ -392,6 +400,7 @@
 *://*.ruiliguan.com/*
 *://www.safehealthlinks.com/blog/*
 *://savorandsprinkle.com/*
+*://scholarsintel.com/*
 *://www.sciencenewstoday.org/*
 *://*.shafaqna.com/*
 *://*.shareba.com/*
@@ -404,6 +413,7 @@
 *://www.shuomingshu.cn/*
 *://silicophilic.com/*
 *://www.simplymotorcycle.com/*
+*://*.sirhow.com/*
 *://skincareessencial.com/*
 *://slashage.com/*
 *://smallusefultips.com/*
@@ -432,6 +442,7 @@
 *://tech-latest.com/*
 *://*.tech-recipes.com/*
 *://www.techbloat.com/*
+*://techbulletin.com/*
 *://www.techcommuters.com/*
 *://techdetective.com/*
 *://techdirectarchive.com/*
@@ -443,12 +454,14 @@
 *://techquack.com/*
 *://techrechard.com/*
 *://techsanjeetyt.com/*
+*://*.techthirsty.com/*
 *://techtreatbox.com/*
 *://*.teepr.com/*
 *://theclockend.com/*
 *://thecoderworld.com/*
 *://thehomexprt.com/*
 *://themakeupmood.com/*
+*://*.themost10.com/*
 *://thenextgalaxy.com/*
 *://theproperkitchen.com/*
 *://therapidresponse.com/*
@@ -461,6 +474,7 @@
 *://www.thinkdear.com/*
 *://thoughtfulmind.info/*
 *://thoughthub.tech/*
+*://thrivewellzone.com/*
 *://*.tianqi.com/*
 *://www.timesmojo.com/*
 *://www.tips-for-everyday.com/*
@@ -478,6 +492,7 @@
 *://troypoint.com/*
 *://trytrylove.com/*
 *://*.tt98.com/*
+*://tutorialtactic.com/*
 *://tuxwise.net/*
 *://tw100s.com/*
 *://*.twgreatdaily.com/*
@@ -501,12 +516,14 @@
 *://weheartmakeup.com/*
 *://weheartnaildesigns.com/*
 *://weheartthis.com/*
+*://widgethouse.com/*
 *://wigglingpen.com/*
 *://windowbrain.com/*
 *://www.windowschimp.com/*
 *://*.winrayland.com/*
 *://www.withoutthesarcasm.com/*
 *://wolfoflaptop.com/*
+*://*.wonderslist.com/*
 *://wordcraft.ink/*
 *://wordify.pro/*
 *://wordselector.com/*
