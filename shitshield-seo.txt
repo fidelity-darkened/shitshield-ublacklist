@@ -712,6 +712,7 @@
 *://*.obsbot.com/blog/*
 *://*.offthemrkt.com/*
 *://*.oitc.ca/blog/*
+*://*.okayreview.com/*
 *://*.onecal.io/blog/*
 *://*.onecomputerguy.com/*
 *://*.onefinewallet.com/*
