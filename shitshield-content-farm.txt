@@ -848,6 +848,7 @@
 *://todaymommy.com/*
 *://*.toiletsadviser.com/*
 *://toiletseek.com/*
+*://*.tomsreviewbox.com/*
 *://*.tonsofthanks.com/*
 *://*.toolify.ai/*
 *://toolingideas.com/*
