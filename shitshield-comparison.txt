@@ -4,6 +4,8 @@
 
 *://alternativeto.net/*
 *://www.askdifference.com/*
+*://*.diffen.com/*
+*://*.difference.wiki/*
 *://differencebetween.net/*
 *://grammarchecker.io/page/*
 *://www.saashub.com/*
