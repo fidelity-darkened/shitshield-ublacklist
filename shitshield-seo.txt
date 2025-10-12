@@ -698,7 +698,6 @@
 *://*.wepc.com/tips/*
 *://*.whichvoip.com/articles/*
 *://*.whistleout.com/*/Guides/*
-*://*.wikidiff.com/*
 *://*.winxdvd.com/*
 *://www.wisecleaner.com/*
 *://*.wisestamp.com/blog/*
