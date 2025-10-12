@@ -1,5 +1,5 @@
 # Title: shitshield-comparison
-# Last updated: 2025-08-26
+# Last updated: 2025-10-12
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://alternativeto.net/*
