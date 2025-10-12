@@ -448,6 +448,7 @@
 *://*.oberlo.com/blog/*
 *://*.obkio.com/blog/*
 *://*.obsbot.com/blog/*
+*://*.octoparse.com/blog/*
 *://*.offthemrkt.com/*
 *://*.oitc.ca/blog/*
 *://*.onecal.io/blog/*
