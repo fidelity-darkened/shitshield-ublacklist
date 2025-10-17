@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2025-10-12
+# Last updated: 2025-10-17
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10web.io/blog/*
@@ -93,6 +93,7 @@
 *://*.carlcare.com/*/tips-detail/*
 *://*.cashify.in/*
 *://*.castr.com/blog/*
+*://*.cbackup.com/articles/*
 *://*.cellphonerepair.com/*
 *://cheapandbesthosting.com/*
 *://*.cheq.ai/blog/*
@@ -235,11 +236,13 @@
 *://*.fonetool.com/*
 *://*.forbes.com/advisor/*
 *://*.forbes.com/sites/rachelwells/*
+*://*.fortect.com/*
 *://*.free-videoconverter.net/video-editing/*
 *://*.freecodecamp.org/*
 *://*.freemake.com/blog/*
 *://*.freeviewer.org/blog/*
 *://*.g2.com/*
+*://*.gadgetmates.com/*
 *://*.gangl.de/blog-reader/*
 *://*.gearupbooster.com/blog/*
 *://*.geekflare.com/*
@@ -266,9 +269,11 @@
 *://growthscribe.com/*
 *://*.healthshots.com/fitness/*
 *://*.hellotech.com/*
+*://*.help4it.co.uk/blog/*
 *://*.helpfixthat.com/*
 *://*.helpwire.app/blog/*
 *://*.hetmanrecovery.com/recovery_news/*
+*://*.hexafusion.com/blog/*
 *://*.hideipvpn.com/censorship/*
 *://*.hideipvpn.com/entertainment/*
 *://*.hideipvpn.com/general/*
@@ -312,6 +317,7 @@
 *://*.imagekit.io/blog/*
 *://*.imyfone.com/*
 *://*.imymac.com/*
+*://*.imypass.com/*
 *://*.incogniton.com/blog/*
 *://*.incogniton.com/knowledge center/*
 *://*.indeed.com/career-advice/*
@@ -325,8 +331,8 @@
 *://*.instafollowers.co/blog/*
 *://*.instapage.com/blog/*
 *://*.intercoolstudio.com/*
-*://*.ionos.com/digitalguide/*
 *://blog.invitemember.com/*
+*://*.ionos.com/digitalguide/*
 *://*.ip2world.com/blog/*
 *://*.iphonebackupextractor.com/*
 *://*.iqinit.uk/news/*
@@ -363,6 +369,7 @@
 *://*.lenetek.com/blog/*
 *://*.levellr.com/*
 *://*.lickd.co/blog/*
+*://*.liferaftlabs.com/blog/*
 *://*.lifescienceglobal.com/*
 *://lifespharma.com/*
 *://blog.lift.bio/*
@@ -501,6 +508,7 @@
 *://*.rayobyte.com/blog/*
 *://*.recoveryfix.com/blog/*
 *://*.recoverytools.com/blog/*
+*://*.refitglobal.com/blogs/news/*
 *://*.regainsoftware.com/blog/*
 *://*.registryrecycler.com/blog/*
 *://*.reiboot.com/*
@@ -513,6 +521,7 @@
 *://*.reviversoft.com/blog/*
 *://*.revouninstaller.com/blog/*
 *://*.rightinbox.com/blog/*
+*://*.rigorousthemes.com/blog/*
 *://*.riverside.fm/blog/*
 *://blog.rottenwifi.com/*
 *://*.runcloud.io/blog/*
@@ -544,6 +553,7 @@
 *://smartreach.io/blog/*
 *://*.smartwellness.com.au/blog/*
 *://*.smartwindows.app/blog/*
+*://*.smashedit.co.nz/*
 *://snov.io/blog/*
 *://*.sociablekit.com/*
 *://*.socialappshq.com/*
@@ -566,6 +576,7 @@
 *://www.starhub.com/personal/how-to/*
 *://*.statuslist.app/*
 *://stealthoptional.com/article/*
+*://*.stealthseminar.com/*
 *://*.steelseries.com/blog/*
 *://*.stellarinfo.co.in/blog/*
 *://*.stellarinfo.co.in/kb/*
@@ -596,12 +607,15 @@
 *://blog.systoolsgroup.com/*
 *://blog.talk-home.com/*
 *://www.talkhelper.com/*
+*://*.tandem.net/*/blog/*
+*://*.tandem.net/blog/*
 *://bk.taobao.com/*
 *://*.taplink.at/*/blog/*
 *://*.taskade.com/blog/*
 *://*.teamhood.com/project-management/*
 *://techbackend.com/*
 *://*.techdipper.com/*
+*://*.techmanme.com/*
 *://*.technical-tips.com/blog/*
 *://*.technologysolutions.net/blog/*
 *://*.techprevue.com/*
@@ -634,6 +648,7 @@
 *://*.top-password.com/*
 *://*.top10vpn.com/*
 *://tremhost.com/*
+*://*.trickedoutonline.com/*
 *://*.tuko.co.ke/facts-lifehacks/guides/*
 *://*.tuneskit.com/*
 *://*.turgs.com/blog/*
@@ -668,9 +683,11 @@
 *://uplup.com/blog/*
 *://*.uppbeat.io/blog/*
 *://*.upphone.com/fix/*
+*://*.uswitch.com/mobiles/guides/*
 *://www.uubyte.com/blog/*
 *://*.vdocipher.com/blog/*
 *://blog.veefly.com/*
+*://*.vegerpower.com/blogs/chargers/*
 *://*.veritone.com/blog/*
 *://*.videoconverterfactory.com/tips/*
 *://*.videohunter.net/*
