@@ -1,5 +1,5 @@
 # Title: shitshield-content-farm
-# Last updated: 2025-10-17
+# Last updated: 2025-11-10
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.021diao.com/*
@@ -31,6 +31,7 @@
 *://*.airflowacademy.com/*
 *://aiswers.com/*
 *://*.akhbara24.news/*
+*://alive7.com/*
 *://alltech.how/*
 *://*.allthings.how/*
 *://*.alltop9.com/*
@@ -41,6 +42,7 @@
 *://androidnature.com/*
 *://*.androidtvnews.com/*
 *://*.animalia-life.club/*
+*://*.animascorp.com/*
 *://*.anjiashe.com/*
 *://*.anjushe.com/*
 *://answertica.com/*
@@ -59,6 +61,7 @@
 *://*.archyworldys.com/*
 *://*.asapguide.com/*
 *://askanydifference.com/*
+*://asktheman.xyz/*
 *://*.asmarterchoice.org/*
 *://*.audiochamps.com/*
 *://audiocruiser.com/*
@@ -93,9 +96,11 @@
 *://blinklink.pics/*
 *://blinksandbuttons.net/*
 *://*.blog.ite2.com/*
+*://sueruhomedesign.blogspot.com/*
 *://bloomandbrick.com/*
 *://*.bobvila.com/*
 *://*.bomb01.com/*
+*://bookingsme.com/*
 *://*.boomspeaker.com/*
 *://*.boredpanda.com/*
 *://*.bowengu.com/*
@@ -129,6 +134,8 @@
 *://*.chinasspp.com/*
 *://*.chuangfudu.com/*
 *://*.chuangfuguan.com/*
+*://chudaju.com/*
+*://citizendailypost.com/*
 *://clickthis.blog/*
 *://*.clrn.org/*
 *://*.cnkang.com/*
@@ -139,6 +146,7 @@
 *://*.computerhope.com/*
 *://*.computertechreviews.com/*
 *://*.coolhealth.com.tw/*
+*://coolmisthumidifier.org/*
 *://copy-paste-emails.com/*
 *://corg.cc/*
 *://*.createregisteraccount.com/*
@@ -147,6 +155,7 @@
 *://*.csai.cn/*
 *://*.csbkg.com/*
 *://*.csdn.net/*
+*://custommapposter.com/*
 *://*.cuterank.net/*
 *://*.cwyan.com/*
 *://*.cyberciti.biz/*
@@ -154,6 +163,7 @@
 *://*.cyberguy.com/*
 *://*.d1xz.net/*
 *://dailynewsfeeding.com/*
+*://dailytourway.com/*
 *://*.damyup.co/*
 *://*.daohang03.com/xw/*
 *://*.daohang07.com/xw/*
@@ -245,6 +255,7 @@
 *://flawlesshair.com/*
 *://*.flbkb.com/*
 *://*.flixpress.com/*
+*://fluimucil.org/*
 *://*.followchain.org/*
 *://*.food-ienjoy.com/*
 *://*.foodlife.blog/*
@@ -286,6 +297,8 @@
 *://*.gohaveababy.com/*
 *://*.golinuxcloud.com/*
 *://*.gongluegu.com/*
+*://storage.googleapis.com/dcaggttuyhtcge/*
+*://storage.googleapis.com/djplyrsswrmyge/*
 *://*.gooood.cn/*
 *://goprocamerasreview.com/*
 *://*.gottabemobile.com/*
@@ -298,10 +311,12 @@
 *://grammarprotips.com/*
 *://grammarroot.com/*
 *://grammarsir.com/*
+*://greenyplace.com/*
 *://*.groovypost.com/*
 *://*.grouphowto.com/*
 *://*.grownupgeek.com/*
 *://*.gucheng.com/*
+*://guideofgreece.com/*
 *://*.guidingtech.com/*
 *://*.guowenba.com/*
 *://*.guowenban.com/*
@@ -336,6 +351,9 @@
 *://hogonext.com/*
 *://homeefficiencyguide.com/*
 *://*.hoopsaddict.com/*
+*://*.hoshyoga.org/*
+*://*.hotelcontractbeds.co.uk/blog/*
+*://*.hotelfandb.com/*
 *://*.housedigest.com/*
 *://*.how2shout.com/*
 *://*.howto-do.it/*
@@ -344,8 +362,10 @@
 *://howtotypeanything.com/*
 *://*.http.dev/*
 *://*.huatu.com/*
+*://huifu.biz/*
 *://*.huratips.com/*
 *://i5apps.com/*
+*://*.ichhori.com/*
 *://*.idownloadblog.com/*
 *://*.ifuun.com/*
 *://*.igeeksblog.com/*
@@ -372,6 +392,7 @@
 *://*.iphonelife.com/*
 *://*.iphonetricks.org/*
 *://iphonewired.com/*
+*://itchol.com/*
 *://*.itechbrand.com/*
 *://*.itechfever.com/*
 *://*.itechguides.com/*
@@ -400,12 +421,14 @@
 *://*.jjbkw.com/*
 *://*.jlmbg.com/*
 *://*.jo106.com/*
+*://journeyjunket.com/*
 *://*.joyofandroid.com/*
 *://*.jrycb.com/*
 *://*.juduo.cc/*
 *://*.jueshifan.com/*
 *://*.jumeiguan.com/*
 *://justlovecooking.com/*
+*://*.k2-builders.com/*
 *://*.k366.com/*
 *://*.kagels-trading.com/*
 *://*.kapilarya.com/*
@@ -488,6 +511,7 @@
 *://*.makeuseof.com/*
 *://*.makingschoolseasy.com.ng/*
 *://*.marginbull.com/news/*
+*://marketclutch.com/*
 *://*.mashtips.com/*
 *://*.mdkpw.com/*
 *://*.mdshb.com/*
@@ -529,6 +553,7 @@
 *://*.mrhyb.com/*
 *://*.mrxyw.com/*
 *://*.mspoweruser.com/*
+*://mundurek.com/*
 *://*.mwjyg.com/*
 *://*.mycomic.cc/*
 *://myhappythanks.com/*
@@ -555,6 +580,7 @@
 *://*.nokiapoweruser.com/*
 *://notesuggest.com/*
 *://*.nowlooker.com/*
+*://npifund.com/*
 *://officebeginner.com/*
 *://*.oicq88.com/*
 *://*.okayreview.com/*
@@ -595,6 +621,7 @@
 *://*.pcglance.com/*
 *://*.pcmobitech.com/*
 *://*.peekme.cc/*
+*://*.peeryhotel.com/*
 *://penfolio.quest/*
 *://*.personalcomputerfixes.com/*
 *://*.phonezik.net/*
@@ -701,6 +728,7 @@
 *://*.softstribe.com/*
 *://*.softwaretestinghelp.com/*
 *://*.softwaretesttips.com/*
+*://solatatech.com/*
 *://*.solinkit.com/*
 *://*.solvedlib.com/*
 *://*.solveyourtech.com/*
@@ -729,6 +757,7 @@
 *://stylespark.art/*
 *://*.suanming.com/*
 *://*.supereasy.com/*
+*://*.superpark.com.hk/*
 *://*.supportyourtech.com/*
 *://synonympro.com/*
 *://syntaxxpert.com/*
@@ -775,6 +804,7 @@
 *://*.technobezz.com/*
 *://*.technologycocoa.com/*
 *://*.technorms.com/*
+*://*.technoworldnews.com/*
 *://*.techosaurusrex.com/*
 *://*.techpenny.com/*
 *://*.techpicko.com/*
@@ -820,6 +850,7 @@
 *://*.thecorrectblogger.com/*
 *://*.thecpuguide.com/*
 *://*.thedroidguy.com/*
+*://thefashionvibes.com/*
 *://*.thefilibusterblog.com/*
 *://*.thefountainpenismightier.com/*
 *://*.thegamer.com/*
@@ -868,6 +899,7 @@
 *://todaymommy.com/*
 *://*.toiletsadviser.com/*
 *://toiletseek.com/*
+*://toiletty.com/*
 *://*.tomsreviewbox.com/*
 *://*.tonsofthanks.com/*
 *://*.toolify.ai/*
@@ -884,6 +916,8 @@
 *://*.trendytarzan.com/*
 *://trendyuniverse.com/*
 *://*.tripsavvy.com/*
+*://tripsson.com/*
+*://tropicalfruitsy.com/*
 *://troypoint.com/*
 *://*.troypoint.com/*
 *://*.trustedreviews.com/*
@@ -921,6 +955,7 @@
 *://*.vlchelp.com/*
 *://*.voosweet.com/*
 *://*.vpncentral.com/*
+*://*.vpnranks.com/*
 *://*.vpnuniversity.com/*
 *://*.wangminggu.com/*
 *://*.wangmingguan.com/*
@@ -929,6 +964,7 @@
 *://*.webnots.com/*
 *://*.webstick.blog/*
 *://*.webtrickz.com/*
+*://*.weddingabroad.com.hk/*
 *://weheartcozy.com/*
 *://weheartdecorating.com/*
 *://wehearthairstyles.com/*
@@ -945,6 +981,7 @@
 *://*.whoismcafee.com/*
 *://widgethouse.com/*
 *://wigglingpen.com/*
+*://wiki-en.org/*
 *://*.winability.com/*
 *://*.winaero.com/*
 *://*.winbuzzer.com/*
