@@ -1,5 +1,5 @@
 # Title: shitshield-content-farm
-# Last updated: 2025-11-10
+# Last updated: 2025-12-23
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.021diao.com/*
@@ -25,6 +25,7 @@
 *://*.a3erf.com/*
 *://*.abancommercials.com/*
 *://*.aboutlove.cc/*
+*://*.acciyo.com/*
 *://*.adaymag.com/*
 *://*.addictivetips.com/*
 *://*.advisorbit.com/*
@@ -45,6 +46,7 @@
 *://*.animascorp.com/*
 *://*.anjiashe.com/*
 *://*.anjushe.com/*
+*://*.anniegourmet.com.hk/*
 *://answertica.com/*
 *://anti-aging-queen.com/*
 *://*.anzhaiba.com/*
@@ -107,8 +109,8 @@
 *://*.boxueji.com/*
 *://*.bqfwx.com/*
 *://*.bqwxb.com/*
-*://brandingheights.com/*
-*://brandongaille.com/*
+*://*.brandingheights.com/*
+*://*.brandongaille.com/*
 *://*.brighterguide.com/*
 *://*.brighthub.com/*
 *://*.broadlearners.com/*
@@ -136,6 +138,7 @@
 *://*.chuangfuguan.com/*
 *://chudaju.com/*
 *://citizendailypost.com/*
+*://citizenside.com/*
 *://clickthis.blog/*
 *://*.clrn.org/*
 *://*.cnkang.com/*
@@ -218,6 +221,7 @@
 *://eatingdisorderresources.com/*
 *://*.eazon.com/*
 *://*.ecloudbuzz.com/*
+*://*.edgar.hk/*
 *://*.educba.com/*
 *://*.einsstark.tech/*
 *://*.electronicshub.org/*
@@ -247,6 +251,7 @@
 *://*.faxingguan.com/*
 *://*.faxingsj.com/*
 *://*.fcas.hk/*
+*://*.fdmall.hk/*
 *://*.fdssw.com/*
 *://*.firstforwomen.com/*
 *://fitnessdy.com/*
@@ -311,6 +316,7 @@
 *://grammarprotips.com/*
 *://grammarroot.com/*
 *://grammarsir.com/*
+*://*.greend.hk/*
 *://greenyplace.com/*
 *://*.groovypost.com/*
 *://*.grouphowto.com/*
@@ -407,6 +413,7 @@
 *://itsourcecode.com/*
 *://itstillworks.com/*
 *://*.ittrip.xyz/*
+*://iturrit.com/blog/*
 *://*.iwiki.tw/*
 *://iytmed.com/*
 *://jameliz.co/*
@@ -445,6 +452,7 @@
 *://*.kkplay3c.net/*
 *://*.kktian.com/*
 *://*.kkyyg.com/*
+*://knowandshareskills.com/*
 *://*.knowmore.cc/*
 *://*.knowtechie.com/*
 *://knowyourbest.com/*
@@ -460,11 +468,14 @@
 *://*.kzbkw.com/*
 *://*.labnol.org/*
 *://*.laitimes.com/*
+*://laoziliao.net/*
 *://*.latest-hairstyles.com/*
+*://learnprotips.com/*
 *://*.leirenbang.com/*
 *://*.lejuka.com/*
 *://lensviewing.com/*
 *://*.lettoknow.com/*
+*://*.lge.com.hk/*
 *://*.lgfwz.com/*
 *://*.lgxzw.com/*
 *://*.liangfaner.com/*
@@ -485,6 +496,7 @@
 *://*.linuxize.com/post/*
 *://*.linuxpunx.com.au/*
 *://*.linuxsimply.com/*
+*://linuxvox.com/blog/*
 *://*.linuxways.net/*
 *://liquidimageco.com/*
 *://w.liulianga.com/article/*
@@ -500,6 +512,7 @@
 *://*.lookforward.cc/*
 *://*.lookforward.info/*
 *://*.lookit.tw/*
+*://*.lovemyonlinemarketing.com/*
 *://*.lsbkw.com/*
 *://luxurytraveldiva.com/*
 *://*.macgasm.net/*
@@ -554,6 +567,7 @@
 *://*.mrxyw.com/*
 *://*.mspoweruser.com/*
 *://mundurek.com/*
+*://*.musicone.com.hk/*
 *://*.mwjyg.com/*
 *://*.mycomic.cc/*
 *://myhappythanks.com/*
@@ -565,6 +579,7 @@
 *://*.navthemes.com/*
 *://*.ncesc.com/*
 *://*.nerdschalk.com/*
+*://nerdytechblog.com/*
 *://*.neurolaunch.com/*
 *://*.newbieadvisor.com/*
 *://*.newscitech.com/*
@@ -632,6 +647,7 @@
 *://*.piunikaweb.com/*
 *://pixelpens.art/*
 *://*.pointerclicker.com/*
+*://*.polarlite.com.hk/*
 *://polishandpatterns.com/*
 *://polkathreads.com/*
 *://*.polyulaunchpadfund.hk/*
@@ -663,6 +679,7 @@
 *://*.qupuxz.com/*
 *://*.qwkpw.com/*
 *://*.qzbkw.com/*
+*://rad.hk/*
 *://raspberrytips.com/*
 *://*.read01.com/*
 *://*.readytodiy.com/*
@@ -694,6 +711,8 @@
 *://*.safehealthlinks.com/blog/*
 *://*.safetydetectives.com/*
 *://*.saintlad.com/*
+*://samsungmobileclub.com/*
+*://samsungtechwin.com/*
 *://*.sarkariexam.com/*
 *://savorandsprinkle.com/*
 *://scholarsintel.com/*
@@ -714,6 +733,7 @@
 *://*.shoutmetech.com/*
 *://*.shuomingshu.cn/*
 *://silicophilic.com/*
+*://blog.silverpc.hu/*
 *://*.simplymac.com/*
 *://*.simplymotorcycle.com/*
 *://*.sirhow.com/*
@@ -893,9 +913,11 @@
 *://*.ticktechtold.com/*
 *://*.timesmojo.com/*
 *://*.timetraxtech.com/*
+*://tinygrab.com/*
 *://*.tips.net/*
 *://*.tips-for-everyday.com/*
 *://tipsmake.com/*
+*://*.tobiasholm.com/*
 *://todaymommy.com/*
 *://*.toiletsadviser.com/*
 *://toiletseek.com/*
@@ -959,6 +981,8 @@
 *://*.vpnuniversity.com/*
 *://*.wangminggu.com/*
 *://*.wangmingguan.com/*
+*://wapzola.com/*
+*://wasteland3.info/*
 *://*.waxzz.com/*
 *://*.wccftech.com/*
 *://*.webnots.com/*
@@ -1037,6 +1061,7 @@
 *://*.zefoy.me/*
 *://*.zhizhiguan.com/*
 *://*.zhongkao.com/*
+*://zhpengfei.com/*
 *://*.zhujiawu.com/*
 *://*.zhujuwang.com/*
 *://zontsound.com/*
