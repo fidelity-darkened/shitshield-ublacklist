@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2025-11-10
+# Last updated: 2025-12-23
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10web.io/blog/*
@@ -117,6 +117,7 @@
 *://*.cloudways.com/blog/*
 *://*.cloudzy.com/blog/*
 *://*.cmitsolutions.com/blog/*
+*://*.cocosenor.com/articles/*
 *://*.codecoda.com/en/blog/*
 *://*.codegrepper.com/*
 *://*.cointelegraph.com/learn/articles/*
@@ -232,6 +233,17 @@
 *://*.folk.app/articles/*
 *://*.followeran.com/*/blog/*
 *://*.follows.com/blog/*
+*://*.foneazy.com/android/*
+*://*.foneazy.com/guide/*
+*://*.foneazy.com/help/*
+*://*.foneazy.com/icloud/*
+*://*.foneazy.com/ios/*
+*://*.foneazy.com/ipad/*
+*://*.foneazy.com/iphone/*
+*://*.foneazy.com/pokemon-go/*
+*://*.foneazy.com/tips/*
+*://*.foneazy.com/update-issue/*
+*://*.foneazy.com/whatsapp/*
 *://*.fonedog.com/*
 *://*.fonegeek.com/*
 *://*.fonelab.com/*
@@ -318,6 +330,7 @@
 *://*.ifixscreens.com/*
 *://*.ifunia.com/resource/*
 *://*.imagekit.io/blog/*
+*://*.imobie.com/*
 *://*.imyfone.com/*
 *://*.imymac.com/*
 *://*.imypass.com/*
@@ -478,8 +491,18 @@
 *://*.panagenda.com/blog/*
 *://*.paperpal.com/blog/*
 *://*.partitionwizard.com/*
+*://*.passixer.com/apple-id/*
+*://*.passixer.com/fix/*
+*://*.passixer.com/icloud/*
+*://*.passixer.com/ios-recovery/*
+*://*.passixer.com/iphone/*
+*://*.passixer.com/mdm/*
+*://*.passixer.com/passcode/*
+*://*.passixer.com/screen-time/*
+*://*.passixer.com/tip/*
 *://*.pathsocial.com/resources/*
 *://*.pc123.hao739.com/*
+*://*.pcguide.com/smartphone/how-to/*
 *://blog.pcloud.com/*
 *://blog.pcrisk.com/*
 *://*.phoenixnap.com/kb/*
@@ -487,6 +510,7 @@
 *://blog.pics.io/*
 *://*.pitsdatarecovery.com/blog/*
 *://*.pixelprivacy.com/*
+*://*.pogoskill.com/*
 *://*.printerlogic.com/blog/*
 *://*.privacysavvy.com/news/*
 *://*.privateproxy.me/blog/*
@@ -530,8 +554,10 @@
 *://*.riverside.fm/blog/*
 *://blog.rottenwifi.com/*
 *://*.runcloud.io/blog/*
+*://runtoagent.com/*
 *://*.safewiper.com/tutorials/*
 *://*.salamexperts.com/blog/*
+*://*.salehoo.com/learn/*
 *://*.saleshandy.com/blog/*
 *://*.screenapp.io/blog/*
 *://*.securedatarecovery.com/blog/*
@@ -572,6 +598,7 @@
 *://*.soldrit.com/blog/*
 *://*.sorcim.com/blog/*
 *://*.sotrender.com/blog/*
+*://*.soundguys.com/*
 *://*.sparkmailapp.com/blog/*
 *://*.speechify.com/blog/*
 *://*.speedify.com/blog/*
@@ -723,6 +750,7 @@
 *://*.whichvoip.com/articles/*
 *://*.whistleout.com/*/Guides/*
 *://*.winxdvd.com/*
+*://wise.com/*/blog/*
 *://*.wisecleaner.com/*
 *://*.wisestamp.com/blog/*
 *://*.wistia.com/learn/*
