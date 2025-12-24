@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2025-12-23
+# Last updated: 2025-12-24
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10web.io/blog/*
@@ -9,6 +9,7 @@
 *://*.4winkey.com/how_it_works/*
 *://*.7datarecovery.com/*
 *://*.90seconds.com/*/what-is/*
+*://*.accuweb.cloud/blog/*
 *://*.acefone.com/blog/*
 *://blog.acer.com/*
 *://*.acethinker.com/*
@@ -358,6 +359,7 @@
 *://*.isp.net/blog/post/*
 *://*.isumsoft.com/*
 *://*.isunshare.com/*
+*://*.itarian.com/blog/*
 *://*.itechtics.com/*
 *://*.itgenius.com/*
 *://*.itoolab.com/*
@@ -375,6 +377,7 @@
 *://*.keys.direct/blogs/*
 *://*.kingpinbrowser.com/blog/*
 *://*.kingston.com/*/blog/*
+*://*.kinsta.com/blog/*
 *://*.kinsta.com/knowledgebase/*
 *://*.knime.com/blog/*
 *://*.lagofast.com/*/blog/*
@@ -434,6 +437,7 @@
 *://*.mayple.com/resources/*
 *://blog.mdaemon.com/*
 *://knowledge.mdaemon.com/*
+*://*.mendmyiphone.co.uk/*
 *://*.mercury.co.nz/about-us/blog/*
 *://*.michaelpage.com/advice/*
 *://*.migrateclouddata.com/blog/*
@@ -537,6 +541,7 @@
 *://*.rayobyte.com/blog/*
 *://*.recoveryfix.com/blog/*
 *://*.recoverytools.com/blog/*
+*://*.redswitches.com/blog/*
 *://*.refitglobal.com/blogs/news/*
 *://*.regainsoftware.com/blog/*
 *://*.registryrecycler.com/blog/*
@@ -720,6 +725,7 @@
 *://*.uswitch.com/mobiles/guides/*
 *://*.uubyte.com/blog/*
 *://*.vdocipher.com/blog/*
+*://*.veeble.com/kb/*
 *://blog.veefly.com/*
 *://*.vegerpower.com/blogs/chargers/*
 *://*.veritone.com/blog/*
@@ -730,6 +736,20 @@
 *://*.vietbay.com.vn/en/*
 *://*.views4you.com/blog/*
 *://*.viewsta.com/blog/*
+*://*.vinchin.com/application-backup/*
+*://*.vinchin.com/database-backup/*
+*://*.vinchin.com/database-tips/*
+*://*.vinchin.com/disaster-recovery/*
+*://*.vinchin.com/file-backup/*
+*://*.vinchin.com/linux-backup/*
+*://*.vinchin.com/nas-backup/*
+*://*.vinchin.com/nas-tips/*
+*://*.vinchin.com/tech-tips/*
+*://*.vinchin.com/vinchin-help-tutorials/*
+*://*.vinchin.com/vm-backup/*
+*://*.vinchin.com/vm-migration/*
+*://*.vinchin.com/vm-tips/*
+*://*.vinchin.com/windows-backup/*
 *://*.vintageits.com/*
 *://*.viralyft.com/blog/*
 *://blog.virtosoftware.com/*
@@ -781,3 +801,4 @@
 *://blog.zendwallet.com/*
 *://*.zikanalytics.com/blog/*
 *://*.zillow.com/learn/*
+*://*.zmanda.com/blog/*
