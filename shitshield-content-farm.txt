@@ -1,5 +1,5 @@
 # Title: shitshield-content-farm
-# Last updated: 2025-12-23
+# Last updated: 2025-12-24
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.021diao.com/*
@@ -200,6 +200,7 @@
 *://*.djyxw.com/*
 *://*.dollarsprout.com/*
 *://*.dongjingyan.com/*
+*://*.dotlinux.net/*
 *://*.downelink.com/*
 *://*.downloadsource.net/*
 *://dreamlogic.pro/*
@@ -340,6 +341,7 @@
 *://*.happytify.cc/*
 *://*.hardreset.info/*
 *://*.hardware-corner.net/*
+*://*.harryvasanth.com/*
 *://*.hddfaqs.com/*
 *://headcurve.com/*
 *://*.health.com/*
@@ -456,6 +458,7 @@
 *://*.knowmore.cc/*
 *://*.knowtechie.com/*
 *://knowyourbest.com/*
+*://*.knowyourmobile.com/*
 *://*.kolauthor.com/*
 *://*.kole8.com/*
 *://*.komando.com/*
@@ -734,6 +737,7 @@
 *://*.shuomingshu.cn/*
 *://silicophilic.com/*
 *://blog.silverpc.hu/*
+*://*.simplified.guide/*
 *://*.simplymac.com/*
 *://*.simplymotorcycle.com/*
 *://*.sirhow.com/*
@@ -748,6 +752,7 @@
 *://*.softstribe.com/*
 *://*.softwaretestinghelp.com/*
 *://*.softwaretesttips.com/*
+*://*.softwers.com/*
 *://solatatech.com/*
 *://*.solinkit.com/*
 *://*.solvedlib.com/*
@@ -790,6 +795,7 @@
 *://*.tadke.com/*
 *://talkssmartly.com/*
 *://*.tantannews.com/*
+*://*.tecadmin.net/*
 *://*.tech-faq.com/*
 *://tech-latest.com/*
 *://*.tech-recipes.com/*
@@ -813,6 +819,7 @@
 *://techio.co/*
 *://*.techjockey.com/blog/*
 *://*.techjunkie.com/*
+*://*.techlila.com/*
 *://*.techlizar.com/*
 *://*.techloris.com/*
 *://*.technadu.com/*
@@ -880,6 +887,7 @@
 *://*.theinsaneapp.com/*
 *://*.thelinuxcode.com/*
 *://*.thelinuxuser.com/*
+*://*.thelinuxvault.net/*
 *://*.thelondonmedia.co.uk/*
 *://themakeupmood.com/*
 *://*.themost10.com/*
@@ -1035,7 +1043,7 @@
 *://*.wpsauce.com/*
 *://*.wvf.com.tw/*
 *://*.xingyunba.com/*
-*://xingzuo.life/*
+*://*.xingzuo.life/*
 *://*.xingzuobibi.net/*
 *://*.xiumeiguan.com/*
 *://*.xjishu.com/*
@@ -1046,10 +1054,10 @@
 *://*.yaolan.com/*
 *://*.yebkg.com/*
 *://*.yfcdw.com/*
-*://yitake.in/*
-*://yourbestselves.com/*
+*://*.yitake.in/*
+*://*.yourbestselves.com/*
 *://*.yourpinterest.com/*
-*://yourwifeknows.com/*
+*://*.yourwifeknows.com/*
 *://*.yskpw.com/*
 *://*.ytechb.com/*
 *://*.yudiaozhe.com/*
@@ -1061,8 +1069,8 @@
 *://*.zefoy.me/*
 *://*.zhizhiguan.com/*
 *://*.zhongkao.com/*
-*://zhpengfei.com/*
+*://*.zhpengfei.com/*
 *://*.zhujiawu.com/*
 *://*.zhujuwang.com/*
-*://zontsound.com/*
+*://*.zontsound.com/*
 *://*.zuowenjin.com/*
