@@ -1,5 +1,5 @@
 # Title: shitshield-content-farm
-# Last updated: 2025-12-24
+# Last updated: 2026-01-19
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.021diao.com/*
@@ -38,6 +38,7 @@
 *://*.alltop9.com/*
 *://*.alphr.com/*
 *://altinify.com/*
+*://*.androidayuda.com/*
 *://androidcure.com/*
 *://*.androidguias.com/*
 *://androidnature.com/*
@@ -166,6 +167,7 @@
 *://*.cyberguy.com/*
 *://*.d1xz.net/*
 *://dailynewsfeeding.com/*
+*://*.dailytech.id/*
 *://dailytourway.com/*
 *://*.damyup.co/*
 *://*.daohang03.com/xw/*
@@ -234,6 +236,7 @@
 *://*.entrepreneurshiplife.com/*
 *://*.epainassist.com/*
 *://etechshout.com/*
+*://*.evrmag.com/*
 *://*.expertbeacon.com/*
 *://expressionist.pro/*
 *://*.ezvivi.com/*
@@ -300,6 +303,7 @@
 *://glamourcorner.net/*
 *://glossandhair.com/*
 *://*.gnfww.com/*
+*://*.go2share.net/*
 *://*.gohaveababy.com/*
 *://*.golinuxcloud.com/*
 *://*.gongluegu.com/*
@@ -395,6 +399,7 @@
 *://*.intowindows.com/*
 *://*.invest101.com.hk/*
 *://io-editor.com/blog/articles/*
+*://*.ionhowto.com/*
 *://*.ioshacker.com/*
 *://iphone-tricks.com/*
 *://*.iphonelife.com/*
@@ -559,6 +564,7 @@
 *://mobilityarena.com/*
 *://*.modengguan.com/*
 *://*.modengzhan.com/*
+*://*.moderngentlemanmagazine.com/*
 *://*.modify.in.th/*
 *://*.mominformed.com/*
 *://momsmakecents.com/*
@@ -746,6 +752,7 @@
 *://slashage.com/*
 *://*.slipstick.com/*
 *://smallusefultips.com/*
+*://*.smarthomeowl.com/*
 *://*.smyyj.com/*
 *://socialtalky.com/*
 *://softhandtech.com/*
@@ -782,6 +789,7 @@
 *://stylespark.art/*
 *://*.suanming.com/*
 *://*.supereasy.com/*
+*://*.superhomepursuits.com/*
 *://*.superpark.com.hk/*
 *://*.supportyourtech.com/*
 *://synonympro.com/*
@@ -802,8 +810,10 @@
 *://*.tech2geek.net/*
 *://*.tech4gamers.com/*
 *://*.techadvisor.com/*
+*://*.techapple.net/*
 *://*.techbeezer.com/*
 *://*.techbloat.com/*
+*://*.techbone.net/*
 *://*.techbout.com/*
 *://techbulletin.com/*
 *://*.techcommuters.com/*
@@ -814,11 +824,13 @@
 *://techdriz.com/*
 *://techgolly.com/*
 *://*.techguided.com/*
+*://*.techhbs.com/*
 *://*.techietech.tech/*
 *://*.techinsightzone.com/*
 *://techio.co/*
 *://*.techjockey.com/blog/*
 *://*.techjunkie.com/*
+*://*.techlife.blog/*
 *://*.techlila.com/*
 *://*.techlizar.com/*
 *://*.techloris.com/*
@@ -862,13 +874,16 @@
 *://*.techyhost.com/*
 *://*.techyloud.com/*
 *://*.techyoulike.com/*
+*://*.techysnoop.com/*
 *://*.tecmint.com/*
 *://*.tecnobits.com/*
 *://*.teepr.com/*
 *://*.teknofixitsolutions.com/*
 *://*.tencomputer.com/*
+*://*.tginfo.me/*
 *://*.theandroidportal.com/*
 *://*.thebalancemoney.com/*
+*://*.thecelldesk.com/*
 *://theclockend.com/*
 *://thecoderworld.com/*
 *://*.thecomputerbasics.com/*
@@ -969,6 +984,7 @@
 *://*.umatechnology.org/*
 *://*.unixtutorial.org/*
 *://*.unlockboot.com/*
+*://*.urtech.ca/*
 *://utterexpression.com/*
 *://*.uvip.cc/*
 *://*.uyuanfen.com/*
