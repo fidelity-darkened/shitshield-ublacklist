@@ -25,6 +25,7 @@
 *://*.a3erf.com/*
 *://*.abancommercials.com/*
 *://*.aboutlove.cc/*
+*://*.abtechy.com/*
 *://*.acciyo.com/*
 *://*.adaymag.com/*
 *://*.addictivetips.com/*
@@ -100,7 +101,6 @@
 *://*.bkzsb.com/*
 *://*.blinklink.pics/*
 *://*.blinksandbuttons.net/*
-*://blog.ite2.com/*
 *://sueruhomedesign.blogspot.com/*
 *://*.bloomandbrick.com/*
 *://*.bobvila.com/*
@@ -124,6 +124,7 @@
 *://*.caihuadu.com/*
 *://*.caihuazhai.com/*
 *://*.caizhika.com/*
+*://*.cameratechy.com/*
 *://*.candid.technology/*
 *://*.cartipsdaily.com/*
 *://*.ccm.net/*
@@ -185,6 +186,7 @@
 *://*.ddhhw.com/*
 *://*.dealbreaker.info/*
 *://*.debugpoint.com/*
+*://*.deeptechy.com/*
 *://*.deletingsolutions.com/*
 *://*.dellenny.com/*
 *://*.design-touching.com/*
@@ -358,7 +360,6 @@
 *://*.healthfully.com/*
 *://*.healthline.com/*
 *://*.helpdeskgeek.com/*
-*://helpdeskgeekal.pages.dev/*
 *://*.hhbky.com/*
 *://*.history-computer.com/*
 *://*.historytools.org/*
@@ -412,6 +413,7 @@
 *://*.iphonetricks.org/*
 *://*.iphonewired.com/*
 *://*.itchol.com/*
+*://blog.ite2.com/*
 *://*.itechbrand.com/*
 *://*.itechfever.com/*
 *://*.itechguides.com/*
@@ -594,6 +596,7 @@
 *://*.navthemes.com/*
 *://*.ncesc.com/*
 *://*.nerdschalk.com/*
+*://*.nerdtechy.com/*
 *://*.nerdytechblog.com/*
 *://*.neurolaunch.com/*
 *://*.newbieadvisor.com/*
@@ -634,6 +637,7 @@
 *://doloritawardisj.pages.dev/*
 *://fulkwest.pages.dev/*
 *://heddaqmarketa.pages.dev/*
+*://helpdeskgeekal.pages.dev/*
 *://ileanaasedesirae.pages.dev/*
 *://imogenlaserona.pages.dev/*
 *://joeliewnaoma.pages.dev/*
@@ -731,6 +735,7 @@
 *://*.samsungtechwin.com/*
 *://*.sarkariexam.com/*
 *://*.savorandsprinkle.com/*
+*://*.scantechy.com/*
 *://*.scholarsintel.com/*
 *://*.sciencenewstoday.org/*
 *://*.sebertech.com/*
@@ -880,9 +885,14 @@
 *://*.techwiseinsider.com/*
 *://*.techwiser.com/*
 *://*.techwithtech.com/*
+*://*.techy.how/*
+*://*.techy.zone/*
+*://*.techychalkboard.com/*
 *://*.techyhost.com/*
 *://*.techyloud.com/*
 *://*.techyoulike.com/*
+*://*.techyplanet.org/*
+*://*.techyplays.com/*
 *://*.techysnoop.com/*
 *://*.tecmint.com/*
 *://*.tecnobits.com/*
@@ -960,6 +970,7 @@
 *://*.toolify.ai/*
 *://*.toolingideas.com/*
 *://*.topchooser.com/*
+*://*.toptechytips.com/*
 *://*.toptvtips.com/*
 *://*.touchtapplay.com/*
 *://*.tovisorga.com/*
@@ -973,7 +984,6 @@
 *://*.tripsavvy.com/*
 *://*.tripsson.com/*
 *://*.tropicalfruitsy.com/*
-*://*.troypoint.com/*
 *://*.troypoint.com/*
 *://*.trustedreviews.com/*
 *://*.trustsu.com/*
