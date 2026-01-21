@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2026-01-19
+# Last updated: 2026-01-21
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.10web.io/blog/*
@@ -104,6 +104,7 @@
 *://*.avg.com/*/signal/*
 *://*.avira.com/*/blog/*
 *://*.bandzoogle.com/blog/*
+*://*.barbend.com/*
 *://*.bearvpn.com/blog/*
 *://*.beincrypto.com/learn/*
 *://*.bighomechores.com/*
@@ -205,6 +206,7 @@
 *://*.crucial.tw/blog/*
 *://*.cyberhosting.cloud/blog/*
 *://*.cyberinsider.com/*
+*://*.cyberly.org/news/*
 *://*.cybernews.com/*
 *://*.cyberpanel.net/blog/*
 *://*.daisyuk.tech/resource/*
@@ -250,6 +252,7 @@
 *://*.emailanalytics.com/*
 *://*.emaildoctor.org/blog/*
 *://*.endsight.net/blog/*
+*://*.eneba.com/hub/*
 *://elements.envato.com/learn/*
 *://*.ergeon.com/blog/post/*
 *://*.esofttools.com/blog/*
@@ -272,6 +275,7 @@
 *://*.fileinspect.com/blog/*
 *://*.firesticktricks.com/*
 *://*.firmwarespro.com/*
+*://*.fitliferegime.com/*
 *://*.fitterfly.com/blog/*
 *://*.fixthephoto.com/*
 *://parental-control.flashget.com/*
@@ -406,6 +410,8 @@
 *://*.ionos.com/digitalguide/*
 *://*.ip2world.com/blog/*
 *://*.iphonebackupextractor.com/*
+*://*.iphonetransferrecovery.com/blog/*
+*://*.iphonetransferrecovery.com/tutorials/*
 *://*.iqinit.uk/news/*
 *://*.ir.com/guides/*
 *://*.isitwp.com/*
@@ -512,6 +518,7 @@
 *://*.mobikin.com/screen-mirror/*
 *://*.mobikin.com/video-audio/*
 *://*.mobikin.com/virtual-location/*
+*://*.mobilerepairparts.com/*
 *://*.mobitrix.com/*/airpods-tips/*
 *://*.mobitrix.com/*/android-support/*
 *://*.mobitrix.com/*/apple-support/*
@@ -546,6 +553,7 @@
 *://*.movavi.com/learning-portal/*
 *://*.mrsharepoint.guru/*
 *://*.msoutlooktools.com/blogs/*
+*://digest.myhq.in/*
 *://*.myimg.ai/blogs/*
 *://*.mysignature.io/blog/*
 *://*.mytour.vn/*
@@ -662,6 +670,8 @@
 *://*.samsung-messages-backup.com/resources/*
 *://*.screenapp.io/blog/*
 *://*.securedatarecovery.com/blog/*
+*://*.seedprod.com/*
+*://*.seekward.com/*
 *://*.sellyourmac.com/mac-blog/*
 *://*.semrush.com/blog/*
 *://*.servicebell.com/post/*
@@ -761,6 +771,7 @@
 *://*.techy.how/news/*
 *://*.techy.how/templates/*
 *://*.techy.how/tutorials/*
+*://*.techycoopercity.com/*
 *://*.telegramads.agency/*
 *://*.tenorshare.com/*
 *://*.teqiq.com/*
@@ -855,6 +866,7 @@
 *://online.visual-paradigm.com/*
 *://*.viwizard.com/*
 *://*.vpnmentor.com/blog/*
+*://*.vpnx.blog/*
 *://*.vulcan.io/blog/*
 *://*.wamsinc.com/*
 *://*.wati.io/blog/*
@@ -867,7 +879,7 @@
 *://*.whichvoip.com/articles/*
 *://*.whistleout.com/*/Guides/*
 *://*.winxdvd.com/*
-*://wise.com/*/blog/*
+*://*.wise.com/*/blog/*
 *://*.wisecleaner.com/*
 *://*.wisestamp.com/blog/*
 *://*.wistia.com/learn/*
@@ -886,7 +898,7 @@
 *://*.wpexperts.io/blog/*
 *://*.wpsocialninja.com/*
 *://blog.wtfast.com/blog/*
-*://x-ray.contact/blog/*
+*://*.x-ray.contact/blog/*
 *://*.xenconverter.com/blog/*
 *://*.xtraxtor.com/blog/*
 *://*.yabla.com/yabla-blog/*
