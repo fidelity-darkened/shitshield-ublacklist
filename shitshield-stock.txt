@@ -1,5 +1,5 @@
 # Title: shitshield-stock
-# Last updated: 2025-09-27
+# Last updated: 2026-04-29
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://su.3d66.com/*
