@@ -1,5 +1,5 @@
 # Title: shitshield-content-farm
-# Last updated: 2026-07-04
+# Last updated: 2026-07-28
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.021diao.com/*
@@ -7,12 +7,14 @@
 *://*.10pcg.com/*
 *://*.10scopes.com/*
 *://*.17moveon.com/*
+*://*.1880.com.hk/*
 *://*.1applehealth.com/*
 *://*.2-remove-virus.com/*
 *://*.2ggx.com/*
 *://*.360-reader.com/*
 *://*.360changshi.com/*
 *://*.365tips.be/*
+*://*.3hk.cn/*
 *://*.413yy.cn/*
 *://*.5156edu.com/*
 *://*.51dongshi.com/*
@@ -34,6 +36,7 @@
 *://*.adreep.cn/*
 *://*.advisorbit.com/*
 *://*.aeanet.org/*
+*://*.africanfoodwarehouse.com/*
 *://*.airflowacademy.com/*
 *://*.aiswers.com/*
 *://*.aivanet.com/*
@@ -60,6 +63,7 @@
 *://*.anti-aging-queen.com/*
 *://*.anzhaiba.com/*
 *://*.aoshu.com/*
+*://*.aperlust.com/*
 *://*.apowersoft.com/*
 *://*.appadvice.com/*
 *://*.applegazette.com/*
@@ -101,6 +105,7 @@
 *://*.becs.co.uk/*
 *://*.beebom.com/*
 *://*.beginrescueend.com/*
+*://*.begoodfriends.com/*
 *://*.benlcollins.com/*
 *://*.bestdailyreviews.com/*
 *://*.bestdivision.com/*
@@ -140,6 +145,7 @@
 *://*.brightside.me/*
 *://*.broadlearners.com/*
 *://*.browserhow.com/*
+*://*.bullishbears.com/*
 *://*.buyiju.com/*
 *://*.buzzhand.com/*
 *://*.bxshb.com/*
@@ -151,6 +157,7 @@
 *://*.captionsunleashed.com/*
 *://*.carefulu.com/*
 *://*.cartipsdaily.com/*
+*://*.ccins.com.hk/*
 *://*.ccm.net/*
 *://*.cee-trust.org/*
 *://*.celebritynetworth.com/*
@@ -249,10 +256,12 @@
 *://*.digitalsynopsis.com/*
 *://*.digitbin.com/*
 *://*.djyxw.com/*
+*://*.doctorphysicaltherapy.net/*
 *://*.dollarsprout.com/*
 *://*.dongjingyan.com/*
 *://*.dongwangask.com/*
 *://*.dotlinux.net/*
+*://*.dottech.org/*
 *://*.downelink.com/*
 *://*.downloadsource.net/*
 *://*.dreamlogic.pro/*
@@ -275,6 +284,8 @@
 *://*.eatingdisorderresources.com/*
 *://*.eazon.com/*
 *://*.ecloudbuzz.com/*
+*://*.ecmsource.com/*
+*://*.ecywang.com/*
 *://*.edgar.hk/*
 *://*.educba.com/*
 *://*.einsstark.tech/*
@@ -397,8 +408,10 @@
 *://storage.googleapis.com/dficdccxsjfihe/*
 *://storage.googleapis.com/dfpefgigytluje/*
 *://storage.googleapis.com/dfsctcjrmuvpoe/*
+*://storage.googleapis.com/dfvkpnxwpcujbe/*
 *://storage.googleapis.com/dgdoonnrwxkbwe/*
 *://storage.googleapis.com/dgklfnskgbrpre/*
+*://storage.googleapis.com/dgnmwsuuhkugse/*
 *://storage.googleapis.com/dgpmiaqqxnzeie/*
 *://storage.googleapis.com/dgvbbmgyrcobke/*
 *://storage.googleapis.com/dhfmqrnqrhddue/*
@@ -411,6 +424,7 @@
 *://storage.googleapis.com/dkmendvholxyhe/*
 *://storage.googleapis.com/dkwqtmfcpdacme/*
 *://storage.googleapis.com/dlmvfznqybhhbe/*
+*://storage.googleapis.com/dmhkbabzglgkxqphaafhblog/*
 *://storage.googleapis.com/dnkdddtyciuuie/*
 *://storage.googleapis.com/dnpfmvcqmqdpve/*
 *://storage.googleapis.com/dnqbgfhiykzloe/*
@@ -433,12 +447,15 @@
 *://storage.googleapis.com/dtbcapnqnsfdoe/*
 *://storage.googleapis.com/dtffhbftpxdzne/*
 *://storage.googleapis.com/dtirxyrogzqwie/*
+*://storage.googleapis.com/dtjjrjmguqjgfe/*
 *://storage.googleapis.com/dtoxqeccisyvre/*
 *://storage.googleapis.com/dtpmjwkrywrqne/*
 *://storage.googleapis.com/dtslwmxprizche/*
 *://storage.googleapis.com/dubaxqxbdrzkqe/*
 *://storage.googleapis.com/duzpbzqzmuhjne/*
+*://storage.googleapis.com/dvgvwonjiiieue/*
 *://storage.googleapis.com/dvhdcyoxehpfye/*
+*://storage.googleapis.com/dvmavnobohalxe/*
 *://storage.googleapis.com/dvmnlhhvfhuzge/*
 *://storage.googleapis.com/dvmuqdurhchjde/*
 *://storage.googleapis.com/dvqzgljkxvjjve/*
@@ -452,6 +469,8 @@
 *://storage.googleapis.com/dylsdctdufpone/*
 *://storage.googleapis.com/dyqakbaipuyvxe/*
 *://storage.googleapis.com/dyzqiuqhwpuhre/*
+*://storage.googleapis.com/dzjevjkkqrglle/*
+*://storage.googleapis.com/qwqyodvmdfwzxoztqdyqblog/*
 *://*.gooood.cn/*
 *://*.goprocamerasreview.com/*
 *://*.gottabemobile.com/*
@@ -505,6 +524,7 @@
 *://*.helpdeskgeek.com/*
 *://*.heymahjong.com/*
 *://*.hhbky.com/*
+*://*.historicbios.com/*
 *://*.history-computer.com/*
 *://*.historytools.org/*
 *://*.hmdcr.com/*
@@ -516,6 +536,7 @@
 *://*.homeefficiencyguide.com/*
 *://*.homegeargeek.com/*
 *://*.homenerdy.com/*
+*://*.homezille.com/*
 *://*.hoopsaddict.com/*
 *://*.hoshyoga.org/*
 *://*.hotelcontractbeds.co.uk/blog/*
@@ -572,6 +593,7 @@
 *://*.iphonetricks.org/*
 *://*.iphonewired.com/*
 *://*.isitdev.com/*
+*://*.itaewon.com.tw/*
 *://*.itchol.com/*
 *://blog.ite2.com/*
 *://*.itechbrand.com/*
@@ -581,6 +603,7 @@
 *://*.itechify.com/*
 *://*.itgeared.com/*
 *://*.itigic.com/*
+*://*.itman.ae/*
 *://*.itprosec.com/*
 *://*.itprospt.com/*
 *://*.itsfoss.com/*
@@ -654,11 +677,13 @@
 *://*.laoziliao.net/*
 *://*.laptopmag.com/*
 *://*.latest-hairstyles.com/*
+*://*.leadershipstorybank.com/*
 *://*.learnprotips.com/*
 *://*.leirenbang.com/*
 *://*.lejuka.com/*
 *://*.lensviewing.com/*
 *://*.lets-rebuild.com/*
+*://*.letsclosexly.com/*
 *://*.lettoknow.com/*
 *://*.lge.com.hk/*
 *://*.lgfwz.com/*
@@ -740,6 +765,7 @@
 *://*.miaodongbang.com/*
 *://*.millennialmoneyman.com/*
 *://*.min.news/*
+*://*.mindfultomorrow.com/*
 *://*.mindperk.com/*
 *://*.mindscope.pics/*
 *://*.mingyanjiaju.org/*
@@ -762,7 +788,9 @@
 *://*.modify.in.th/*
 *://*.mominformed.com/*
 *://*.momsmakecents.com/*
+*://*.moneyhk101.com/*
 *://*.moneyinc.com/*
+*://*.moodtainer.com/*
 *://*.mostamazingwonders.com/*
 *://*.motorcyclehabit.com/*
 *://*.mqcyw.com/*
@@ -794,6 +822,7 @@
 *://*.neuralword.com/*
 *://*.neurolaunch.com/*
 *://*.newbieadvisor.com/*
+*://*.newji.ai/*
 *://*.newscitech.com/*
 *://*.newskks.com/*
 *://*.newsnpr.org/*
@@ -807,6 +836,8 @@
 *://*.nogomi.ru/*
 *://*.nokiapoweruser.com/*
 *://*.notesuggest.com/*
+*://*.novessphoto.com/*
+*://*.novyy.com.tw/*
 *://*.nowlooker.com/*
 *://*.npifund.com/*
 *://*.officebeginner.com/*
@@ -821,8 +852,10 @@
 *://*.ostechnix.com/*
 *://*.other-ways-to-say.com/*
 *://*.oubafeng.com/*
+*://*.ourcodeworld.com/*
 *://*.outbyte.com/*
 *://*.outlookappins.com/*
+*://*.paddictrecovery.com/*
 *://albertocjohnston.pages.dev/*
 *://amberrholmquist.pages.dev/*
 *://andreaqcolette.pages.dev/*
@@ -865,6 +898,7 @@
 *://*.pickypens.com/*
 *://*.pickytop.com/*
 *://*.pieriantraining.com/*
+*://*.pinglabz.com/*
 *://*.pinweifeng.com/*
 *://*.piunikaweb.com/*
 *://*.pixelpens.art/*
@@ -885,6 +919,7 @@
 *://*.practicallynetworked.com/*
 *://*.prajwaldesai.com/*
 *://*.predictiveanalyticstoday.com/*
+*://*.premarketdaily.com/*
 *://*.prepmycareer.com/*
 *://*.prevention.com/*
 *://*.primevpndefender.com/*
@@ -918,6 +953,7 @@
 *://*.realmenrealstyle.com/*
 *://*.realsimple.com/*
 *://*.realthaitea.com/*
+*://*.regexland.com/*
 *://*.remote.tools/*
 *://*.reolink.com/*
 *://*.repairwin.com/*
@@ -964,6 +1000,7 @@
 *://*.searchengineinsight.com/*
 *://*.sebertech.com/*
 *://*.securedyou.com/*
+*://*.seekingalpha.com/*
 *://*.serverwatch.com/*
 *://*.sewingiscool.com/*
 *://*.sgss8.net/*
@@ -996,10 +1033,12 @@
 *://*.sleeplessbeastie.eu/*
 *://*.slingacademy.com/*
 *://*.slipstick.com/*
+*://*.sluurpy.com/*
 *://*.smallusefultips.com/*
 *://*.smartdigitalmaking.com/*
 *://*.smarthomebit.com/*
 *://*.smarthomeowl.com/*
+*://*.smarthomereview.org/*
 *://*.smartpicked.com/*
 *://*.smyyj.com/*
 *://*.socialtalky.com/*
@@ -1023,6 +1062,7 @@
 *://*.sourcedigit.com/*
 *://*.spacehop.com/*
 *://*.spicyauntie.net/*
+*://*.spinzel.com/*
 *://*.splaitor.com/*
 *://*.sportskeeda.com/*
 *://*.spreadsheet.dev/*
@@ -1043,6 +1083,7 @@
 *://*.styleoholic.com/*
 *://*.stylespark.art/*
 *://*.suanming.com/*
+*://*.subtitletools.space/*
 *://*.sunnighteditions.com/*
 *://*.supereasy.com/*
 *://*.superhomepursuits.com/*
@@ -1232,6 +1273,7 @@
 *://*.tips.net/*
 *://*.tips-for-everyday.com/*
 *://*.tipsmake.com/*
+*://*.tldrfiling.com/*
 *://*.tobiasholm.com/*
 *://*.todaymommy.com/*
 *://*.toiletsadviser.com/*
@@ -1253,6 +1295,7 @@
 *://*.trainchinese.com/*
 *://shitpost.travel.blog/*
 *://*.travelizta.com/*
+*://*.treecarezone.com/*
 *://*.trendtide.homes/*
 *://*.trendytarzan.com/*
 *://*.trendyuniverse.com/*
@@ -1277,6 +1320,7 @@
 *://*.ubuntumint.com/*
 *://*.uctoday.com/*
 *://*.ugetfix.com/*
+*://*.uho.com.tw/*
 *://*.ukezhitan.com/*
 *://*.umatechnology.org/*
 *://*.undercodetesting.com/*
@@ -1306,6 +1350,7 @@
 *://*.vpncentral.com/*
 *://*.vpnranks.com/*
 *://*.vpnuniversity.com/*
+*://*.wallstreetmojo.com/*
 *://*.wangminggu.com/*
 *://*.wangmingguan.com/*
 *://*.wapzola.com/*
@@ -1347,6 +1392,7 @@
 *://*.windowsforum.com/*
 *://*.windowslatest.com/*
 *://*.windowsloop.com/*
+*://*.windowspost.com/*
 *://*.windowsreport.com/*
 *://*.windowstechit.com/*
 *://*.winhelponline.com/*
