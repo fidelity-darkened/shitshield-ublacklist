@@ -1,5 +1,5 @@
 # Title: shitshield-seo
-# Last updated: 2026-07-04
+# Last updated: 2026-07-28
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://blog.104.com.tw/*
@@ -31,6 +31,8 @@
 *://*.airtel.in/blog/*
 *://*.aischedul.com/*
 *://*.aiseesoft.com/*
+*://*.aiskill.market/blog/*
+*://*.alibaba.com/question/*
 *://*.allthatsinteresting.com/*
 *://*.alvarotrigo.com/*
 *://*.androidphonesoft.com/blog/*
@@ -89,6 +91,7 @@
 *://*.appgeeker.com/unlock/*
 *://*.appgeeker.com/whatsapp-transfer/*
 *://*.asclique.com/blog/*
+*://*.assemblyai.com/blog/*
 *://*.astrill.com/blog/*
 *://*.asurion.com/*
 *://error404.atomseo.com/*
@@ -155,12 +158,17 @@
 *://*.bytescare.com/blog/*
 *://*.calendar-australia.com/faq/*
 *://*.calendar-canada.ca/frequently-asked-questions/*
+*://*.camb.ai/blog-post/*
 *://*.canto.com/blog/*
 *://*.carlcare.com/*/tips-detail/*
+*://*.carta.com/learn/*
 *://*.cashify.in/*
 *://*.castr.com/blog/*
 *://*.cbackup.com/articles/*
+*://*.cdw.com/content/cdw/*/articles/*
 *://*.cellphonerepair.com/*
+*://*.cerco.ai/blog/*
+*://insights.cerco.ai/*
 *://*.cheapandbesthosting.com/*
 *://*.cheq.ai/blog/*
 *://*.cigatisolutions.com/blog/*
@@ -194,9 +202,12 @@
 *://*.communicationsquare.com/news/*
 *://*.comparitech.com/blog/*
 *://*.compsuccess.com/*
+*://*.connectedspeechpathology.com/blog/*
 *://*.connectify.me/blog/*
+*://*.contabo.com/blog/*
 *://blog.contentstudio.io/*
 *://*.convergeddevices.net/*
+*://*.convertfiles.com/blog/*
 *://*.coolblue.nl/*/advice/*
 *://*.coolmuster.com/*
 *://*.corbado.com/blog/*
@@ -247,6 +258,7 @@
 *://*.diskpart.com/*
 *://*.disruptiveadvertising.com/blog/*
 *://*.distantjob.com/blog/*
+*://*.dittotranscripts.com/blog/*
 *://*.dmoose.com/blogs/*
 *://*.dmpro.app/*
 *://blog.docswrite.com/*
@@ -262,6 +274,7 @@
 *://*.dumbofab.com/resource/*
 *://*.dumbofab.com/tutorial/*
 *://*.dvdfab.cn/*
+*://*.earningslens.ai/blog/*
 *://*.earthweb.com/blog/*
 *://*.easeus.com/*
 *://*.easycloudsolutions.com/*
@@ -301,6 +314,7 @@
 *://*.experts-exchange.com/*
 *://*.expressvpn.com/blog/*
 *://*.extendoffice.com/*
+*://*.f6s.com/companies/*
 *://*.fabricfringe.com/faqs/*
 *://*.familyhandyman.com/list/*
 *://*.famoid.com/blog/*
@@ -318,6 +332,7 @@
 *://*.fixthephoto.com/*
 *://parental-control.flashget.com/*
 *://*.flexclip.com/learn/*
+*://*.flixier.com/blog/*
 *://*.float.com/resources/*
 *://*.fluentu.com/*
 *://*.folk.app/articles/*
@@ -372,6 +387,7 @@
 *://*.getmailbird.com/*
 *://*.getmalus.com/*
 *://*.getstream.io/blog/*
+*://*.getsubly.com/post/*
 *://*.giznext.com/news/*
 *://*.globalapptesting.com/blog/*
 *://*.gmass.co/blog/*
@@ -384,6 +400,7 @@
 *://*.gravitywrite.com/blog/*
 *://*.growthscribe.com/*
 *://*.gsheets.com/blog/*
+*://*.happyscribe.com/blog/*
 *://*.hdfcbank.com/blogs/*
 *://*.healthshots.com/fitness/*
 *://*.hekalighting.store/blogs/*
@@ -420,6 +437,7 @@
 *://*.hotelchantelle.com/*
 *://*.howly.com/*
 *://*.howtodoninja.com/*
+*://*.howtonetwork.com/*
 *://*.hp.com/*/shop/tech-takes/*
 *://blog.hubspot.com/*
 *://services.hummingbirdnetworks.com/blog/*
@@ -457,6 +475,7 @@
 *://*.instafollowers.co/blog/*
 *://*.instapage.com/blog/*
 *://*.intercoolstudio.com/*
+*://*.intlpull.com/blog/*
 *://blog.invitemember.com/*
 *://*.ionos.com/digitalguide/*
 *://*.ip2world.com/blog/*
@@ -497,6 +516,7 @@
 *://*.kittl.com/blogs/*
 *://*.knime.com/blog/*
 *://*.krisp.ai/blog/*
+*://resources.l-p.com/*
 *://*.lagofast.com/*/blog/*
 *://*.laptopjudge.com/*
 *://*.launchpass.com/blog/*
@@ -521,6 +541,7 @@
 *://*.linuxadictos.com/*
 *://*.linuxhandbook.com/*
 *://*.linuxopsys.com/*
+*://*.liveapi.com/blog/*
 *://*.liveinhomecare.com/*
 *://*.livelingua.com/*
 *://*.livestrong.com/*
@@ -645,6 +666,7 @@
 *://*.netspotapp.com/blog/*
 *://*.netspotapp.com/wifi-scanner/*
 *://*.netspotapp.com/wifi-troubleshooting/*
+*://*.network-switch.com/blogs/*
 *://*.newmail.ai/blog/*
 *://*.nexthink.com/blog/*
 *://*.nextofwindows.com/*
@@ -727,8 +749,10 @@
 *://*.qontak.com/*/blog/*
 *://*.qqtube.com/blog/*
 *://*.quackr.io/blog/*
+*://*.quantfil.com/learn/*
 *://*.quartzmountain.org/article/*
 *://*.race.com/blog/*
+*://*.ramp.com/blog/*
 *://*.rankings.io/*
 *://*.rapidrepair.in/blog/*
 *://*.rapidseedbox.com/blog/*
@@ -773,6 +797,7 @@
 *://*.seekward.com/*
 *://*.sellyourmac.com/mac-blog/*
 *://*.semrush.com/blog/*
+*://*.servermania.com/kb/articles/*
 *://*.servicebell.com/post/*
 *://*.servicemycar.com/*/blog/*
 *://*.setapp.com/how-to/*
@@ -791,6 +816,7 @@
 *://*.slothytech.com/*
 *://*.smartasset.com/retirement/*
 *://support.smartdnsproxy.com/*
+*://*.smartplantstore.com/blog/*
 *://*.smartreach.io/blog/*
 *://*.smartwellness.com.au/blog/*
 *://*.smartwindows.app/blog/*
@@ -836,11 +862,15 @@
 *://*.stellarinfo.com/article/*
 *://*.stellarinfo.com/blog/*
 *://*.sterling-technology.com/blog/*
+*://*.stoxpulse.com/blog/*
 *://*.streamster.io/blog/*
 *://*.streamyard.com/blog/*
 *://*.strikesocial.com/blog/*
 *://*.studiobinder.com/blog/*
 *://*.studytonight.com/*
+*://*.subtitlesedit.com/blog/*
+*://*.subtitletoolkit.tools/guides/*
+*://*.subvideo.ai/blog/*
 *://blog.sucuri.net/*
 *://*.supcase.com/blogs/*
 *://*.superfast-it.com/articles/*
@@ -865,6 +895,7 @@
 *://*.tandem.net/*/blog/*
 *://*.tandem.net/blog/*
 *://bk.taobao.com/*
+*://*.tapescribe.com/blog/*
 *://*.taplink.at/*/blog/*
 *://*.taskade.com/blog/*
 *://*.teamhood.com/project-management/*
@@ -911,6 +942,7 @@
 *://*.toolradar.com/blog/*
 *://*.top-password.com/*
 *://*.top10vpn.com/*
+*://*.transgate.ai/blog/*
 *://*.tremhost.com/*
 *://*.trickedoutonline.com/*
 *://*.trupeer.ai/*/tutorials/*
@@ -946,6 +978,7 @@
 *://*.ultfone.com/*
 *://*.ultralytics.com/*/blog/*
 *://*.unictool.com/*
+*://*.uninets.com/blog/*
 *://*.uniserveit.com/blog/*
 *://*.unleash.so/a/blog/*
 *://*.uplup.com/blog/*
@@ -960,6 +993,7 @@
 *://blog.veefly.com/*
 *://*.veerotech.net/kb/*
 *://*.vegerpower.com/blogs/chargers/*
+*://*.velocaption.com/blog/*
 *://*.veritone.com/blog/*
 *://*.videoconverterfactory.com/tips/*
 *://*.videohunter.net/*
@@ -992,6 +1026,7 @@
 *://*.vocus.cc/article/*
 *://*.vpnmentor.com/blog/*
 *://*.vpnx.blog/*
+*://*.vttconverter.com/blog/*
 *://*.vulcan.io/blog/*
 *://*.wamsinc.com/*
 *://*.wati.io/blog/*
