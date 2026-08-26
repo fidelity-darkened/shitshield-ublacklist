@@ -1,5 +1,5 @@
 # Title: shitshield-stock
-# Last updated: 2026-04-29
+# Last updated: 2026-08-26
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://su.3d66.com/*
@@ -14,6 +14,7 @@
 *://*.brandpacks.com/templates/*
 *://*.canva.com/posters/templates/*
 *://*.canva.com/templates/*
+*://*.cartoondealer.com/*
 *://sc.chinaz.com/*
 *://*.clipart-library.com/*
 *://*.coloringfolder.com/*
