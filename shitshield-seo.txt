@@ -1,9 +1,10 @@
 # Title: shitshield-seo
-# Last updated: 2026-07-28
+# Last updated: 2026-08-26
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://blog.104.com.tw/*
 *://*.10web.io/blog/*
+*://guide.1111.com.tw/article/*
 *://waimao.163.com/knowledge/article/*
 *://*.21cloudbox.com/*
 *://*.403tech.com/*
@@ -32,6 +33,8 @@
 *://*.aischedul.com/*
 *://*.aiseesoft.com/*
 *://*.aiskill.market/blog/*
+*://*.albertlee.biz/blog/*
+*://*.alfie.io/blog/*
 *://*.alibaba.com/question/*
 *://*.allthatsinteresting.com/*
 *://*.alvarotrigo.com/*
@@ -116,6 +119,7 @@
 *://*.avira.com/*/blog/*
 *://*.backtofrontshow.com/*
 *://*.bandzoogle.com/blog/*
+*://*.bannermattressonline.com/blog/*
 *://*.barbend.com/*
 *://*.bartleby.com/essay/*
 *://*.baserow.io/blog/*
@@ -138,6 +142,7 @@
 *://*.bluesummitsupplies.com/blogs/*
 *://*.bluleadz.com/blog/*
 *://*.bobcares.com/blog/*
+*://*.bodyspec.com/blog/post/*
 *://*.boostitco.com/blog/*
 *://*.brainstorminc.com/blog/*
 *://*.brave.com/learn/*
@@ -150,7 +155,9 @@
 *://*.btod.com/blog/*
 *://*.buildmyplays.com/*
 *://*.builtbythefoot.com/*
+*://*.builtin.com/articles/*
 *://*.bullvpn.com/*/blog/detail/*
+*://*.bushe.co/blog/*
 *://*.businessandpower.com/*
 *://*.businesstechplanet.com/*
 *://*.buybackboss.com/*
@@ -194,6 +201,8 @@
 *://*.codecoda.com/en/blog/*
 *://*.codegrepper.com/*
 *://*.codestudy.net/blog/*
+*://*.codigital.co.jp/*/posts/*
+*://*.codigital.co.jp/posts/*
 *://*.cointelegraph.com/learn/articles/*
 *://*.combatcreatine.com/*
 *://*.comgateway.com/blogs/*
@@ -211,6 +220,7 @@
 *://*.coolblue.nl/*/advice/*
 *://*.coolmuster.com/*
 *://*.corbado.com/blog/*
+*://*.corbado.com/faq/*
 *://*.corbettsoftware.com/blog/*
 *://*.cpuforever.com/resources/*
 *://*.crast.net/*
@@ -262,7 +272,10 @@
 *://*.dmoose.com/blogs/*
 *://*.dmpro.app/*
 *://blog.docswrite.com/*
+*://*.donsappliances.com/blog/*
 *://*.dotstella.com/blog/*
+*://*.dragganaitool.com/*
+*://*.drainpipe.io/knowledge-base/*
 *://*.drbuho.com/how-to/*
 *://*.drivecanvas.com/*
 *://*.drivereasy.com/*
@@ -299,6 +312,7 @@
 *://*.eneba.com/hub/*
 *://*.engageweb.co.uk/blog/*
 *://*.english.cool/*
+*://*.engoo.com.tw/blog/*
 *://elements.envato.com/learn/*
 *://*.ergeon.com/blog/post/*
 *://*.esofttools.com/blog/*
@@ -377,12 +391,14 @@
 *://*.geeks2u.com.au/geekspeak/*
 *://*.geeksend.com/blog/*
 *://*.geeksforgeeks.org/*
+*://*.gemma4-ai.com/blog/*
 *://*.gemoo.com/*
 *://*.genmar.co.uk/blog/*
 *://*.geonode.com/blog/*
 *://*.getapp.com/*
 *://*.getapp.ie/*
 *://*.getassist.net/*
+*://*.getblockify.com/blog/*
 *://*.getmagical.com/blog/*
 *://*.getmailbird.com/*
 *://*.getmalus.com/*
@@ -400,6 +416,7 @@
 *://*.gravitywrite.com/blog/*
 *://*.growthscribe.com/*
 *://*.gsheets.com/blog/*
+*://*.guard.io/blog/*
 *://*.happyscribe.com/blog/*
 *://*.hdfcbank.com/blogs/*
 *://*.healthshots.com/fitness/*
@@ -451,6 +468,7 @@
 *://*.iboysoft.com/tips/*
 *://*.iboysoft.com/wiki/*
 *://*.ibuypower.com/blog/*
+*://*.ico-optics.org/*
 *://*.idigic.net/blog/*
 *://*.idiskhome.com/resource/*
 *://*.iesgp.com/blog/*
@@ -475,13 +493,16 @@
 *://*.instafollowers.co/blog/*
 *://*.instapage.com/blog/*
 *://*.intercoolstudio.com/*
+*://*.interiorinsider.com/article/*
 *://*.intlpull.com/blog/*
 *://blog.invitemember.com/*
+*://*.ioflood.com/blog/*
 *://*.ionos.com/digitalguide/*
 *://*.ip2world.com/blog/*
 *://*.iphonebackupextractor.com/*
 *://*.iphonetransferrecovery.com/blog/*
 *://*.iphonetransferrecovery.com/tutorials/*
+*://*.ipvanish.com/blog/*
 *://*.iqinit.uk/news/*
 *://*.ir.com/guides/*
 *://*.irepairexperts.com.au/blog/*
@@ -498,6 +519,7 @@
 *://*.ivankyo.com/*
 *://*.japannihon.com/*
 *://*.jihosoft.com/android-tips/*
+*://*.johnthornhill.com/blog/*
 *://*.joyoshare.com/*
 *://*.jploft.com/blog/*
 *://*.justanswer.com/*
@@ -548,6 +570,7 @@
 *://*.logicaldollar.com/*
 *://*.loginask.com/*
 *://*.logindetail.com/*
+*://*.loginpress.pro/*
 *://*.logo.com/blog/*
 *://blog.loltheory.gg/*
 *://*.lookeen.com/blog/*
@@ -582,7 +605,9 @@
 *://*.makeheadway.com/blog/*
 *://*.malcare.com/blog/*
 *://*.marketingscoop.com/blog/*
+*://*.marsproxies.com/blog/*
 *://*.martellotech.com/blog/*
+*://*.mattsworld101.com/*
 *://*.mayple.com/blog/*
 *://*.mayple.com/resources/*
 *://*.mbloging.com/post/*
@@ -592,6 +617,7 @@
 *://getmalus.medium.com/*
 *://*.mendmyiphone.co.uk/*
 *://*.mercury.co.nz/about-us/blog/*
+*://*.mezzoguild.com/*
 *://*.michaelpage.com/advice/*
 *://*.middleware.io/blog/*
 *://*.migrateclouddata.com/blog/*
@@ -667,6 +693,7 @@
 *://*.netspotapp.com/wifi-scanner/*
 *://*.netspotapp.com/wifi-troubleshooting/*
 *://*.network-switch.com/blogs/*
+*://*.networksolutions.com/blog/*
 *://*.newmail.ai/blog/*
 *://*.nexthink.com/blog/*
 *://*.nextofwindows.com/*
@@ -690,6 +717,7 @@
 *://*.onecal.io/blog/*
 *://*.onefinewallet.com/*
 *://*.onetimesoft.com/blog/*
+*://*.oneuptime.com/blog/*
 *://blog.online-convert.com/*
 *://*.onlinetauck.buzz/*
 *://*.onmsft.com/*
@@ -705,6 +733,7 @@
 *://*.panagenda.com/blog/*
 *://*.paperpal.com/blog/*
 *://*.paperpapers.com/news/*
+*://*.parisrhone.com/blogs/*
 *://*.partitionwizard.com/*
 *://*.passixer.com/apple-id/*
 *://*.passixer.com/fix/*
@@ -753,6 +782,7 @@
 *://*.quartzmountain.org/article/*
 *://*.race.com/blog/*
 *://*.ramp.com/blog/*
+*://*.rankhandy.com/blog/*
 *://*.rankings.io/*
 *://*.rapidrepair.in/blog/*
 *://*.rapidseedbox.com/blog/*
@@ -816,6 +846,7 @@
 *://*.slothytech.com/*
 *://*.smartasset.com/retirement/*
 *://support.smartdnsproxy.com/*
+*://*.smartiliving.com/blogs/*
 *://*.smartplantstore.com/blog/*
 *://*.smartreach.io/blog/*
 *://*.smartwellness.com.au/blog/*
@@ -894,6 +925,7 @@
 *://*.talkhelper.com/*
 *://*.tandem.net/*/blog/*
 *://*.tandem.net/blog/*
+*://*.taobao.com/lang/*/shopping-guide/*
 *://bk.taobao.com/*
 *://*.tapescribe.com/blog/*
 *://*.taplink.at/*/blog/*
@@ -917,8 +949,10 @@
 *://*.telegramads.agency/*
 *://*.tenorshare.com/*
 *://*.teqiq.com/*
+*://*.testrigor.com/blog/*
 *://blog.textedly.com/*
 *://*.textexpander.com/blog/*
+*://*.thankgifts.com/*
 *://*.thebricks.com/resources/*
 *://*.thecontentauthority.com/blog/*
 *://*.themeisle.com/blog/*
@@ -929,9 +963,13 @@
 *://*.thetechmentor.com/posts/*
 *://*.thewaystowealth.com/make-money/*
 *://*.thewordyboy.com/*
+*://*.thinkautomation.com/blog/*
+*://*.thinkcloudly.com/blog/*
 *://*.thinkific.com/blog/*
 *://*.thunderbit.com/*/blog/*
+*://blog.ticketiq.com/blog/*
 *://*.ticnote.com/*/blog/*
+*://*.tidio.com/blog/*
 *://*.timedoctor.com/blog/*
 *://*.timeular.com/blog/*
 *://*.tino.org/*
@@ -942,6 +980,7 @@
 *://*.toolradar.com/blog/*
 *://*.top-password.com/*
 *://*.top10vpn.com/*
+*://*.tracemind.app/blog/*
 *://*.transgate.ai/blog/*
 *://*.tremhost.com/*
 *://*.trickedoutonline.com/*
@@ -949,6 +988,7 @@
 *://*.tuko.co.ke/facts-lifehacks/guides/*
 *://*.tuneskit.com/*
 *://*.turgs.com/blog/*
+*://*.tuxcare.com/blog/*
 *://*.tweaking.com/*
 *://*.tweetdelete.net/resources/*
 *://*.tweeteraser.com/resources/*
@@ -1074,6 +1114,7 @@
 *://*.zapier.com/blog/*
 *://*.zego.im/blog/*
 *://blog.zendwallet.com/*
+*://*.zenmarket.jp/*/blog/*
 *://*.zikanalytics.com/blog/*
 *://*.zillow.com/learn/*
 *://*.zmanda.com/blog/*
