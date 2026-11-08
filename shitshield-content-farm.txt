@@ -1,13 +1,15 @@
 # Title: shitshield-content-farm
-# Last updated: 2026-08-26
+# Last updated: 2026-11-08
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
+*://*.01net.com/*
 *://*.021diao.com/*
 *://*.027art.com/*
 *://*.10pcg.com/*
 *://*.10scopes.com/*
 *://*.17moveon.com/*
 *://*.1880.com.hk/*
+*://*.18hall.com/*
 *://*.1applehealth.com/*
 *://*.2-remove-virus.com/*
 *://*.2ggx.com/*
@@ -34,7 +36,9 @@
 *://*.acciyo.com/*
 *://*.adaymag.com/*
 *://*.addictivetips.com/*
+*://*.admin365.blog/*
 *://*.adreep.cn/*
+*://*.advancestudy.org/*
 *://*.advisorbit.com/*
 *://*.aeanet.org/*
 *://*.africanfoodwarehouse.com/*
@@ -44,9 +48,11 @@
 *://*.ajudeoplaneta.com/*
 *://*.akhbara24.news/*
 *://*.alive7.com/*
+*://*.allaboutcookies.org/*
 *://*.alltech.how/*
 *://*.allthings.how/*
 *://*.alltop9.com/*
+*://*.allturtles.com/*
 *://*.alphr.com/*
 *://*.altinify.com/*
 *://*.android-ios-data-recovery.com/*
@@ -80,13 +86,17 @@
 *://*.apscience.blog/*
 *://*.apttones.com/*
 *://*.apttraveler.com/*
+*://*.aquifarm.com/*
+*://*.arcanepast.com/*
 *://*.architectureadrenaline.com/*
 *://*.archyworldys.com/*
 *://*.asapguide.com/*
 *://*.askanydifference.com/*
 *://*.askgramps.org/*
 *://*.asktheman.xyz/*
+*://*.askvg.com/*
 *://*.asmarterchoice.org/*
+*://*.attorneys.media/*
 *://*.attractiondiary.com/*
 *://*.audiochamps.com/*
 *://*.audiocruiser.com/*
@@ -95,6 +105,7 @@
 *://*.automator.us/*
 *://*.auzhu.com/*
 *://*.avianenthusiast.com/*
+*://*.avoidroaming.com/*
 *://*.ayshz.com/*
 *://*.azg168.cn/*
 *://*.babypartyy.com/*
@@ -155,6 +166,8 @@
 *://*.butchermagazine.com/*
 *://*.buyiju.com/*
 *://*.buzzhand.com/*
+*://fortest.bwebs.com/*
+*://star.bwebs.com/*
 *://*.bxshb.com/*
 *://*.caihuadu.com/*
 *://*.caihuazhai.com/*
@@ -175,9 +188,12 @@
 *://*.changshizhan.com/*
 *://*.chaoshangfan.com/*
 *://*.chaoxiufan.com/*
+*://*.chatchat.com.tw/*
 *://*.chefaudio.com/*
 *://*.chefsecretsource.com/*
+*://*.chefsresource.com/*
 *://*.childtraumaacademy.org/*
+*://*.chinaamuse.com/*
 *://*.chinasspp.com/*
 *://*.chuangfudu.com/*
 *://*.chuangfuguan.com/*
@@ -196,6 +212,7 @@
 *://*.codemzy.com/*
 *://*.codewithrandom.com/*
 *://*.codinglap.com/*
+*://*.coffeethecanvas.com/*
 *://*.companieshistory.com/*
 *://*.computercity.com/*
 *://*.computerhope.com/*
@@ -287,6 +304,7 @@
 *://news.duote.com/*
 *://*.dzone.com/*
 *://*.e-methodstechnologies.com/*
+*://*.earth-site.co.uk/*
 *://*.easefab.com/*
 *://*.easyatm.com.tw/*
 *://*.easyfixpro.com/*
@@ -302,6 +320,7 @@
 *://*.ecywang.com/*
 *://*.edgar.hk/*
 *://*.educba.com/*
+*://*.eduedge.blog/*
 *://*.einsstark.tech/*
 *://*.electronicshub.org/*
 *://*.empireflippers.com/*
@@ -317,6 +336,7 @@
 *://*.esecurityplanet.com/*
 *://*.etechshout.com/*
 *://*.everydaypsy.com/*
+*://*.everyonedigital.com/*
 *://*.evrmag.com/*
 *://*.exchangemaster.ch/*
 *://*.exclaimer.com/*
@@ -339,13 +359,16 @@
 *://*.fanfanwen.com/*
 *://*.fanfanxue.com/*
 *://*.fanwencheng.com/*
+*://*.fashionuer.com/*
 *://*.fatburnerjournal.com/*
+*://*.favoritehairstyles.com/*
 *://*.faxinggu.com/*
 *://*.faxingguan.com/*
 *://*.faxingsj.com/*
 *://*.fcas.hk/*
 *://*.fdmall.hk/*
 *://*.fdssw.com/*
+*://*.feet-relief.com/*
 *://*.fencefixation.com/*
 *://*.finews.cc/*
 *://*.firstforwomen.com/*
@@ -380,6 +403,7 @@
 *://*.gadgets-reviews.com/*
 *://*.gadgetsranked.com/*
 *://*.gadgetstouse.com/*
+*://*.gamecratex.com/*
 *://*.gamegrinds.com/*
 *://*.gamepressure.com/*
 *://*.gameslikee.com/*
@@ -398,10 +422,12 @@
 *://*.geeksdigit.com/*
 *://*.geeksmodo.com/*
 *://*.geeky-gadgets.com/*
+*://*.getacademy.blog/*
 *://*.getdroidtips.com/*
 *://*.getit01.com/*
 *://*.ggfwb.com/*
 *://*.gglzw.com/*
+*://*.gildedlatte.com/*
 *://itsfoss.gitlab.io/*
 *://*.gizchina.com/*
 *://*.gkzyb.com/*
@@ -412,6 +438,7 @@
 *://*.gocasino.tw/*
 *://*.gohaveababy.com/*
 *://*.golinuxcloud.com/*
+*://*.golinuxhub.com/*
 *://*.gongluegu.com/*
 *://storage.googleapis.com/dagwnkejqzzfie/*
 *://storage.googleapis.com/darhdrdagmcobe/*
@@ -512,6 +539,7 @@
 *://*.greend.hk/*
 *://*.greenerinsights.com/*
 *://*.greenyplace.com/*
+*://*.greycoder.com/*
 *://*.groovypost.com/*
 *://*.grouphowto.com/*
 *://*.grownupgeek.com/*
@@ -533,7 +561,10 @@
 *://*.hadviser.com/*
 *://*.hairaide.com/*
 *://*.hairstylecamp.com/*
+*://*.hairstylecatalog.com/*
 *://*.hairstylehub.com/*
+*://*.hairstylesforhaircuts.com/*
+*://blog.halpas.com/*
 *://*.hamsters101.com/*
 *://*.happytify.cc/*
 *://*.hardreset.info/*
@@ -542,13 +573,16 @@
 *://*.harryvasanth.com/*
 *://wiredgorilla.hashnode.dev/*
 *://*.hatchjs.com/*
+*://*.hbmag.com/*
 *://*.hddfaqs.com/*
 *://*.headcurve.com/*
 *://*.health.com/*
+*://*.healthbenefitstimes.com/*
 *://*.healtheh.com/*
 *://*.healthfully.com/*
 *://*.healthline.com/*
 *://*.heatwhiz.com/*
+*://*.helloglow.co/*
 *://*.helpdeskgeek.com/*
 *://*.heymahjong.com/*
 *://*.hhbky.com/*
@@ -565,13 +599,16 @@
 *://*.homeefficiencyguide.com/*
 *://*.homegeargeek.com/*
 *://*.homenerdy.com/*
+*://*.homephysiotherapyexercises.com/*
 *://*.homezille.com/*
 *://*.hoopsaddict.com/*
 *://*.hoshyoga.org/*
+*://*.hospitalglob.com/*
 *://*.hotelcontractbeds.co.uk/blog/*
 *://*.hotelfandb.com/*
 *://*.housedigest.com/*
 *://*.how2shout.com/*
+*://*.howinthetech.com/*
 *://*.howtech.net/*
 *://*.howto-do.it/*
 *://*.howtoisolve.com/*
@@ -581,6 +618,7 @@
 *://*.huatu.com/*
 *://*.huifu.biz/*
 *://*.huratips.com/*
+*://*.hustlersdigest.com/*
 *://*.hvacseer.com/*
 *://*.i5apps.com/*
 *://*.ichhori.com/*
@@ -624,6 +662,7 @@
 *://*.iphonetricks.org/*
 *://*.iphonewired.com/*
 *://*.isitdev.com/*
+*://*.isuperman.tw/*
 *://*.it4nextgen.com/*
 *://*.itaewon.com.tw/*
 *://*.itchol.com/*
@@ -713,6 +752,7 @@
 *://*.latest-hairstyles.com/*
 *://*.laurenandvanessa.com/*
 *://*.leadershipstorybank.com/*
+*://*.leafyaquatics.com/*
 *://*.learnlanguagesfromhome.com/*
 *://*.learnprotips.com/*
 *://*.leatherious.com/*
@@ -763,12 +803,16 @@
 *://*.lo4d.com/*
 *://*.loginvsi.com/resources/blog/*
 *://*.loginwiz.com/*
+*://*.lokerroom.com/*
+*://*.londonexchainstore.co.uk/*
 *://*.londonsecrets.icu/*
 *://*.lookerideas.com/*
 *://*.lookerpets.com/*
 *://*.lookforward.cc/*
 *://*.lookforward.info/*
 *://*.lookit.tw/*
+*://*.looksgreatonme.com/*
+*://*.lovelyish.com/*
 *://*.lovemyonlinemarketing.com/*
 *://*.lsbkw.com/*
 *://*.luckystarry.com/*
@@ -785,7 +829,9 @@
 *://*.makeuseof.com/*
 *://*.makingschoolseasy.com.ng/*
 *://*.managertoday.com.tw/answer/*
+*://*.manuals.plus/qa/*
 *://*.marginbull.com/news/*
+*://*.markaicode.com/*
 *://*.marketclutch.com/*
 *://*.mashtips.com/*
 *://*.matrixbcg.com/*
@@ -804,6 +850,8 @@
 *://*.megtaza.com/*
 *://*.meifafan.com/*
 *://*.meiweizhan.com/*
+*://*.menshairstylesnow.com/*
+*://*.menshairstylestoday.com/*
 *://*.meowhoo.com/*
 *://*.metadataprivacy.com/*
 *://*.metapress.com/*
@@ -826,8 +874,10 @@
 *://*.mobigyaan.com/*
 *://*.mobile01.com/*
 *://*.mobileai.net/*
+*://*.mobileinternist.com/*
 *://*.mobiletechaddicts.com/*
 *://*.mobilityarena.com/*
+*://*.mochi-extend.com/*
 *://*.modengguan.com/*
 *://*.modengzhan.com/*
 *://*.moderngentlemanmagazine.com/*
@@ -853,17 +903,22 @@
 *://*.mundobytes.com/*
 *://*.mundurek.com/*
 *://*.musicone.com.hk/*
+*://*.muycomputerpro.com/*
 *://*.mwjyg.com/*
 *://*.mycomic.cc/*
 *://*.myhappythanks.com/*
 *://*.myhealthblogtips.com/*
+*://*.myhealthopedia.com/*
 *://*.mykitcheninspo.com/*
+*://*.myroami.com/*
+*://*.myspeakerfix.com/*
 *://*.myusernamelist.org/*
 *://*.nairaland.com/*
 *://*.nambanation.com/*
 *://*.nancyrayshop.com/*
 *://*.nanjuefeng.com/*
 *://*.napkforpc.com/*
+*://*.narodnatribuna.info/*
 *://*.navthemes.com/*
 *://*.ncesc.com/*
 *://*.nerdbot.com/*
@@ -886,6 +941,7 @@
 *://*.nobsimreviews.com/*
 *://*.nogomi.ru/*
 *://*.nokiapoweruser.com/*
+*://*.nongyaohao.com/*
 *://*.nontoxicblog.com/*
 *://*.notesuggest.com/*
 *://*.novessphoto.com/*
@@ -951,6 +1007,7 @@
 *://*.phonezik.net/*
 *://*.photoslover.com/*
 *://*.phrasemesh.com/*
+*://*.physical-therapy.us/*
 *://*.pickypens.com/*
 *://*.pickytop.com/*
 *://*.pieriantraining.com/*
@@ -968,6 +1025,7 @@
 *://*.popdaily.com.tw/*
 *://*.portal-god.com/*
 *://*.positioniseverything.net/*
+*://*.powerbankzone.com/*
 *://*.powersportsguide.com/*
 *://*.poynting.tech/articles/*
 *://*.ppfocus.com/*
@@ -976,6 +1034,7 @@
 *://*.practicallynetworked.com/*
 *://*.prajwaldesai.com/*
 *://*.predictiveanalyticstoday.com/*
+*://*.preggiepals.com/*
 *://*.premarketdaily.com/*
 *://*.prepmycareer.com/*
 *://*.prevention.com/*
@@ -1005,10 +1064,12 @@
 *://*.qwkpw.com/*
 *://*.qzbkw.com/*
 *://*.rad.hk/*
+*://*.rapidrepair.blog/*
 *://*.raspberrytips.com/*
 *://*.read01.com/*
 *://*.readability.com/*
 *://*.readytodiy.com/*
+*://*.realfishings.com/*
 *://*.realitytvrevisited.com/*
 *://*.realmenrealstyle.com/*
 *://*.realsimple.com/*
@@ -1017,8 +1078,10 @@
 *://*.remote.tools/*
 *://*.reolink.com/*
 *://*.repairwin.com/*
+*://*.reptile.guide/*
 *://*.reptilehere.com/*
 *://*.reptileknowledge.com/*
+*://*.reptilescare.com/*
 *://*.reptilestime.com/*
 *://*.requestletters.com/*
 *://*.resolutionacoustics.com/*
@@ -1052,9 +1115,11 @@
 *://*.samsungtechwin.com/*
 *://*.sarkariexam.com/*
 *://*.savorandsprinkle.com/*
+*://*.scalypal.com/*
 *://*.scantechy.com/*
 *://*.scholarsintel.com/*
 *://*.scienceabc.com/*
+*://*.scienceguru.blog/*
 *://*.sciencenewstoday.org/*
 *://*.sciencing.com/*
 *://*.scripturesavvy.com/*
@@ -1081,7 +1146,9 @@
 *://*.shishangdong.com/*
 *://*.shouchaobaoquan.com/*
 *://*.shoutmetech.com/*
+*://*.shrimptips.com/*
 *://*.shuomingshu.cn/*
+*://*.sigmastylist.com/*
 *://*.silicophilic.com/*
 *://blog.silverpc.hu/*
 *://*.simplified.guide/*
@@ -1105,6 +1172,7 @@
 *://*.smarthomereview.org/*
 *://*.smartpicked.com/*
 *://*.smyyj.com/*
+*://*.socialindicators.org.hk/*
 *://*.socialtalky.com/*
 *://*.softhandtech.com/*
 *://*.softstribe.com/*
@@ -1195,8 +1263,10 @@
 *://*.techbout.com/*
 *://*.techbrowser.co/*
 *://*.techbulletin.com/*
+*://*.techcognate.com/*
 *://*.techcommuters.com/*
 *://*.techconsumerguide.com/*
+*://*.techcornerhq.com/*
 *://*.techcult.com/*
 *://*.techdator.net/*
 *://*.techdetective.com/*
@@ -1227,6 +1297,7 @@
 *://*.technobezz.com/*
 *://*.technologycocoa.com/*
 *://*.technorms.com/*
+*://*.technowifi.com/*
 *://*.technoworldnews.com/*
 *://*.techosaurusrex.com/*
 *://*.techpathy.com/*
@@ -1266,6 +1337,7 @@
 *://*.techy.how/*
 *://*.techy.zone/*
 *://*.techychalkboard.com/*
+*://*.techyconcepts.com/*
 *://*.techyhost.com/*
 *://*.techyloud.com/*
 *://*.techyoulike.com/*
@@ -1310,6 +1382,7 @@
 *://*.theproperkitchen.com/*
 *://*.thequickadvisor.com/*
 *://*.therapidresponse.com/*
+*://*.thesacredscience.com/*
 *://*.thesoldiersproject.org/*
 *://*.thesourdoughsisters.com/*
 *://*.thespaceknowledge.com/*
@@ -1361,6 +1434,7 @@
 *://*.toptechytips.com/*
 *://*.toptenreviewed.com/*
 *://*.toptvtips.com/*
+*://*.totaltech.blog/*
 *://*.touchtapplay.com/*
 *://*.tovisorga.com/*
 *://*.tr-ex.me/*
@@ -1392,12 +1466,14 @@
 *://*.ubunlog.com/*
 *://*.ubuntubuzz.com/*
 *://*.ubuntumint.com/*
+*://*.uccvr.com/*
 *://*.uctoday.com/*
 *://*.ugetfix.com/*
 *://*.uho.com.tw/*
 *://*.ukconsumerwatch.com/*
 *://*.ukezhitan.com/*
 *://*.umatechnology.org/*
+*://*.unanswered.io/*
 *://*.undercodetesting.com/*
 *://*.unfinishedman.com/*
 *://*.unixtutorial.org/*
@@ -1419,6 +1495,7 @@
 *://*.verywellfit.com/*
 *://*.verywellhealth.com/*
 *://*.verywellmind.com/*
+*://*.vinhairvn.com/*
 *://*.vipinstabio.net/*
 *://*.viralane.com/*
 *://*.virtualizationhowto.com/*
@@ -1433,7 +1510,9 @@
 *://*.wangminggu.com/*
 *://*.wangmingguan.com/*
 *://*.wapzola.com/*
+*://*.wastefreeholidays.com/*
 *://*.wasteland3.info/*
+*://*.watermedia.org/*
 *://*.waxzz.com/*
 *://*.wbcomdesigns.com/*
 *://*.wccftech.com/*
@@ -1450,10 +1529,12 @@
 *://*.weheartthis.com/*
 *://*.weighteasyloss.com/*
 *://*.wellwisp.com/*
+*://*.welovepandas.org/*
 *://*.wethegeek.com/*
 *://*.wgpayscale.com/*
 *://*.whatsabyte.com/*
 *://*.whatvwant.com/*
+*://*.whbydcc.com/*
 *://*.which.co.uk/*
 *://*.whichsatnav.com/*
 *://*.whoismcafee.com/*
@@ -1497,8 +1578,10 @@
 *://*.woshub.com/*
 *://*.wpforcessl.com/*
 *://*.wpsauce.com/*
+*://*.wpvkp.com/*
 *://*.wvf.com.tw/*
 *://*.xaydungso.vn/*
+*://*.xfshangan.cn/*
 *://*.xingyunba.com/*
 *://*.xingzuo.life/*
 *://*.xingzuobibi.net/*
