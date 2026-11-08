@@ -1,24 +1,27 @@
 # Title: shitshield-poor-ugc
-# Last updated: 2026-08-26
+# Last updated: 2026-11-08
 # Homepage: https://github.com/fidelity-darkened/shitshield-ublacklist
 
 *://*.163.com/dy/article/*
 *://*.360doc.com/content/*
 *://*.51wendang.com/*
+*://*.answers.microsoft.com/*
 *://discussions.apple.com/*
+*://b2bwiki.baidu.com/article/*
 *://cp.baidu.com/*
 *://*.brainly.com/question/*
+*://eu.community.samsung.com/*
 *://askai.glarity.app/*
 *://support.google.com/*/thread/*
 *://*.linkedin.com/pulse/*
-*://techcommunity.microsoft.com/*
+*://post.m.smzdm.com/*
 *://learn.microsoft.com/*/answers/questions/*
-*://*.answers.microsoft.com/*
+*://techcommunity.microsoft.com/*
 *://*.numerade.com/ask/question/*
 *://*.pdfcoffee.com/*
 *://*.pinterest.com/*
 *://*.quora.com/*
-*://eu.community.samsung.com/*
+*://post.smzdm.com/p/*
 *://*.sohu.com/a/*
 *://jianghu.taobao.com/*
 *://*.techjockey.com/question/*
